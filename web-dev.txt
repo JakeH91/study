@@ -27,7 +27,7 @@ Order of Study:
   11/09/15  - VCS - Design - 3. What is 'Product'?
   11/09/15  - FCC - 3. Waypoint: Inform with the Paragraph Element
   - VCS - Design - 4. The Design Process
-  - UXA - Homepage
+  11/09/15  - UXA - Homepage
   - UXA - Discovery
   - UXA - Strategy
   - UXA - Design
