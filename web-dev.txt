@@ -14,12 +14,12 @@ Order of Study:
   09/09/15  - Learn - Git Quiz
   10/09/15  - TOP - Git Basics
   10/09/15  - VCS - Basics - 20. Git Calisthenics
-  10/09/15- VCS - Basics - 21. Test Yourself
-  - Learn - First Learn Lab
-  - VCS - Basics - Project - Getting Comfortable with Git and the Command Line
-  - VCS - Basics - 23. Review of Concepts
-  - VCS - Basics - 24. Where to Go From Here
-  - VCS - Design - 1. Welcome
+  10/09/15  - VCS - Basics - 21. Test Yourself
+  11/09/15  - Learn - First Learn Lab
+  11/09/15  - VCS - Basics - Project - Getting Comfortable with Git and the Command Line
+  11/09/15  - VCS - Basics - 23. Review of Concepts
+  11/09/15  - VCS - Basics - 24. Where to Go From Here
+  11/09/15  - VCS - Design - 1. Welcome
   - FCC - 1. HTML5 and CSS - 1. Waypoint: Say Hello to HTML Elements
   - VCS - Design - 2. A High Level Overview
   - FCC - 2. Waypoint: Headline with the h2 Element
