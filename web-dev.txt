@@ -23,7 +23,7 @@ Order of Study:
   11/09/15  - FCC - 1. HTML5 and CSS - 1. Waypoint: Say Hello to HTML Elements
   11/09/15  - VCS - Design - 2. A High Level Overview
   11/09/15  - FCC - 2. Waypoint: Headline with the h2 Element
-  - VCS - Design - 3. What is 'Product'?
+  11/09/15  - VCS - Design - 3. What is 'Product'?
   11/09/15  - FCC - 3. Waypoint: Inform with the Paragraph Element
   - VCS - Design - 4. The Design Process
   11/09/15  - FCC - 4. Waypoint: Uncomment HTML
