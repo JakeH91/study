@@ -26,7 +26,7 @@ Order of Study:
   - VCS - Design - 3. What is 'Product'?
   11/09/15  - FCC - 3. Waypoint: Inform with the Paragraph Element
   - VCS - Design - 4. The Design Process
-  - FCC - 4. Waypoint: Uncomment HTML
+  11/09/15  - FCC - 4. Waypoint: Uncomment HTML
   - VCS - Design - 5. How This Mini-Course Will Look
   - FCC - 5. Waypoint: Comment out HTML
   - TOP - Introduction to the Front End
