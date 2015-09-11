@@ -28,7 +28,7 @@ Order of Study:
   11/09/15  - FCC - 3. Waypoint: Inform with the Paragraph Element
   - VCS - Design - 4. The Design Process
   11/09/15  - UXA - Homepage
-  - UXA - Discovery
+  11/09/15  - UXA - Discovery
   - UXA - Strategy
   - UXA - Design
   11/09/15  - FCC - 4. Waypoint: Uncomment HTML
