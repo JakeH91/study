@@ -3,6 +3,7 @@ VCS = Viking Code School
 TOP = The Odin Project
 FCC = Free Code Camp
 CA  = Codecademy
+UXA = UX Apprentice
 
 Order of Study:
   06/09/15  - VCS - Basics - 17. Terms to Know
