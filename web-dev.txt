@@ -45,7 +45,7 @@ Order of Study:
   - TOP - jQuery  Basics
   12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
   - TOP - Project - JavaScript and jQuery
-  - FCC - 11. Waypoint: Style Multiple Elements with a CSS Class
+  12/09/15  - FCC - 11. Waypoint: Style Multiple Elements with a CSS Class
   - VCS - Design - 6. What is User Experience?
   - FCC - 12. Waypoint: Change the Font Size of an Element
   - VCS - Design - 7. Components of Good UX
