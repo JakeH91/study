@@ -49,7 +49,7 @@ Order of Study:
   - VCS - Design - 6. What is User Experience?
   12/09/15  - FCC - 12. Waypoint: Change the Font Size of an Element
   - VCS - Design - 7. Components of Good UX
-  - FCC - 13. Waypoint: Set the Font Family of an Element
+  12/09/15  - FCC - 13. Waypoint: Set the Font Family of an Element
   - VCS - Design - 8. Our Approach to UX
   - FCC - 14. Waypoint: Import a Google Font
   - VCS - Design - 9. Demo: A UX Teardown
