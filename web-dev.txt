@@ -30,7 +30,7 @@ Order of Study:
   11/09/15  - UXA - Homepage
   11/09/15  - UXA - Discovery
   12/09/15  - UXA - Strategy
-  - UXA - Design
+  12/09/15  - UXA - Design
   11/09/15  - FCC - 4. Waypoint: Uncomment HTML
   - VCS - Design - 5. How This Mini-Course Will Look
   11/09/15  - FCC - 5. Waypoint: Comment out HTML
