@@ -41,7 +41,7 @@ Order of Study:
   - TOP - Project - HTML/CSS
   12/09/15  - FCC - 8. Waypoint: Change the Color of Text
   - TOP - JavaScript Basics
-  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
+  12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
   - TOP - jQuery  Basics
   - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
   - TOP - Project - JavaScript and jQuery
