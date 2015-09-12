@@ -53,7 +53,7 @@ Order of Study:
   - VCS - Design - 8. Our Approach to UX
   12/09/15  - FCC - 14. Waypoint: Import a Google Font
   - VCS - Design - 9. Demo: A UX Teardown
-  - FCC - 15. Waypoint: Specify How Fonts Should Degrade
+  12/09/15  - FCC - 15. Waypoint: Specify How Fonts Should Degrade
   - VCS - Design - 10. Your Own UX Teardown
   - FCC - 16. Waypoint: Add Images to your Website
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
