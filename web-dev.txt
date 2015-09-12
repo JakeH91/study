@@ -47,7 +47,7 @@ Order of Study:
   - TOP - Project - JavaScript and jQuery
   12/09/15  - FCC - 11. Waypoint: Style Multiple Elements with a CSS Class
   - VCS - Design - 6. What is User Experience?
-  - FCC - 12. Waypoint: Change the Font Size of an Element
+  12/09/15  - FCC - 12. Waypoint: Change the Font Size of an Element
   - VCS - Design - 7. Components of Good UX
   - FCC - 13. Waypoint: Set the Font Family of an Element
   - VCS - Design - 8. Our Approach to UX
