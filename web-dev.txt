@@ -51,7 +51,7 @@ Order of Study:
   - VCS - Design - 7. Components of Good UX
   12/09/15  - FCC - 13. Waypoint: Set the Font Family of an Element
   - VCS - Design - 8. Our Approach to UX
-  - FCC - 14. Waypoint: Import a Google Font
+  12/09/15  - FCC - 14. Waypoint: Import a Google Font
   - VCS - Design - 9. Demo: A UX Teardown
   - FCC - 15. Waypoint: Specify How Fonts Should Degrade
   - VCS - Design - 10. Your Own UX Teardown
