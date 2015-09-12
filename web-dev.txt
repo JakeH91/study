@@ -29,7 +29,7 @@ Order of Study:
   - VCS - Design - 4. The Design Process
   11/09/15  - UXA - Homepage
   11/09/15  - UXA - Discovery
-  - UXA - Strategy
+  12/09/15  - UXA - Strategy
   - UXA - Design
   11/09/15  - FCC - 4. Waypoint: Uncomment HTML
   - VCS - Design - 5. How This Mini-Course Will Look
