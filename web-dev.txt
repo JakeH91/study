@@ -55,7 +55,7 @@ Order of Study:
   - VCS - Design - 9. Demo: A UX Teardown
   12/09/15  - FCC - 15. Waypoint: Specify How Fonts Should Degrade
   - VCS - Design - 10. Your Own UX Teardown
-  - FCC - 16. Waypoint: Add Images to your Website
+  13/09/15  - FCC - 16. Waypoint: Add Images to your Website
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
   - FCC - 17. Waypoint: Size your Images
   - TOP - The Back End (Ruby stuff, all 5 things)
