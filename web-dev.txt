@@ -57,7 +57,7 @@ Order of Study:
   - VCS - Design - 10. Your Own UX Teardown
   13/09/15  - FCC - 16. Waypoint: Add Images to your Website
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
-  - FCC - 17. Waypoint: Size your Images
+  13/09/15  - FCC - 17. Waypoint: Size your Images
   - TOP - The Back End (Ruby stuff, all 5 things)
   - FCC - 18. Waypoint: Add Borders Around your Elements
   - VCS - Design - Principles of Visual Design - 12-16
