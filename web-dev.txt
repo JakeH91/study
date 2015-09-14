@@ -71,7 +71,7 @@ Order of Study:
   14/09/15  - TP  - 2.1 Your First Web Page
   14/09/15  - TP  - 2.2 Finding a Proper Code Editor
   14/09/15  - TP  - 2.3 Lists
-  - TP  - 2.4 Parent-Child Relationships
+  14/09/15  - TP  - 2.4 Parent-Child Relationships
   - TP  - 2.5 Heading Tags
   - TP  - 2.6 Blockquotes
   - TP  - 2.7 Anchors
