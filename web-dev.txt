@@ -69,7 +69,7 @@ Order of Study:
   13/09/15  - FCC - 21. Waypoint: Link to External Pages with Anchor Elements
   14/09/15  - TP  - 1.1 Course Introduction
   14/09/15  - TP  - 2.1 Your First Web Page
-  - TP  - 2.2 Finding a Proper Code Editor
+  14/09/15  - TP  - 2.2 Finding a Proper Code Editor
   - TP  - 2.3 Lists
   - TP  - 2.4 Parent-Child Relationships
   - TP  - 2.5 Heading Tags
