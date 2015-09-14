@@ -66,6 +66,38 @@ Order of Study:
   13/09/15  - FCC - 20. Waypoint: Make Circular Images with a Border Radius
   - VCS - Design - Principles of Visual Design - 17-20
   13/09/15  - FCC - 21. Waypoint: Link to External Pages with Anchor Elements
+  - TP  - 1.1 Course Introduction
+  - TP  - 2.1 Your First Web Page
+  - TP  - 2.2 Finding a Proper Code Editor
+  - TP  - 2.3 Lists
+  - TP  - 2.4 Parent-Child Relationships
+  - TP  - 2.5 Heading Tags
+  - TP  - 2.6 Blockquotes
+  - TP  - 2.7 Anchors
+  - TP  - 3.1 Your First Stylesheet
+  - TP  - 3.2 Clean Project Structures
+  - TP  - 3.3 Images
+  - TP  - 3.4 The Necessity of Divs
+  - TP  - 3.5 IDs and Classes
+  - TP  - 3.6 An Assignment
+  - TP  - 3.7 Assignment Solutions
+  - TP  - 3.8 Floats, and a Simple Layout
+  - TP  - 4.1 Navigation Lists
+  - TP  - 4.2 An Introduction to Forms
+  - TP  - 4.3 Image Replacement
+  - TP  - 4.4 The Basics of Typography
+  - TP  - 4.5 The Difference Between Relative and Absolute Positioning
+  - TP  - 4.6 Reproduce a Website Fragment
+  - TP  - 4.7 The Importance of Validation
+  - TP  - 5.1 Zen Coding
+  - TP  - 5.2 Resets and Normalizing
+  - TP  - 5.3 CSS Frameworks
+  - TP  - 6.1 Creating the Markup
+  - TP  - 6.2 How to Slice a PSD
+  - TP  - 6.3 How to Create Snippets
+  - TP  - 6.4 The CSS For Our Website
+  - TP  - 6.5 Completing the Website
+  - TP  - 7.1 Conclusion
   - TOP - Additional Important Topics (Step 2 - 4)
   - FCC - 22. Waypoint: Nest an Anchor Element within a Paragraph
   - VCS - Design - Creating and Using Mockups 21-23
