@@ -73,7 +73,7 @@ Order of Study:
   14/09/15  - TP  - 2.3 Lists
   14/09/15  - TP  - 2.4 Parent-Child Relationships
   14/09/15  - TP  - 2.5 Heading Tags
-  - TP  - 2.6 Blockquotes
+  14/09/15  - TP  - 2.6 Blockquotes
   - TP  - 2.7 Anchors
   - TP  - 3.1 Your First Stylesheet
   - TP  - 3.2 Clean Project Structures
