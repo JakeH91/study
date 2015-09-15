@@ -79,7 +79,7 @@ Order of Study:
   15/09/15  - TP  - 3.2 Clean Project Structures
   15/09/15  - TP  - 3.3 Images
   15/09/15  - TP  - 3.4 The Necessity of Divs
-  - TP  - 3.5 IDs and Classes
+  15/09/15  - TP  - 3.5 IDs and Classes
   - TP  - 3.6 An Assignment
   - TP  - 3.7 Assignment Solutions
   - TP  - 3.8 Floats, and a Simple Layout
