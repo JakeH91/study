@@ -75,7 +75,7 @@ Order of Study:
   14/09/15  - TP  - 2.5 Heading Tags
   14/09/15  - TP  - 2.6 Blockquotes
   14/09/15  - TP  - 2.7 Anchors
-  - TP  - 3.1 Your First Stylesheet
+  15/09/15  - TP  - 3.1 Your First Stylesheet
   - TP  - 3.2 Clean Project Structures
   - TP  - 3.3 Images
   - TP  - 3.4 The Necessity of Divs
