@@ -87,7 +87,7 @@ Order of Study:
   16/09/15  - TP  - 4.2 An Introduction to Forms
   16/09/15  - TP  - 4.3 Image Replacement
   16/09/15  - TP  - 4.4 The Basics of Typography
-  - TP  - 4.5 The Difference Between Relative and Absolute Positioning
+  16/09/15  - TP  - 4.5 The Difference Between Relative and Absolute Positioning
   - TP  - 4.6 Reproduce a Website Fragment
   - TP  - 4.7 The Importance of Validation
   - TP  - 5.1 Zen Coding
