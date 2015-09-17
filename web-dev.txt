@@ -88,7 +88,7 @@ Order of Study:
   16/09/15  - TP  - 4.3 Image Replacement
   16/09/15  - TP  - 4.4 The Basics of Typography
   16/09/15  - TP  - 4.5 The Difference Between Relative and Absolute Positioning
-  - TP  - 4.6 Reproduce a Website Fragment
+  16/09/15  - TP  - 4.6 Reproduce a Website Fragment
   - TP  - 4.7 The Importance of Validation
   - TP  - 5.1 Zen Coding
   - TP  - 5.2 Resets and Normalizing
