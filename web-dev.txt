@@ -91,7 +91,7 @@ Order of Study:
   17/09/15  - TP  - 4.6 Reproduce a Website Fragment
   17/09/15  - TP  - 4.7 The Importance of Validation
   17/09/15  - TP  - 5.1 Zen Coding
-  - TP  - 5.2 Resets and Normalizing
+  17/09/15  - TP  - 5.2 Resets and Normalizing
   - TP  - 5.3 CSS Frameworks
   - TP  - 6.1 Creating the Markup
   - TP  - 6.2 How to Slice a PSD
