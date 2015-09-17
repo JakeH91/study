@@ -92,7 +92,7 @@ Order of Study:
   17/09/15  - TP  - 4.7 The Importance of Validation
   17/09/15  - TP  - 5.1 Zen Coding
   17/09/15  - TP  - 5.2 Resets and Normalizing
-  - TP  - 5.3 CSS Frameworks
+  17/09/15  - TP  - 5.3 CSS Frameworks
   - TP  - 6.1 Creating the Markup
   - TP  - 6.2 How to Slice a PSD
   - TP  - 6.3 How to Create Snippets
