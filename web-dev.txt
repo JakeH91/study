@@ -90,7 +90,7 @@ Order of Study:
   16/09/15  - TP  - 4.5 The Difference Between Relative and Absolute Positioning
   17/09/15  - TP  - 4.6 Reproduce a Website Fragment
   17/09/15  - TP  - 4.7 The Importance of Validation
-  - TP  - 5.1 Zen Coding
+  17/09/15  - TP  - 5.1 Zen Coding
   - TP  - 5.2 Resets and Normalizing
   - TP  - 5.3 CSS Frameworks
   - TP  - 6.1 Creating the Markup
