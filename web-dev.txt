@@ -108,7 +108,7 @@ Order of Study:
   - VCS - Design - Project + Conclusion 25-27
   18/09/15  - FCC - 25. Waypoint: Add Alt Text to an Image for Accessibility
   - TOP - Ruby - Basic Ruby (Step 1, 2 + Project)
-  - FCC - 26. Waypoint: Create a Bulleted Unordered List
+  18/09/15  - FCC - 26. Waypoint: Create a Bulleted Unordered List
   - CA  - Ruby - Introduction to Ruby
   - FCC - 27. Waypoint: Create an Ordered List
   - Learn - Intro To Ruby - Introduction
