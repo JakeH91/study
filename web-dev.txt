@@ -100,7 +100,7 @@ Order of Study:
   - TP  - 6.5 Completing the Website
   - TP  - 7.1 Conclusion
   - TOP - Additional Important Topics (Step 2 - 4)
-  - FCC - 22. Waypoint: Nest an Anchor Element within a Paragraph
+  18/09/15  - FCC - 22. Waypoint: Nest an Anchor Element within a Paragraph
   - VCS - Design - Creating and Using Mockups 21-23
   - FCC - 23. Waypoint: Make Dead Links using the Hash Symbol
   - TOP - Tying it All Together (Step 1 - 3)
