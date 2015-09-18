@@ -110,7 +110,7 @@ Order of Study:
   - TOP - Ruby - Basic Ruby (Step 1, 2 + Project)
   18/09/15  - FCC - 26. Waypoint: Create a Bulleted Unordered List
   - CA  - Ruby - Introduction to Ruby
-  - FCC - 27. Waypoint: Create an Ordered List
+  18/09/15  - FCC - 27. Waypoint: Create an Ordered List
   - Learn - Intro To Ruby - Introduction
   - FCC - 28. Waypoint: Create a Text Field
   - VCS - Software Engineering - Introduction 1-3
