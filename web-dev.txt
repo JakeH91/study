@@ -118,9 +118,9 @@ Order of Study:
   - TOP - Ruby - Basic Ruby (Step 3 + Project)
   19/09/15  - FCC - 30. Waypoint: Create a Form Element
   - CA  - Ruby - Control Flow in Ruby
-  - FCC - 31. Waypoint: Add a Submit Button to a Form
+  19/09/15  - FCC - 31. Waypoint: Add a Submit Button to a Form
   - Learn - Intro To Ruby - Variables And Methods
-  - FCC - 32. Waypoint: Use HTML5 to Require a Field
+  19/09/15  - FCC - 32. Waypoint: Use HTML5 to Require a Field
   - VCS - Software Engineering - Principles of Software Engineering 4-7
   - FCC - 33. Waypoint: Create a Set of Radio Buttons
   - TOP - Ruby - Intermediate Ruby (Step 1 + Project)
