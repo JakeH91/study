@@ -122,7 +122,7 @@ Order of Study:
   - Learn - Intro To Ruby - Variables And Methods
   19/09/15  - FCC - 32. Waypoint: Use HTML5 to Require a Field
   - VCS - Software Engineering - Principles of Software Engineering 4-7
-  - FCC - 33. Waypoint: Create a Set of Radio Buttons
+  19/09/15  - FCC - 33. Waypoint: Create a Set of Radio Buttons
   - TOP - Ruby - Intermediate Ruby (Step 1 + Project)
   - FCC - 34. Waypoint: Create a Set of Checkboxes
   - CA  - Ruby - Looping with Ruby
