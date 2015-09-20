@@ -93,7 +93,7 @@ Order of Study:
   17/09/15  - TP  - 5.1 Zen Coding
   17/09/15  - TP  - 5.2 Resets and Normalizing
   17/09/15  - TP  - 5.3 CSS Frameworks
-  - TP  - 6.1 Creating the Markup
+  20/09/15  - TP  - 6.1 Creating the Markup
   - TP  - 6.2 How to Slice a PSD
   - TP  - 6.3 How to Create Snippets
   - TP  - 6.4 The CSS For Our Website
