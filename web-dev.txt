@@ -124,7 +124,7 @@ Order of Study:
   - VCS - Software Engineering - Principles of Software Engineering 4-7
   19/09/15  - FCC - 33. Waypoint: Create a Set of Radio Buttons
   - TOP - Ruby - Intermediate Ruby (Step 1 + Project)
-  - FCC - 34. Waypoint: Create a Set of Checkboxes
+  22/09/15  - FCC - 34. Waypoint: Create a Set of Checkboxes
   - CA  - Ruby - Looping with Ruby
   - FCC - 35. Waypoint: Check Radio Buttons and Checkboxes by Default
   - Learn - Intro To Ruby - Simple Math
