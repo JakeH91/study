@@ -127,7 +127,7 @@ Order of Study:
   22/09/15  - FCC - 34. Waypoint: Create a Set of Checkboxes
   23/09/15  - TP  - Box 1.1 Introduction
   23/09/15  - TP  - Box 2.1 Box Model Basics
-  - TP  - Box 2.2 Chrome and the Box Model
+  23/09/15  - TP  - Box 2.2 Chrome and the Box Model
   - TP  - Box 2.3 Full-Width Boxes
   - TP  - Box 2.4 Boxes and Columns
   - TP  - Box 2.5 Positioning and Floats
