@@ -131,7 +131,7 @@ Order of Study:
   23/09/15  - TP  - Box 2.3 Full-Width Boxes
   23/09/15  - TP  - Box 2.4 Boxes and Columns
   24/09/15  - TP  - Box 2.5 Positioning and Floats
-  - TP  - Box 2.6 Inline Elements
+  24/09/15  - TP  - Box 2.6 Inline Elements
   - TP  - Box 2.7 Box-Sizing
   - TP  - Box 3.1 Final Thoughts
   - CA  - Ruby - Looping with Ruby
