@@ -133,7 +133,7 @@ Order of Study:
   24/09/15  - TP  - Box 2.5 Positioning and Floats
   24/09/15  - TP  - Box 2.6 Inline Elements
   24/09/15  - TP  - Box 2.7 Box-Sizing
-  - TP  - Box 3.1 Final Thoughts
+  24/09/15  - TP  - Box 3.1 Final Thoughts
   - CA  - Ruby - Looping with Ruby
   - FCC - 35. Waypoint: Check Radio Buttons and Checkboxes by Default
   - Learn - Intro To Ruby - Simple Math
