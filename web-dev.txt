@@ -191,7 +191,7 @@ Order of Study:
   - TOP - Ruby - Conclusion (Project + Step 1)
   03/10/15  - FCC - 62. Waypoint: Use Abbreviated Hex Code
   - CA  - Ruby - Object-Oriented Programming, Part II
-  - FCC - 63. Waypoint: Use RGB values to Color Elements 
+  03/10/15  - FCC - 63. Waypoint: Use RGB values to Color Elements 
   - Learn - Intro To Ruby - More On Hashes
   - FCC - 64. Waypoint: Use RGB to Color Elements White
   - VCS - Markup and Coding - Project
