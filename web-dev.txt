@@ -137,7 +137,7 @@ Order of Study:
   - CA  - Ruby - Looping with Ruby
   03/10/15  - FCC - 35. Waypoint: Check Radio Buttons and Checkboxes by Default
   - Learn - Intro To Ruby - Simple Math
-  - FCC - 36. Waypoint: Nest Many Elements within a Single Div Element
+  03/10/15  - FCC - 36. Waypoint: Nest Many Elements within a Single Div Element
   - VCS - Software Engineering - Introduction to Agile Development 8-11
   - FCC - 37. Waypoint: Give a Background Color to a Div Element
   - TOP - Ruby - Intermediate Ruby (Step 2 + Project)
