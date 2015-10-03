@@ -187,7 +187,7 @@ Order of Study:
   - Learn - Intro To Ruby - Intro To Hashes
   03/10/15  - FCC - 60. Waypoint: Use Hex Code to Color Elements Gray
   - VCS - Markup and Coding - Markup with HTML and CSS 4-9
-  - FCC - 61. Waypoint: Use Hex Code for Specific Shades of Gray
+  03/10/15  - FCC - 61. Waypoint: Use Hex Code for Specific Shades of Gray
   - TOP - Ruby - Conclusion (Project + Step 1)
   - FCC - 62. Waypoint: Use Abbreviated Hex Code
   - CA  - Ruby - Object-Oriented Programming, Part II
