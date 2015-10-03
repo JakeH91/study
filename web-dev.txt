@@ -159,7 +159,7 @@ Order of Study:
   - TOP - Ruby - A Bit of Computer Science (Step 1, 2 + Project)
   03/10/15  - FCC - 46. Waypoint: Use Clockwise Notation to Specify the Margin of an Element
   - CA  - Ruby - Hashes and Symbols
-  - FCC - 47. Waypoint: Style the HTML Body Element
+  03/10/15  - FCC - 47. Waypoint: Style the HTML Body Element
   - Learn - Intro To Ruby - Looping
   - FCC - 48. Waypoint: Inherit Styles from the Body Element
   - VCS - Software Engineering - Psuedocoding... 19-22
