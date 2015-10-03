@@ -151,7 +151,7 @@ Order of Study:
   - TOP - Ruby - Ruby on the Web (Step 1 + Project)
   03/10/15  - FCC - 42. Waypoint: Add a Negative Margin to an Element
   - CA  - Ruby - Blocks and Sorting
-  - FCC - 43. Waypoint: Add Different Padding to Each Side of an Element
+  03/10/15  - FCC - 43. Waypoint: Add Different Padding to Each Side of an Element
   - Learn - Intro To Ruby - Conditionals
   - FCC - 44. Waypoint: Add Different Margins to Each Side of an Element
   - VCS - Software Engineering - Pseudocoding... 15-18
