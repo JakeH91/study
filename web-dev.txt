@@ -193,7 +193,7 @@ Order of Study:
   - CA  - Ruby - Object-Oriented Programming, Part II
   03/10/15  - FCC - 63. Waypoint: Use RGB values to Color Elements 
   - Learn - Intro To Ruby - More On Hashes
-  - FCC - 64. Waypoint: Use RGB to Color Elements White
+  03/10/15  - FCC - 64. Waypoint: Use RGB to Color Elements White
   - VCS - Markup and Coding - Project
   - FCC - 65. Waypoint: Use RGB to Color Elements Red
   - Learn - Intro To Ruby - Your First Application
