@@ -147,7 +147,7 @@ Order of Study:
   - Learn - Intro To Ruby - Booleans
   03/10/15  - FCC - 40. Waypoint: Adjusting the Padding of an Element
   - VCS - Software Engineering - Introduction to Agile Development 12-14
-  - FCC - 41. Waypoint: Adjust the Margin of an Element
+  03/10/15  - FCC - 41. Waypoint: Adjust the Margin of an Element
   - TOP - Ruby - Ruby on the Web (Step 1 + Project)
   - FCC - 42. Waypoint: Add a Negative Margin to an Element
   - CA  - Ruby - Blocks and Sorting
