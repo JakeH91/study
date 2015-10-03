@@ -173,7 +173,7 @@ Order of Study:
   - VCS - Software Engineering - Project + Conclusion 24-26
   03/10/15  - FCC - 53. Waypoint: Override All Other Styles by using Important
   - TOP - Ruby - Testing Ruby with RSpec (Step 1 + Project)
-  - FCC - 54. Waypoint: Use Hex Code for Specific Colors
+  03/10/15  - FCC - 54. Waypoint: Use Hex Code for Specific Colors
   - CA  - Ruby - Blocks, Procs and Lambda
   - FCC - 55. Waypoint: Use Hex Code to Color Elements White
   - Learn - Intro To Ruby - Enumerables
