@@ -165,7 +165,7 @@ Order of Study:
   - VCS - Software Engineering - Psuedocoding... 19-22
   03/10/15  - FCC - 49. Waypoint: Prioritize One Style Over Another
   - TOP - Ruby - A Bit of Computer Science (Step 3 + Project)
-  - FCC - 50. Waypoint: Override Styles in Subsequent CSS
+  03/10/15  - FCC - 50. Waypoint: Override Styles in Subsequent CSS
   - CA  - Ruby - Refactoring
   - FCC - 51. Waypoint: Override Class Declarations by Styling ID Attributes
   - Learn - Intro To Ruby - Arrays And Iteration
