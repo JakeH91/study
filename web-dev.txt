@@ -155,7 +155,7 @@ Order of Study:
   - Learn - Intro To Ruby - Conditionals
   03/10/15  - FCC - 44. Waypoint: Add Different Margins to Each Side of an Element
   - VCS - Software Engineering - Pseudocoding... 15-18
-  - FCC - 45. Waypoint: Use Clockwise Notation to Specify the Padding of an Element
+  03/10/15  - FCC - 45. Waypoint: Use Clockwise Notation to Specify the Padding of an Element
   - TOP - Ruby - A Bit of Computer Science (Step 1, 2 + Project)
   - FCC - 46. Waypoint: Use Clockwise Notation to Specify the Margin of an Element
   - CA  - Ruby - Hashes and Symbols
