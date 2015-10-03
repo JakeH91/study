@@ -195,7 +195,7 @@ Order of Study:
   - Learn - Intro To Ruby - More On Hashes
   03/10/15  - FCC - 64. Waypoint: Use RGB to Color Elements White
   - VCS - Markup and Coding - Project
-  - FCC - 65. Waypoint: Use RGB to Color Elements Red
+  03/10/15  - FCC - 65. Waypoint: Use RGB to Color Elements Red
   - Learn - Intro To Ruby - Your First Application
   - FCC - 66. Waypoint: Use RGB to Color Elements Green
   - VCS - Markup and Coding - Getting Started with Ruby 11-15
