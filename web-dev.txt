@@ -179,7 +179,7 @@ Order of Study:
   - Learn - Intro To Ruby - Enumerables
   03/10/15  - FCC - 56. Waypoint: Use Hex Code to Color Elements Red
   - VCS - Markup and Coding - Introduction 1-3
-  - FCC - 57. Waypoint: Use Hex Code to Color Elements Green
+  03/10/15  - FCC - 57. Waypoint: Use Hex Code to Color Elements Green
   - TOP - Ruby - Git (Step 1, 2)
   - FCC - 58. Waypoint: Use Hex Code to Color Elements Blue
   - CA  - Ruby - Object-Oriented Programming, Part I
