@@ -175,7 +175,7 @@ Order of Study:
   - TOP - Ruby - Testing Ruby with RSpec (Step 1 + Project)
   03/10/15  - FCC - 54. Waypoint: Use Hex Code for Specific Colors
   - CA  - Ruby - Blocks, Procs and Lambda
-  - FCC - 55. Waypoint: Use Hex Code to Color Elements White
+  03/10/15  - FCC - 55. Waypoint: Use Hex Code to Color Elements White
   - Learn - Intro To Ruby - Enumerables
   - FCC - 56. Waypoint: Use Hex Code to Color Elements Red
   - VCS - Markup and Coding - Introduction 1-3
