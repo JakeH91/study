@@ -161,7 +161,7 @@ Order of Study:
   - CA  - Ruby - Hashes and Symbols
   03/10/15  - FCC - 47. Waypoint: Style the HTML Body Element
   - Learn - Intro To Ruby - Looping
-  - FCC - 48. Waypoint: Inherit Styles from the Body Element
+  03/10/15  - FCC - 48. Waypoint: Inherit Styles from the Body Element
   - VCS - Software Engineering - Psuedocoding... 19-22
   - FCC - 49. Waypoint: Prioritize One Style Over Another
   - TOP - Ruby - A Bit of Computer Science (Step 3 + Project)
