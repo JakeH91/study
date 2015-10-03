@@ -149,7 +149,7 @@ Order of Study:
   - VCS - Software Engineering - Introduction to Agile Development 12-14
   03/10/15  - FCC - 41. Waypoint: Adjust the Margin of an Element
   - TOP - Ruby - Ruby on the Web (Step 1 + Project)
-  - FCC - 42. Waypoint: Add a Negative Margin to an Element
+  03/10/15  - FCC - 42. Waypoint: Add a Negative Margin to an Element
   - CA  - Ruby - Blocks and Sorting
   - FCC - 43. Waypoint: Add Different Padding to Each Side of an Element
   - Learn - Intro To Ruby - Conditionals
