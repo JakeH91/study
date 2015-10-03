@@ -171,7 +171,7 @@ Order of Study:
   - Learn - Intro To Ruby - Arrays And Iteration
   03/10/15  - FCC - 52. Waypoint: Override Class Declarations with Inline Styles
   - VCS - Software Engineering - Project + Conclusion 24-26
-  - FCC - 53. Waypoint: Override All Other Styles by using Important
+  03/10/15  - FCC - 53. Waypoint: Override All Other Styles by using Important
   - TOP - Ruby - Testing Ruby with RSpec (Step 1 + Project)
   - FCC - 54. Waypoint: Use Hex Code for Specific Colors
   - CA  - Ruby - Blocks, Procs and Lambda
