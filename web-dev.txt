@@ -153,7 +153,7 @@ Order of Study:
   - CA  - Ruby - Blocks and Sorting
   03/10/15  - FCC - 43. Waypoint: Add Different Padding to Each Side of an Element
   - Learn - Intro To Ruby - Conditionals
-  - FCC - 44. Waypoint: Add Different Margins to Each Side of an Element
+  03/10/15  - FCC - 44. Waypoint: Add Different Margins to Each Side of an Element
   - VCS - Software Engineering - Pseudocoding... 15-18
   - FCC - 45. Waypoint: Use Clockwise Notation to Specify the Padding of an Element
   - TOP - Ruby - A Bit of Computer Science (Step 1, 2 + Project)
