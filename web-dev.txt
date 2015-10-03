@@ -201,7 +201,7 @@ Order of Study:
   - VCS - Markup and Coding - Getting Started with Ruby 11-15
   03/10/15  - FCC - 67. Waypoint: Use RGB to Color Elements Blue
   - Learn - Intro To Ruby - BONUS - Advanced Hashes
-  - FCC - 68. Waypoint: Use RGB to Mix Colors
+  03/10/15  - FCC - 68. Waypoint: Use RGB to Mix Colors
   - VCS - Markup and Coding - Getting Started with Ruby 16-17 + Project
   - FCC - 69. Waypoint: Use RGB to Color Elements Gray
   - VCS - Markup and Coding - Conclusion 19-20
