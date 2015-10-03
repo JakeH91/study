@@ -183,7 +183,7 @@ Order of Study:
   - TOP - Ruby - Git (Step 1, 2)
   03/10/15  - FCC - 58. Waypoint: Use Hex Code to Color Elements Blue
   - CA  - Ruby - Object-Oriented Programming, Part I
-  - FCC - 59. Waypoint: Use Hex Code to Mix Colors
+  03/10/15  - FCC - 59. Waypoint: Use Hex Code to Mix Colors
   - Learn - Intro To Ruby - Intro To Hashes
   - FCC - 60. Waypoint: Use Hex Code to Color Elements Gray
   - VCS - Markup and Coding - Markup with HTML and CSS 4-9
