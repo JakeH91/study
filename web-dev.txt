@@ -139,7 +139,7 @@ Order of Study:
   - Learn - Intro To Ruby - Simple Math
   03/10/15  - FCC - 36. Waypoint: Nest Many Elements within a Single Div Element
   - VCS - Software Engineering - Introduction to Agile Development 8-11
-  - FCC - 37. Waypoint: Give a Background Color to a Div Element
+  03/10/15  - FCC - 37. Waypoint: Give a Background Color to a Div Element
   - TOP - Ruby - Intermediate Ruby (Step 2 + Project)
   - FCC - 38. Waypoint: Set the ID of an Element
   - CA  - Ruby - Array and Hashes
