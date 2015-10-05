@@ -42,6 +42,22 @@ Order of Study:
   02/10/15  - TOP - Project - HTML/CSS
   12/09/15  - FCC - 8. Waypoint: Change the Color of Text
   - TOP - JavaScript Basics
+  - CA  - Introduction to JavaScript 1
+  - CA  - Introduction to JavaScript 2
+  - CA  - Functions 1
+  - CA  - Functions 2
+  - CA  - 'For' Loops in JavaScript 1
+  - CA  - 'For' Loops in JavaScript 2
+  - CA  - 'While' Loops in JavaScript 1
+  - CA  - 'While' Loops in JavaScript 2
+  - CA  - Control Flow 1
+  - CA  - Control Flow 2
+  - CA  - Data Structures 1
+  - CA  - Data Structures 2
+  - CA  - Objects I 1
+  - CA  - Objects I 2
+  - CA  - Objects II 1
+  - CA  - Objects II 2
   12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
   - TOP - jQuery  Basics
   12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
