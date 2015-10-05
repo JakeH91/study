@@ -67,7 +67,7 @@ Order of Study:
   13/09/15  - FCC - 20. Waypoint: Make Circular Images with a Border Radius
   - VCS - Design - Principles of Visual Design - 17-20
   13/09/15  - FCC - 21. Waypoint: Link to External Pages with Anchor Elements
-  14/09/15  - TP  - 1.1 Course Introduction
+  14/09/15  - TP  - "30 Days to Learn HTML & CSS" 1.1 Course Introduction
   14/09/15  - TP  - 2.1 Your First Web Page
   14/09/15  - TP  - 2.2 Finding a Proper Code Editor
   14/09/15  - TP  - 2.3 Lists
@@ -125,7 +125,7 @@ Order of Study:
   19/09/15  - FCC - 33. Waypoint: Create a Set of Radio Buttons
   - TOP - Ruby - Intermediate Ruby (Step 1 + Project)
   22/09/15  - FCC - 34. Waypoint: Create a Set of Checkboxes
-  23/09/15  - TP  - Box 1.1 Introduction
+  23/09/15  - TP  - "Understanding the CSS Box Model" Box 1.1 Introduction
   23/09/15  - TP  - Box 2.1 Box Model Basics
   23/09/15  - TP  - Box 2.2 Chrome and the Box Model
   23/09/15  - TP  - Box 2.3 Full-Width Boxes
