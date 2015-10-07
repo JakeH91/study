@@ -6,6 +6,7 @@ CA  = Codecademy
 UXA = UX Apprentice
 TP  = Tuts Plus
 PE  = Project Euler
+CS  = Code School
 
 Order of Study:
   06/09/15  - VCS - Basics - 17. Terms to Know
@@ -64,6 +65,11 @@ Order of Study:
   - PE  - Project 3: Largest prime factor
   - TOP - JavaScript Basics  
   12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
+  - CA  - Introducing jQuery
+  - CA  - jQuery Functions
+  - CA  - Dynamic HTML
+  - CA  - jQuery Events
+  - CA  - jQuery Effects
   - TOP - jQuery  Basics
   12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
   - TOP - Project - JavaScript and jQuery
