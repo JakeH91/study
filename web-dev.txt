@@ -41,7 +41,6 @@ Order of Study:
   12/09/15  - FCC - 7. Waypoint: Delete HTML Elements
   02/10/15  - TOP - Project - HTML/CSS
   12/09/15  - FCC - 8. Waypoint: Change the Color of Text
-  - TOP - JavaScript Basics
   - CA  - Introduction to JavaScript 1
   - CA  - Introduction to JavaScript 2
   - CA  - Functions 1
@@ -58,6 +57,8 @@ Order of Study:
   - CA  - Objects I 2
   - CA  - Objects II 1
   - CA  - Objects II 2
+  - CA  - Code Your Own Adventure (JS)
+  - TOP - JavaScript Basics  
   12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
   - TOP - jQuery  Basics
   12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
