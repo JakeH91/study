@@ -5,6 +5,7 @@ FCC = Free Code Camp
 CA  = Codecademy
 UXA = UX Apprentice
 TP  = Tuts Plus
+PE  = Project Euler
 
 Order of Study:
   06/09/15  - VCS - Basics - 17. Terms to Know
@@ -58,6 +59,9 @@ Order of Study:
   - CA  - Objects II 1
   - CA  - Objects II 2
   - CA  - Code Your Own Adventure (JS)
+  - PE  - Project 1: Multiples of 3 and 5
+  - PE  - Project 2: Even Fibonacci numbers
+  - PE  - Project 3: Largest prime factor
   - TOP - JavaScript Basics  
   12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
   - TOP - jQuery  Basics
