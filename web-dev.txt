@@ -43,7 +43,7 @@ Order of Study:
   12/09/15  - FCC - 7. Waypoint: Delete HTML Elements
   02/10/15  - TOP - Project - HTML/CSS
   12/09/15  - FCC - 8. Waypoint: Change the Color of Text
-  - CA  - Introduction to JavaScript 1
+  09/10/15  - CA  - Introduction to JavaScript 1
   - CA  - Introduction to JavaScript 2
   - CA  - Functions 1
   - CA  - Functions 2
