@@ -44,7 +44,7 @@ Order of Study:
   02/10/15  - TOP - Project - HTML/CSS
   12/09/15  - FCC - 8. Waypoint: Change the Color of Text
   09/10/15  - CA  - Introduction to JavaScript 1
-  - CA  - Introduction to JavaScript 2
+  09/10/15  - CA  - Introduction to JavaScript 2
   - CA  - Functions 1
   - CA  - Functions 2
   - CA  - 'For' Loops in JavaScript 1
@@ -59,7 +59,6 @@ Order of Study:
   - CA  - Objects I 2
   - CA  - Objects II 1
   - CA  - Objects II 2
-  - CA  - Code Your Own Adventure (JS)
   - PE  - Project 1: Multiples of 3 and 5
   - PE  - Project 2: Even Fibonacci numbers
   - PE  - Project 3: Largest prime factor
