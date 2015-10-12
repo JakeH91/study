@@ -20,11 +20,13 @@ Order of Study:
   10/09/15  - VCS - Basics - 20. Git Calisthenics
   10/09/15  - VCS - Basics - 21. Test Yourself
   11/09/15  - Learn - First Learn Lab
-  11/09/15  - VCS - Basics - Project - Getting Comfortable with Git and the Command Line
+  11/09/15  - VCS - Basics - Project - Getting Comfortable with Git 
+                      and the Command Line
   11/09/15  - VCS - Basics - 23. Review of Concepts
   11/09/15  - VCS - Basics - 24. Where to Go From Here
   11/09/15  - VCS - Design - 1. Welcome
-  11/09/15  - FCC - 1. HTML5 and CSS - 1. Waypoint: Say Hello to HTML Elements
+  11/09/15  - FCC - 1. HTML5 and CSS - 1. Waypoint: Say Hello to 
+                        HTML Elements
   11/09/15  - VCS - Design - 2. A High Level Overview
   11/09/15  - FCC - 2. Waypoint: Headline with the h2 Element
   11/09/15  - VCS - Design - 3. What is 'Product'?
@@ -38,11 +40,138 @@ Order of Study:
   12/09/15  - VCS - Design - 5. How This Mini-Course Will Look
   11/09/15  - FCC - 5. Waypoint: Comment out HTML
   12/09/15  - TOP - Introduction to the Front End
-  12/09/15  - FCC - 6. Waypoint: Fill in the Blank with Placeholder Text
-  24/09/15  - TOP - HTML and CSS Basics
+  12/09/15  - FCC - 6. Waypoint: Fill in the Blank with Placeholder 
+                        Text
   12/09/15  - FCC - 7. Waypoint: Delete HTML Elements
-  02/10/15  - TOP - Project - HTML/CSS
   12/09/15  - FCC - 8. Waypoint: Change the Color of Text
+  12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
+  12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
+  12/09/15  - FCC - 11. Waypoint: Style Multiple Elements with a CSS 
+                        Class
+  12/09/15  - FCC - 12. Waypoint: Change the Font Size of an Element
+  12/09/15  - FCC - 13. Waypoint: Set the Font Family of an Element
+  12/09/15  - FCC - 14. Waypoint: Import a Google Font
+  12/09/15  - FCC - 15. Waypoint: Specify How Fonts Should Degrade  
+  13/09/15  - FCC - 16. Waypoint: Add Images to your Website
+  13/09/15  - FCC - 17. Waypoint: Size your Images
+  13/09/15  - FCC - 18. Waypoint: Add Borders Around your Elements
+  13/09/15  - FCC - 19. Waypoint: Add Rounded Corners with a Border  
+                        Radius
+  13/09/15  - FCC - 20. Waypoint: Make Circular Images with a Border 
+                        Radius
+  13/09/15  - FCC - 21. Waypoint: Link to External Pages with Anchor 
+                        Elements
+  14/09/15  - TP  - "30 Days to Learn HTML & CSS" 1.1 Course 
+                      Introduction
+  14/09/15  - TP  - 2.1 Your First Web Page
+  14/09/15  - TP  - 2.2 Finding a Proper Code Editor
+  14/09/15  - TP  - 2.3 Lists
+  14/09/15  - TP  - 2.4 Parent-Child Relationships
+  14/09/15  - TP  - 2.5 Heading Tags
+  14/09/15  - TP  - 2.6 Blockquotes
+  14/09/15  - TP  - 2.7 Anchors
+  15/09/15  - TP  - 3.1 Your First Stylesheet
+  15/09/15  - TP  - 3.2 Clean Project Structures
+  15/09/15  - TP  - 3.3 Images
+  15/09/15  - TP  - 3.4 The Necessity of Divs
+  15/09/15  - TP  - 3.5 IDs and Classes
+  15/09/15  - TP  - 3.6 An Assignment
+  15/09/15  - TP  - 3.7 Assignment Solutions
+  15/09/15  - TP  - 3.8 Floats, and a Simple Layout
+  16/09/15  - TP  - 4.1 Navigation Lists
+  16/09/15  - TP  - 4.2 An Introduction to Forms
+  16/09/15  - TP  - 4.3 Image Replacement
+  16/09/15  - TP  - 4.4 The Basics of Typography
+  16/09/15  - TP  - 4.5 The Difference Between Relative and Absolute 
+                        Positioning
+  17/09/15  - TP  - 4.6 Reproduce a Website Fragment
+  17/09/15  - TP  - 4.7 The Importance of Validation
+  17/09/15  - TP  - 5.1 Zen Coding
+  17/09/15  - TP  - 5.2 Resets and Normalizing
+  17/09/15  - TP  - 5.3 CSS Frameworks
+  18/09/15  - FCC - 22. Waypoint: Nest an Anchor Element within a 
+                        Paragraph
+  18/09/15  - FCC - 23. Waypoint: Make Dead Links using the Hash 
+                        Symbol
+  18/09/15  - FCC - 24. Waypoint: Turn an Image into a Link
+  18/09/15  - FCC - 25. Waypoint: Add Alt Text to an Image for 
+                        Accessibility
+  18/09/15  - FCC - 26. Waypoint: Create a Bulleted Unordered List
+  18/09/15  - FCC - 27. Waypoint: Create an Ordered List
+  19/09/15  - FCC - 28. Waypoint: Create a Text Field
+  19/09/15  - FCC - 29. Waypoint: Add Placeholder Text to a Text 
+                        Field
+  19/09/15  - FCC - 30. Waypoint: Create a Form Element
+  19/09/15  - FCC - 31. Waypoint: Add a Submit Button to a Form
+  19/09/15  - FCC - 32. Waypoint: Use HTML5 to Require a Field
+  19/09/15  - FCC - 33. Waypoint: Create a Set of Radio Buttons
+  20/09/15  - TP  - 6.1 Creating the Markup
+  20/09/15  - TP  - 6.2 How to Slice a PSD
+  20/09/15  - TP  - 6.3 How to Create Snippets
+  21/09/15  - TP  - 6.4 The CSS For Our Website
+  22/09/15  - FCC - 34. Waypoint: Create a Set of Checkboxes
+  23/09/15  - TP  - "Understanding the CSS Box Model" Box 1.1 
+                      Introduction
+  23/09/15  - TP  - Box 2.1 Box Model Basics
+  23/09/15  - TP  - Box 2.2 Chrome and the Box Model
+  23/09/15  - TP  - Box 2.3 Full-Width Boxes
+  23/09/15  - TP  - Box 2.4 Boxes and Columns
+  24/09/15  - TP  - Box 2.5 Positioning and Floats
+  24/09/15  - TP  - Box 2.6 Inline Elements
+  24/09/15  - TP  - Box 2.7 Box-Sizing
+  24/09/15  - TP  - Box 3.1 Final Thoughts
+  24/09/15  - TOP - HTML and CSS Basics
+  02/10/15  - TOP - Project - HTML/CSS
+  03/10/15  - FCC - 35. Waypoint: Check Radio Buttons and Checkboxes 
+                        by Default
+  03/10/15  - FCC - 36. Waypoint: Nest Many Elements within a Single 
+                        Div Element
+  03/10/15  - FCC - 37. Waypoint: Give a Background Color to a Div 
+                        Element
+  03/10/15  - FCC - 38. Waypoint: Set the ID of an Element
+  03/10/15  - FCC - 39. Waypoint: Use an ID Attribute to Style an 
+                        Element
+  03/10/15  - FCC - 40. Waypoint: Adjusting the Padding of an Element
+  03/10/15  - FCC - 41. Waypoint: Adjust the Margin of an Element
+  03/10/15  - FCC - 42. Waypoint: Add a Negative Margin to an Element
+  03/10/15  - FCC - 43. Waypoint: Add Different Padding to Each Side 
+                        of an Element
+  03/10/15  - FCC - 44. Waypoint: Add Different Margins to Each Side 
+                        of an Element
+  03/10/15  - FCC - 45. Waypoint: Use Clockwise Notation to Specify  
+                        the Padding of an Element
+  03/10/15  - FCC - 46. Waypoint: Use Clockwise Notation to Specify 
+                        the Margin of an Element
+  03/10/15  - FCC - 47. Waypoint: Style the HTML Body Element
+  03/10/15  - FCC - 48. Waypoint: Inherit Styles from the Body 
+                        Element
+  03/10/15  - FCC - 49. Waypoint: Prioritize One Style Over Another
+  03/10/15  - FCC - 50. Waypoint: Override Styles in Subsequent CSS
+  03/10/15  - FCC - 51. Waypoint: Override Class Declarations by 
+                        Styling ID Attributes
+  03/10/15  - FCC - 52. Waypoint: Override Class Declarations with 
+                        Inline Styles
+  03/10/15  - FCC - 53. Waypoint: Override All Other Styles by using 
+                        Important
+  03/10/15  - FCC - 54. Waypoint: Use Hex Code for Specific Colors
+  03/10/15  - FCC - 55. Waypoint: Use Hex Code to Color Elements 
+                        White
+  03/10/15  - FCC - 56. Waypoint: Use Hex Code to Color Elements Red
+  03/10/15  - FCC - 57. Waypoint: Use Hex Code to Color Elements 
+                        Green
+  03/10/15  - FCC - 58. Waypoint: Use Hex Code to Color Elements Blue
+  03/10/15  - FCC - 59. Waypoint: Use Hex Code to Mix Colors
+  03/10/15  - FCC - 60. Waypoint: Use Hex Code to Color Elements Gray
+  03/10/15  - FCC - 61. Waypoint: Use Hex Code for Specific Shades  
+                        of Gray
+  03/10/15  - FCC - 62. Waypoint: Use Abbreviated Hex Code
+  03/10/15  - FCC - 63. Waypoint: Use RGB values to Color Elements 
+  03/10/15  - FCC - 64. Waypoint: Use RGB to Color Elements White
+  03/10/15  - FCC - 65. Waypoint: Use RGB to Color Elements Red
+  03/10/15  - FCC - 66. Waypoint: Use RGB to Color Elements Green
+  03/10/15  - FCC - 67. Waypoint: Use RGB to Color Elements Blue
+  03/10/15  - FCC - 68. Waypoint: Use RGB to Mix Colors
+  03/10/15  - FCC - 69. Waypoint: Use RGB to Color Elements Gray
   09/10/15  - CA  - Introduction to JavaScript 1
   09/10/15  - CA  - Introduction to JavaScript 2
   09/10/15  - CA  - Functions 1
@@ -63,7 +192,6 @@ Order of Study:
   - PE  - Project 2: Even Fibonacci numbers
   - PE  - Project 3: Largest prime factor
   - TOP - JavaScript Basics  
-  12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
   - CS  - What is jQuery? 1.2. What is jQuery?
   - CS  - 1.3. Element Selector I
   - CS  - 1.4. Element Selector II
@@ -152,165 +280,65 @@ Order of Study:
   - CA  - Make An Interactive Website: Unit 4
   - CA  - Make An Interactive Website: Unit 5
   - TOP - jQuery  Basics
-  12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
   - TOP - Project - JavaScript and jQuery
-  12/09/15  - FCC - 11. Waypoint: Style Multiple Elements with a CSS Class
   - VCS - Design - 6. What is User Experience?
-  12/09/15  - FCC - 12. Waypoint: Change the Font Size of an Element
   - VCS - Design - 7. Components of Good UX
-  12/09/15  - FCC - 13. Waypoint: Set the Font Family of an Element
   - VCS - Design - 8. Our Approach to UX
-  12/09/15  - FCC - 14. Waypoint: Import a Google Font
   - VCS - Design - 9. Demo: A UX Teardown
-  12/09/15  - FCC - 15. Waypoint: Specify How Fonts Should Degrade
   - VCS - Design - 10. Your Own UX Teardown
-  13/09/15  - FCC - 16. Waypoint: Add Images to your Website
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
-  13/09/15  - FCC - 17. Waypoint: Size your Images
   - TOP - The Back End (Ruby stuff, all 5 things)
-  13/09/15  - FCC - 18. Waypoint: Add Borders Around your Elements
   - VCS - Design - Principles of Visual Design - 12-16
-  13/09/15  - FCC - 19. Waypoint: Add Rounded Corners with a Border Radius
   - TOP - Web Development Framework (Step 1 - 3 plus Project)
-  13/09/15  - FCC - 20. Waypoint: Make Circular Images with a Border Radius
   - VCS - Design - Principles of Visual Design - 17-20
-  13/09/15  - FCC - 21. Waypoint: Link to External Pages with Anchor Elements
-  14/09/15  - TP  - "30 Days to Learn HTML & CSS" 1.1 Course Introduction
-  14/09/15  - TP  - 2.1 Your First Web Page
-  14/09/15  - TP  - 2.2 Finding a Proper Code Editor
-  14/09/15  - TP  - 2.3 Lists
-  14/09/15  - TP  - 2.4 Parent-Child Relationships
-  14/09/15  - TP  - 2.5 Heading Tags
-  14/09/15  - TP  - 2.6 Blockquotes
-  14/09/15  - TP  - 2.7 Anchors
-  15/09/15  - TP  - 3.1 Your First Stylesheet
-  15/09/15  - TP  - 3.2 Clean Project Structures
-  15/09/15  - TP  - 3.3 Images
-  15/09/15  - TP  - 3.4 The Necessity of Divs
-  15/09/15  - TP  - 3.5 IDs and Classes
-  15/09/15  - TP  - 3.6 An Assignment
-  15/09/15  - TP  - 3.7 Assignment Solutions
-  15/09/15  - TP  - 3.8 Floats, and a Simple Layout
-  16/09/15  - TP  - 4.1 Navigation Lists
-  16/09/15  - TP  - 4.2 An Introduction to Forms
-  16/09/15  - TP  - 4.3 Image Replacement
-  16/09/15  - TP  - 4.4 The Basics of Typography
-  16/09/15  - TP  - 4.5 The Difference Between Relative and Absolute Positioning
-  17/09/15  - TP  - 4.6 Reproduce a Website Fragment
-  17/09/15  - TP  - 4.7 The Importance of Validation
-  17/09/15  - TP  - 5.1 Zen Coding
-  17/09/15  - TP  - 5.2 Resets and Normalizing
-  17/09/15  - TP  - 5.3 CSS Frameworks
-  20/09/15  - TP  - 6.1 Creating the Markup
-  20/09/15  - TP  - 6.2 How to Slice a PSD
-  20/09/15  - TP  - 6.3 How to Create Snippets
-  21/09/15  - TP  - 6.4 The CSS For Our Website
   - TP  - 6.5 Completing the Website
   - TP  - 7.1 Conclusion
   - TOP - Additional Important Topics (Step 2 - 4)
-  18/09/15  - FCC - 22. Waypoint: Nest an Anchor Element within a Paragraph
   - VCS - Design - Creating and Using Mockups 21-23
-  18/09/15  - FCC - 23. Waypoint: Make Dead Links using the Hash Symbol
   - TOP - Tying it All Together (Step 1 - 3)
-  18/09/15  - FCC - 24. Waypoint: Turn an Image into a Link
   - VCS - Design - Project + Conclusion 25-27
-  18/09/15  - FCC - 25. Waypoint: Add Alt Text to an Image for Accessibility
   - TOP - Ruby - Basic Ruby (Step 1, 2 + Project)
-  18/09/15  - FCC - 26. Waypoint: Create a Bulleted Unordered List
   - CA  - Ruby - Introduction to Ruby
-  18/09/15  - FCC - 27. Waypoint: Create an Ordered List
   - Learn - Intro To Ruby - Introduction
-  19/09/15  - FCC - 28. Waypoint: Create a Text Field
   - VCS - Software Engineering - Introduction 1-3
-  19/09/15  - FCC - 29. Waypoint: Add Placeholder Text to a Text Field
   - TOP - Ruby - Basic Ruby (Step 3 + Project)
-  19/09/15  - FCC - 30. Waypoint: Create a Form Element
   - CA  - Ruby - Control Flow in Ruby
-  19/09/15  - FCC - 31. Waypoint: Add a Submit Button to a Form
   - Learn - Intro To Ruby - Variables And Methods
-  19/09/15  - FCC - 32. Waypoint: Use HTML5 to Require a Field
   - VCS - Software Engineering - Principles of Software Engineering 4-7
-  19/09/15  - FCC - 33. Waypoint: Create a Set of Radio Buttons
   - TOP - Ruby - Intermediate Ruby (Step 1 + Project)
-  22/09/15  - FCC - 34. Waypoint: Create a Set of Checkboxes
-  23/09/15  - TP  - "Understanding the CSS Box Model" Box 1.1 Introduction
-  23/09/15  - TP  - Box 2.1 Box Model Basics
-  23/09/15  - TP  - Box 2.2 Chrome and the Box Model
-  23/09/15  - TP  - Box 2.3 Full-Width Boxes
-  23/09/15  - TP  - Box 2.4 Boxes and Columns
-  24/09/15  - TP  - Box 2.5 Positioning and Floats
-  24/09/15  - TP  - Box 2.6 Inline Elements
-  24/09/15  - TP  - Box 2.7 Box-Sizing
-  24/09/15  - TP  - Box 3.1 Final Thoughts
   - CA  - Ruby - Looping with Ruby
-  03/10/15  - FCC - 35. Waypoint: Check Radio Buttons and Checkboxes by Default
   - Learn - Intro To Ruby - Simple Math
-  03/10/15  - FCC - 36. Waypoint: Nest Many Elements within a Single Div Element
   - VCS - Software Engineering - Introduction to Agile Development 8-11
-  03/10/15  - FCC - 37. Waypoint: Give a Background Color to a Div Element
   - TOP - Ruby - Intermediate Ruby (Step 2 + Project)
-  03/10/15  - FCC - 38. Waypoint: Set the ID of an Element
   - CA  - Ruby - Array and Hashes
-  03/10/15  - FCC - 39. Waypoint: Use an ID Attribute to Style an Element
   - Learn - Intro To Ruby - Booleans
-  03/10/15  - FCC - 40. Waypoint: Adjusting the Padding of an Element
   - VCS - Software Engineering - Introduction to Agile Development 12-14
-  03/10/15  - FCC - 41. Waypoint: Adjust the Margin of an Element
   - TOP - Ruby - Ruby on the Web (Step 1 + Project)
-  03/10/15  - FCC - 42. Waypoint: Add a Negative Margin to an Element
   - CA  - Ruby - Blocks and Sorting
-  03/10/15  - FCC - 43. Waypoint: Add Different Padding to Each Side of an Element
   - Learn - Intro To Ruby - Conditionals
-  03/10/15  - FCC - 44. Waypoint: Add Different Margins to Each Side of an Element
   - VCS - Software Engineering - Pseudocoding... 15-18
-  03/10/15  - FCC - 45. Waypoint: Use Clockwise Notation to Specify the Padding of an Element
   - TOP - Ruby - A Bit of Computer Science (Step 1, 2 + Project)
-  03/10/15  - FCC - 46. Waypoint: Use Clockwise Notation to Specify the Margin of an Element
   - CA  - Ruby - Hashes and Symbols
-  03/10/15  - FCC - 47. Waypoint: Style the HTML Body Element
   - Learn - Intro To Ruby - Looping
-  03/10/15  - FCC - 48. Waypoint: Inherit Styles from the Body Element
   - VCS - Software Engineering - Psuedocoding... 19-22
-  03/10/15  - FCC - 49. Waypoint: Prioritize One Style Over Another
   - TOP - Ruby - A Bit of Computer Science (Step 3 + Project)
-  03/10/15  - FCC - 50. Waypoint: Override Styles in Subsequent CSS
   - CA  - Ruby - Refactoring
-  03/10/15  - FCC - 51. Waypoint: Override Class Declarations by Styling ID Attributes
   - Learn - Intro To Ruby - Arrays And Iteration
-  03/10/15  - FCC - 52. Waypoint: Override Class Declarations with Inline Styles
   - VCS - Software Engineering - Project + Conclusion 24-26
-  03/10/15  - FCC - 53. Waypoint: Override All Other Styles by using Important
   - TOP - Ruby - Testing Ruby with RSpec (Step 1 + Project)
-  03/10/15  - FCC - 54. Waypoint: Use Hex Code for Specific Colors
   - CA  - Ruby - Blocks, Procs and Lambda
-  03/10/15  - FCC - 55. Waypoint: Use Hex Code to Color Elements White
   - Learn - Intro To Ruby - Enumerables
-  03/10/15  - FCC - 56. Waypoint: Use Hex Code to Color Elements Red
   - VCS - Markup and Coding - Introduction 1-3
-  03/10/15  - FCC - 57. Waypoint: Use Hex Code to Color Elements Green
   - TOP - Ruby - Git (Step 1, 2)
-  03/10/15  - FCC - 58. Waypoint: Use Hex Code to Color Elements Blue
   - CA  - Ruby - Object-Oriented Programming, Part I
-  03/10/15  - FCC - 59. Waypoint: Use Hex Code to Mix Colors
   - Learn - Intro To Ruby - Intro To Hashes
-  03/10/15  - FCC - 60. Waypoint: Use Hex Code to Color Elements Gray
   - VCS - Markup and Coding - Markup with HTML and CSS 4-9
-  03/10/15  - FCC - 61. Waypoint: Use Hex Code for Specific Shades of Gray
   - TOP - Ruby - Conclusion (Project + Step 1)
-  03/10/15  - FCC - 62. Waypoint: Use Abbreviated Hex Code
   - CA  - Ruby - Object-Oriented Programming, Part II
-  03/10/15  - FCC - 63. Waypoint: Use RGB values to Color Elements 
   - Learn - Intro To Ruby - More On Hashes
-  03/10/15  - FCC - 64. Waypoint: Use RGB to Color Elements White
   - VCS - Markup and Coding - Project
-  03/10/15  - FCC - 65. Waypoint: Use RGB to Color Elements Red
   - Learn - Intro To Ruby - Your First Application
-  03/10/15  - FCC - 66. Waypoint: Use RGB to Color Elements Green
   - VCS - Markup and Coding - Getting Started with Ruby 11-15
-  03/10/15  - FCC - 67. Waypoint: Use RGB to Color Elements Blue
   - Learn - Intro To Ruby - BONUS - Advanced Hashes
-  03/10/15  - FCC - 68. Waypoint: Use RGB to Mix Colors
   - VCS - Markup and Coding - Getting Started with Ruby 16-17 + Project
-  03/10/15  - FCC - 69. Waypoint: Use RGB to Color Elements Gray
   - VCS - Markup and Coding - Conclusion 19-20
-
