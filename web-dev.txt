@@ -177,7 +177,7 @@ Order of Study:
   09/10/15  - CA  - Functions 1
   09/10/15  - CA  - Functions 2
   12/10/15  - CA  - 'For' Loops in JavaScript 1
-  - CA  - 'For' Loops in JavaScript 2
+  12/10/15  - CA  - 'For' Loops in JavaScript 2
   - CA  - 'While' Loops in JavaScript 1
   - CA  - 'While' Loops in JavaScript 2
   - CA  - Control Flow 1
