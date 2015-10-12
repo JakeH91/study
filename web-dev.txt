@@ -146,6 +146,11 @@ Order of Study:
   - CS  - 5.10. Animation Speed
   - CS  - 5.11. Animate III
   - CA  - jQuery Effects
+  - CA  - Make An Interactive Website: Unit 1
+  - CA  - Make An Interactive Website: Unit 2
+  - CA  - Make An Interactive Website: Unit 3
+  - CA  - Make An Interactive Website: Unit 4
+  - CA  - Make An Interactive Website: Unit 5
   - TOP - jQuery  Basics
   12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
   - TOP - Project - JavaScript and jQuery
