@@ -184,7 +184,7 @@ Order of Study:
   14/10/15  - CA  - Control Flow 2
   14/10/15  - CA  - Data Structures 1
   14/10/15  - CA  - Data Structures 2
-  - CA  - Objects I 1
+  15/10/15  - CA  - Objects I 1
   - CA  - Objects I 2
   - CA  - Objects II 1
   - CA  - Objects II 2
