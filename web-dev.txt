@@ -185,8 +185,8 @@ Order of Study:
   14/10/15  - CA  - Data Structures 1
   14/10/15  - CA  - Data Structures 2
   15/10/15  - CA  - Objects I 1
-  - CA  - Objects I 2
-  - CA  - Objects II 1
+  15/10/15  - CA  - Objects I 2
+  18/10/15  - CA  - Objects II 1
   - CA  - Objects II 2
   - PE  - Project 1: Multiples of 3 and 5
   - PE  - Project 2: Even Fibonacci numbers
