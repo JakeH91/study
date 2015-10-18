@@ -187,7 +187,7 @@ Order of Study:
   15/10/15  - CA  - Objects I 1
   15/10/15  - CA  - Objects I 2
   18/10/15  - CA  - Objects II 1
-  - CA  - Objects II 2
+  18/10/15  - CA  - Objects II 2
   - PE  - Project 1: Multiples of 3 and 5
   - PE  - Project 2: Even Fibonacci numbers
   - PE  - Project 3: Largest prime factor
