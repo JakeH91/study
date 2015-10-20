@@ -7,7 +7,8 @@ UXA = UX Apprentice
 TP  = Tuts Plus
 PE  = Project Euler
 CS  = Code School
-CG = CodinGame
+CG  = CodinGame
+EJ  = Eloquent JavaScript (book)
 
 Order of Study:
   06/09/15  - VCS - Basics - 17. Terms to Know
