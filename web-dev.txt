@@ -190,7 +190,7 @@ Order of Study:
   18/10/15  - CA  - Objects II 2
   19/10/15  - PE  - Project 1: Multiples of 3 and 5
   19/10/15  - PE  - Project 2: Even Fibonacci numbers
-  - PE  - Project 3: Largest prime factor
+  20/10/15  - PE  - Project 3: Largest prime factor
   - TOP - JavaScript Basics  
   - CS  - What is jQuery? 1.2. What is jQuery?
   - CS  - 1.3. Element Selector I
