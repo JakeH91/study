@@ -323,18 +323,25 @@ Order of Study:
   - CG  - Hard: 16. Bender - Algorithmic Complexity
   - EJ  - Chapter 17: HTTP
   - CS  - 4.19. Link Events II
+  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
   - CS  - 4.20. Event Parameter I
   - CS  - 4.21. Event Parameter II
+  - CG  - Very Hard: 2. Triangulation
   - CA  - jQuery Events
   - EJ  - Chapter 18: Forms and Form Fields
+  - CG  - Very Hard: 3. The Resistance
   - CS  - Taming CSS 5.2. Taming CSS
   - CS  - 5.3. CSS I
+  - CG  - Very Hard: 4. Indiana - Level 3
   - CS  - 5.4. CSS II
   - CS  - 5.5. Show Photo
+  - CG  - Very Hard: 5. Music Scores
   - EJ  - Chapter 19: Project: A Paint Program
   - CS  - 5.6. Refactoring to CSS
+  - CG  - Very Hard: 6. Vox Codei - Redux
   - CS  - Animation 5.7. Animation
   - CS  - 5.8. Animate I
+  - CG  - Very Hard: 7. Mars Lander - Level 3
   - CS  - 5.9. Animate II
   - EJ  - Chapter 20: Node.js
   - CS  - 5.10. Animation Speed
