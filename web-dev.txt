@@ -199,7 +199,7 @@ Order of Study:
   21/10/15  - CS  - What is jQuery? 1.2. What is jQuery?
   - CG  - Easy: 2. The Descent
   21/10/15  - CS  - 1.3. Element Selector I
-  - CS  - 1.4. Element Selector II
+  21/10/15  - CS  - 1.4. Element Selector II
   - CG  - Easy: 3. Skynet: the Chasm
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - 1.5. the text() Method
