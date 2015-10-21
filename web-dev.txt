@@ -205,7 +205,7 @@ Order of Study:
   21/10/15  - CS  - 1.5. the text() Method
   - CG  - Easy: 4. Temperatures
   21/10/15  - CS  - 1.6. Changing Text
-  - CS  - 1.7. DOM Ready
+  21/10/15  - CS  - 1.7. DOM Ready
   - CG  - Easy: 5. Mars Lander - Level 1
   - CS  - Using jQuery 1.8. Using jQuery
   - EJ  - Chapter 2: Program Structure
