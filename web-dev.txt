@@ -202,7 +202,7 @@ Order of Study:
   21/10/15  - CS  - 1.4. Element Selector II
   - CG  - Easy: 3. Skynet: the Chasm
   - EJ  - Intro + Chapter 1: Values, Types and Operators
-  - CS  - 1.5. the text() Method
+  21/10/15  - CS  - 1.5. the text() Method
   - CG  - Easy: 4. Temperatures
   - CS  - 1.6. Changing Text
   - CS  - 1.7. DOM Ready
