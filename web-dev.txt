@@ -195,7 +195,7 @@ Order of Study:
   19/10/15  - CG  - Tutorial: Onboarding
   19/10/15  - CG  - Easy: 1. Power of Thor
   20/10/15  - PE  - Project 3: Largest prime factor
-  - TOP - JavaScript Basics  
+  21/10/15  - TOP - JavaScript Basics  
   - CS  - What is jQuery? 1.2. What is jQuery?
   - CG  - Easy: 2
   - CS  - 1.3. Element Selector I
