@@ -197,31 +197,31 @@ Order of Study:
   20/10/15  - PE  - Project 3: Largest prime factor
   21/10/15  - TOP - JavaScript Basics  
   - CS  - What is jQuery? 1.2. What is jQuery?
-  - CG  - Easy: 2
+  - CG  - Easy: 2. The Descent
   - CS  - 1.3. Element Selector I
   - CS  - 1.4. Element Selector II
-  - CG  - Easy: 3
+  - CG  - Easy: 3. Skynet: the Chasm
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - 1.5. the text() Method
-  - CG  - Easy: 4
+  - CG  - Easy: 4. Temperatures
   - CS  - 1.6. Changing Text
   - CS  - 1.7. DOM Ready
-  - CG  - Easy: 5
+  - CG  - Easy: 5. Mars Lander - Level 1
   - CS  - Using jQuery 1.8. Using jQuery
   - EJ  - Chapter 2: Program Structure
-  - CG  - Easy: 6
+  - CG  - Easy: 6. ASCII Art
   - CS  - 1.9. Include the jQuery Library
   - CS  - 1.10. Include a Custom JavaScript File
-  - CG  - Easy: 7
+  - CG  - Easy: 7. Chuck Norris
   - CS  - 1.11. Modifying Multiple Elements
   - CS  - 1.12. ID Selector
-  - CG  - Easy: 8
+  - CG  - Easy: 8. MIME Type
   - EJ  - Chapter 3: Functions
   - CS  - 1.13. Class Selector
-  - CG  - Easy: 9
+  - CG  - Easy: 9. Defibrillators
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
-  - CG  - Easy: 10
+  - CG  - Easy: 10. Horse-racing Duals
   - CS  - 2.3. Descendant Selector
   - EJ  - Chapter 4: Data Structures: Objects and Arrays
   - CS  - 2.4. Selecting Direct Children
