@@ -224,38 +224,55 @@ Order of Study:
   - CG  - Easy: 10. Horse-racing Duals
   - CS  - 2.3. Descendant Selector
   - EJ  - Chapter 4: Data Structures: Objects and Arrays
+  - CG  - Medium: 1. Winamax Sponsored Challenge
   - CS  - 2.4. Selecting Direct Children
   - CS  - 2.5. Selecting Multiple Elements
+  - CG  - Medium: 2. Teads Sponsored Challenge
   - CS  - 2.6. The :first Pseudo Selector
   - CS  - 2.7. The :even Selector
+  - CG  - Medium: 3. Skynet: the Virus
   - EJ  - Chapter 5: Higher-Order Functions
   - CS  - Traversing the DOM 2.8. Traversing the DOM
+  - CG  - Medium: 4. APU: Init Phase
   - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
+  - CG  - Medium: 5. The Paranoid Android
   - CS  - 2.11. Using last()
   - EJ  - Chapter 6: The Secret Life of Objects
+  - CG  - Medium: 6. Mars Lander - Level 2
   - CS  - 2.12. Using prev()
   - CS  - 2.13. Traversing Up
+  - CG  - Medium: 7. Heat Detector
   - CS  - 2.14. Traversing Down
   - CA  - jQuery Functions
+  - CG  - Medium: 8. Indiana - Level 1
   - EJ  - Chapter 7: Project: Electronic Life
   - CS  - Manipulating the DOM 3.2. Manipulating the DOM
+  - CG  - Medium: 9. Stock Exchange Losses
   - CS  - 3.3. Creating a DOM Node
   - CS  - 3.4. Adding to the DOM I
+  - CG  - Medium: 10. Network Cabling
   - CS  - 3.5. Adding to the DOM II
   - EJ  - Chapter 8: Bugs and Error Handling
+  - CG  - Medium: 11. Conway Sequence
   - CS  - 3.6. Removing From the DOM
   - CS  - Acting on Interaction 3.7. Acting on Interaction
+  - CG  - Medium: 12. Telephone Numbers
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
+  - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
   - EJ  - Chapter 9: Regular Expressions
   - CS  - 3.10. On Page Load
+  - CG  - Medium: 14. Bender, a depressed robot
   - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
   - CS  - 3.12. Removing the Clicked Button
+  - CG  - Medium: 15. Scrabble
   - CS  - 3.13. Relative Traversing I
   - EJ  - Chapter 10: Modules
+  - CG  - Medium: 16. The Gift
   - CS  - 3.14. Relative Traversing II
   - CS  - 3.15. Relative Traversing III
+  - CG  - Medium: 17. Mayan Calculation
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
   - CS  - 3.17. Fetching Data From the Dom I
   - EJ  - Chapter 11: Project: A Programming Language
