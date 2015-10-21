@@ -275,36 +275,52 @@ Order of Study:
   - CG  - Medium: 17. Mayan Calculation
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
   - CS  - 3.17. Fetching Data From the Dom I
+  - CG  - Hard: 1. APU: Improvement Phase
   - EJ  - Chapter 11: Project: A Programming Language
   - CS  - 3.18. Fetching Data From the Dom II
+  - CG  - Hard: 2. The Labyrinth
   - CS  - 3.19. Refactoring
   - CS  - 3.20. Better On Handlers
+  - CG  - Hard: 3. Skynet strikes back
   - CS  - 3.21. New Filter I
   - EJ  - Chapter 12: JavaScript and the Browser
+  - CG  - Hard: 4. The Paranoid Android - One step further
   - CS  - 3.22. New Filter II
   - CS  - 3.23. New Filter III
+  - CG  - Hard: 5. Skynet: The Bridge
   - CA  - Dynamic HTML
   - CS  - On DOM Load 4.2. On DOM Load
+  - CG  - Hard: 6. Indiana - Level 2
   - EJ  - Chapter 13: The Document Object Model
   - CS  - 4.3. On Load I
+  - CG  - Hard: 7. Thor VS Giants
   - CS  - 4.4. On Load II
   - CS  - 4.5. Slide Effect I
+  - CG  - Hard: 8. Vox Codei
   - CS  - 4.6. Slide Effect II
   - EJ  - Chapter 14: Handling Events
+  - CG  - Hard: 9. Super Computer
   - CS  - Expanding on on() 4.7. Expanding on on()
   - CS  - 4.8. Mouseover I
+  - CG  - Hard: 10. Roller Coaster
   - CS  - 4.9. Mouseover II
   - CS  - 4.10. Mouseleave
+  - CG  - Hard: 11. CGX Formatter
   - EJ  - Chapter 15: Project: A Platform Game
   - CS  - 4.11. Named Functions
+  - CG  - Hard: 12. TAN Network
   - CS  - Keyboard Events 4.12. Keyboard Events
   - CS  - 4.13. Keyup Event
+  - CG  - Hard: 13. Genome Sequencing
   - CS  - 4.14. Keyup Event Handler I
   - EJ  - Chapter 16: Drawing on Canvas
+  - CG  - Hard: 14. Surface
   - CS  - 4.15. Keyup Event Handler II
   - CS  - 4.16. Another Event Handler
+  - CG  - Hard: 15. Bender - The Money Machine
   - CS  - Link Layover 4.17. Link Layover
   - CS  - 4.18. Link Events I
+  - CG  - Hard: 16. Bender - Algorithmic Complexity
   - EJ  - Chapter 17: HTTP
   - CS  - 4.19. Link Events II
   - CS  - 4.20. Event Parameter I
