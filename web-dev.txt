@@ -208,153 +208,159 @@ Order of Study:
   - CG  - Easy: 5. Mars Lander - Level 1
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - Using jQuery 1.8. Using jQuery
-  - EJ  - Chapter 2: Program Structure
-  - CG  - Easy: 6. ASCII Art
   - CS  - 1.9. Include the jQuery Library
   - CS  - 1.10. Include a Custom JavaScript File
-  - CG  - Easy: 7. Chuck Norris
   - CS  - 1.11. Modifying Multiple Elements
   - CS  - 1.12. ID Selector
-  - CG  - Easy: 8. MIME Type
-  - EJ  - Chapter 3: Functions
   - CS  - 1.13. Class Selector
+  - EJ  - Chapter 2: Program Structure
+  - CG  - Easy: 6. ASCII Art
+  - CG  - Easy: 7. Chuck Norris
+  - CG  - Easy: 8. MIME Type
   - CG  - Easy: 9. Defibrillators
+  - CG  - Easy: 10. Horse-racing Duals
+  - EJ  - Chapter 3: Functions
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
-  - CG  - Easy: 10. Horse-racing Duals
   - CS  - 2.3. Descendant Selector
-  - EJ  - Chapter 4: Data Structures: Objects and Arrays
-  - CG  - Medium: 1. Winamax Sponsored Challenge
   - CS  - 2.4. Selecting Direct Children
   - CS  - 2.5. Selecting Multiple Elements
-  - CG  - Medium: 2. Teads Sponsored Challenge
   - CS  - 2.6. The :first Pseudo Selector
   - CS  - 2.7. The :even Selector
+  - EJ  - Chapter 4: Data Structures: Objects and Arrays
+  - CG  - Medium: 1. Winamax Sponsored Challenge
+  - CG  - Medium: 2. Teads Sponsored Challenge
   - CG  - Medium: 3. Skynet: the Virus
+  - CG  - Medium: 4. APU: Init Phase
+  - CG  - Medium: 5. The Paranoid Android
   - EJ  - Chapter 5: Higher-Order Functions
   - CS  - Traversing the DOM 2.8. Traversing the DOM
-  - CG  - Medium: 4. APU: Init Phase
   - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
-  - CG  - Medium: 5. The Paranoid Android
   - CS  - 2.11. Using last()
-  - EJ  - Chapter 6: The Secret Life of Objects
-  - CG  - Medium: 6. Mars Lander - Level 2
   - CS  - 2.12. Using prev()
   - CS  - 2.13. Traversing Up
-  - CG  - Medium: 7. Heat Detector
   - CS  - 2.14. Traversing Down
-  - CA  - jQuery Functions
+  - EJ  - Chapter 6: The Secret Life of Objects
+  - CG  - Medium: 6. Mars Lander - Level 2
+  - CG  - Medium: 7. Heat Detector
   - CG  - Medium: 8. Indiana - Level 1
+  - CG  - Medium: 9. Stock Exchange Losses
+  - CG  - Medium: 10. Network Cabling
+  - CA  - jQuery Functions
   - EJ  - Chapter 7: Project: Electronic Life
   - CS  - Manipulating the DOM 3.2. Manipulating the DOM
-  - CG  - Medium: 9. Stock Exchange Losses
   - CS  - 3.3. Creating a DOM Node
   - CS  - 3.4. Adding to the DOM I
-  - CG  - Medium: 10. Network Cabling
   - CS  - 3.5. Adding to the DOM II
-  - EJ  - Chapter 8: Bugs and Error Handling
-  - CG  - Medium: 11. Conway Sequence
   - CS  - 3.6. Removing From the DOM
   - CS  - Acting on Interaction 3.7. Acting on Interaction
-  - CG  - Medium: 12. Telephone Numbers
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
-  - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
-  - EJ  - Chapter 9: Regular Expressions
   - CS  - 3.10. On Page Load
+  - EJ  - Chapter 8: Bugs and Error Handling
+  - CG  - Medium: 11. Conway Sequence
+  - CG  - Medium: 12. Telephone Numbers
+  - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
   - CG  - Medium: 14. Bender, a depressed robot
+  - CG  - Medium: 15. Scrabble
+  - EJ  - Chapter 9: Regular Expressions
   - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
   - CS  - 3.12. Removing the Clicked Button
-  - CG  - Medium: 15. Scrabble
   - CS  - 3.13. Relative Traversing I
-  - EJ  - Chapter 10: Modules
-  - CG  - Medium: 16. The Gift
   - CS  - 3.14. Relative Traversing II
   - CS  - 3.15. Relative Traversing III
+  - EJ  - Chapter 10: Modules
+  - CG  - Medium: 16. The Gift
   - CG  - Medium: 17. Mayan Calculation
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
   - CS  - 3.17. Fetching Data From the Dom I
-  - CG  - Hard: 1. APU: Improvement Phase
-  - EJ  - Chapter 11: Project: A Programming Language
   - CS  - 3.18. Fetching Data From the Dom II
-  - CG  - Hard: 2. The Labyrinth
   - CS  - 3.19. Refactoring
   - CS  - 3.20. Better On Handlers
-  - CG  - Hard: 3. Skynet strikes back
   - CS  - 3.21. New Filter I
-  - EJ  - Chapter 12: JavaScript and the Browser
-  - CG  - Hard: 4. The Paranoid Android - One step further
   - CS  - 3.22. New Filter II
   - CS  - 3.23. New Filter III
+  - EJ  - Chapter 11: Project: A Programming Language
+  - CG  - Hard: 1. APU: Improvement Phase
+  - CG  - Hard: 2. The Labyrinth
+  - CG  - Hard: 3. Skynet strikes back
+  - CG  - Hard: 4. The Paranoid Android - One step further
   - CG  - Hard: 5. Skynet: The Bridge
+  - EJ  - Chapter 12: JavaScript and the Browser
   - CA  - Dynamic HTML
   - CS  - On DOM Load 4.2. On DOM Load
-  - CG  - Hard: 6. Indiana - Level 2
-  - EJ  - Chapter 13: The Document Object Model
   - CS  - 4.3. On Load I
-  - CG  - Hard: 7. Thor VS Giants
   - CS  - 4.4. On Load II
   - CS  - 4.5. Slide Effect I
-  - CG  - Hard: 8. Vox Codei
   - CS  - 4.6. Slide Effect II
-  - EJ  - Chapter 14: Handling Events
+  - EJ  - Chapter 13: The Document Object Model
+  - CG  - Hard: 6. Indiana - Level 2
+  - CG  - Hard: 7. Thor VS Giants
+  - CG  - Hard: 8. Vox Codei
   - CG  - Hard: 9. Super Computer
+  - CG  - Hard: 10. Roller Coaster
+  - EJ  - Chapter 14: Handling Events
   - CS  - Expanding on on() 4.7. Expanding on on()
   - CS  - 4.8. Mouseover I
-  - CG  - Hard: 10. Roller Coaster
   - CS  - 4.9. Mouseover II
   - CS  - 4.10. Mouseleave
-  - CG  - Hard: 11. CGX Formatter
-  - EJ  - Chapter 15: Project: A Platform Game
   - CS  - 4.11. Named Functions
+  - EJ  - Chapter 15: Project: A Platform Game
+  - CG  - Hard: 11. CGX Formatter
   - CG  - Hard: 12. TAN Network
+  - CG  - Hard: 13. Genome Sequencing
+  - CG  - Hard: 14. Surface
+  - CG  - Hard: 15. Bender - The Money Machine
+  - CG  - Hard: 16. Bender - Algorithmic Complexity
+  - EJ  - Chapter 16: Drawing on Canvas
   - CS  - Keyboard Events 4.12. Keyboard Events
   - CS  - 4.13. Keyup Event
-  - CG  - Hard: 13. Genome Sequencing
   - CS  - 4.14. Keyup Event Handler I
-  - EJ  - Chapter 16: Drawing on Canvas
-  - CG  - Hard: 14. Surface
   - CS  - 4.15. Keyup Event Handler II
   - CS  - 4.16. Another Event Handler
-  - CG  - Hard: 15. Bender - The Money Machine
+  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
+  - EJ  - Chapter 17: HTTP
   - CS  - Link Layover 4.17. Link Layover
   - CS  - 4.18. Link Events I
-  - CG  - Hard: 16. Bender - Algorithmic Complexity
-  - EJ  - Chapter 17: HTTP
   - CS  - 4.19. Link Events II
-  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
   - CS  - 4.20. Event Parameter I
   - CS  - 4.21. Event Parameter II
   - CG  - Very Hard: 2. Triangulation
-  - CA  - jQuery Events
   - EJ  - Chapter 18: Forms and Form Fields
-  - CG  - Very Hard: 3. The Resistance
+  - CA  - jQuery Events
   - CS  - Taming CSS 5.2. Taming CSS
   - CS  - 5.3. CSS I
-  - CG  - Very Hard: 4. Indiana - Level 3
   - CS  - 5.4. CSS II
   - CS  - 5.5. Show Photo
-  - CG  - Very Hard: 5. Music Scores
-  - EJ  - Chapter 19: Project: A Paint Program
   - CS  - 5.6. Refactoring to CSS
-  - CG  - Very Hard: 6. Vox Codei - Redux
+  - CG  - Very Hard: 3. The Resistance
+  - EJ  - Chapter 19: Project: A Paint Program
   - CS  - Animation 5.7. Animation
   - CS  - 5.8. Animate I
-  - CG  - Very Hard: 7. Mars Lander - Level 3
   - CS  - 5.9. Animate II
-  - EJ  - Chapter 20: Node.js
   - CS  - 5.10. Animation Speed
   - CS  - 5.11. Animate III
+  - CG  - Very Hard: 4. Indiana - Level 3
+  - EJ  - Chapter 20: Node.js
   - CA  - jQuery Effects
-  - CA  - Make An Interactive Website: Unit 1
+  - CG  - Very Hard: 5. Music Scores
   - EJ  - Chapter 21: Project: Skill-Sharing Website
+  - CA  - Make An Interactive Website: Unit 1
   - CA  - Make An Interactive Website: Unit 2
   - CA  - Make An Interactive Website: Unit 3
   - CA  - Make An Interactive Website: Unit 4
   - CA  - Make An Interactive Website: Unit 5
+  - CG  - Very Hard: 6. Vox Codei - Redux
   - TOP - jQuery  Basics
+  - CG  - Very Hard: 7. Mars Lander - Level 3
   - TOP - Project - JavaScript and jQuery
+  
+
+  
+  
+  
+  
   - VCS - Design - 6. What is User Experience?
   - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
