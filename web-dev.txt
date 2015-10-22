@@ -305,66 +305,12 @@ Order of Study:
   - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
   - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code
   - EJ  - Chapter 4: Data Structures: Objects and Arrays
-  
   - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
   - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
   - FCC - JavaScript - 4. Waypoint: Declare String Variables 
-  - FCC - JavaScript - 5. Waypoint: Check the Length Property of a String Variable 
-  - FCC - JavaScript - 6. Waypoint: Use Bracket Notation to Find the First Character in a String 
-  - FCC - JavaScript - 7. Waypoint: Use Bracket Notation to Find the Nth Character in a String 
-  - FCC - JavaScript - 8. Waypoint: Use Bracket Notation to Find the Last Character in a String 
-  - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the Nth-to-Last Character in a String 
-  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript 
-  - FCC - JavaScript - 11. Waypoint: Subtract One Number from Another with JavaScript 
-  - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with JavaScript 
-  - FCC - JavaScript - 13. Waypoint: Divide One Number by Another with JavaScript 
-  - FCC - JavaScript - 14. Waypoint: Create Decimal Numbers with JavaScript 
-  - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations on Decimals with JavaScript 
-  - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one Variable using JavaScript Arrays 
-  - FCC - JavaScript - 17. Waypoint: Nest one Array within Another Array 
-  - FCC - JavaScript - 18. Waypoint: Access Array Data with Indexes 
-  - FCC - JavaScript - 19. Waypoint: Modify Array Data With Indexes 
-  - FCC - JavaScript - 20. Waypoint: Manipulate Arrays With pop() 
-  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With push() 
-  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With shift() 
-  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With unshift() 
-  - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with Functions 
-  - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects 
-  - FCC - JavaScript - 26. Waypoint: Manipulate JavaScript Objects 
-  - FCC - JavaScript - 27. Waypoint: Iterate with JavaScript For Loops 
-  - FCC - JavaScript - 28. Waypoint: Iterate with JavaScript While Loops 
-  - FCC - JavaScript - 29. Waypoint: Generate Random Fractions with JavaScript 
-  - FCC - JavaScript - 30. Waypoint: Generate Random Whole Numbers with JavaScript 
-  - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers within a Range 
-  - FCC - JavaScript - 32. Waypoint: Use Conditional Logic with If and Else Statements 
-  - FCC - JavaScript - 33. Waypoint: Sift through Text with Regular Expressions 
-  - FCC - JavaScript - 34. Waypoint: Find Numbers with Regular Expressions 
-  - FCC - JavaScript - 35. Waypoint: Find Whitespace with Regular Expressions 
-  - FCC - JavaScript - 36. Waypoint: Invert Regular Expression Matches with JavaScript 
-  - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot Machine 
-  - FCC - JavaScript - 38. Waypoint: Add your JavaScript Slot Machine Slots 
-  - FCC - JavaScript - 39. Waypoint: Bring your JavaScript Slot Machine to Life 
-  - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot Machine some Stylish Images
-
-  
-  - CG  - Easy: 2. The Descent
-  - CG  - Easy: 3. Skynet: the Chasm
-  - CG  - Easy: 4. Temperatures
-  - CG  - Easy: 5. Mars Lander - Level 1
-  - CG  - Easy: 6. ASCII Art
-  - CG  - Easy: 7. Chuck Norris
-  - CG  - Easy: 8. MIME Type
-  - CG  - Easy: 9. Defibrillators
-  - CG  - Easy: 10. Horse-racing Duals
-
-
-  - CG  - Medium: 1. Winamax Sponsored Challenge
-  - CG  - Medium: 2. Teads Sponsored Challenge
-  - CG  - Medium: 3. Skynet: the Virus
-  - CG  - Medium: 4. APU: Init Phase
-  - CG  - Medium: 5. The Paranoid Android
-  - EJ  - Chapter 5: Higher-Order Functions
+  - FCC - JavaScript - 5. Waypoint: Check the Length Property of a 
+                          String Variable 
   - CS  - Traversing the DOM 2.8. Traversing the DOM
   - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
@@ -372,36 +318,128 @@ Order of Study:
   - CS  - 2.12. Using prev()
   - CS  - 2.13. Traversing Up
   - CS  - 2.14. Traversing Down
+  - FCC - JavaScript - 6. Waypoint: Use Bracket Notation to Find the 
+                          First Character in a String 
+  - FCC - JavaScript - 7. Waypoint: Use Bracket Notation to Find the 
+                          Nth Character in a String 
+  - FCC - JavaScript - 8. Waypoint: Use Bracket Notation to Find the 
+                          Last Character in a String 
+  - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
+                          Nth-to-Last Character in a String 
+  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript 
+  - EJ  - Chapter 5: Higher-Order Functions  
+  - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
+                            Another with JavaScript 
+  - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
+                            JavaScript 
+  - FCC - JavaScript - 13. Waypoint: Divide One Number by Another 
+                            with JavaScript 
+  - FCC - JavaScript - 14. Waypoint: Create Decimal Numbers with 
+                            JavaScript 
+  - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations 
+                            on Decimals with JavaScript 
   - EJ  - Chapter 6: The Secret Life of Objects
-  - CG  - Medium: 6. Mars Lander - Level 2
-  - CG  - Medium: 7. Heat Detector
-  - CG  - Medium: 8. Indiana - Level 1
-  - CG  - Medium: 9. Stock Exchange Losses
-  - CG  - Medium: 10. Network Cabling
-  - CA  - jQuery Functions
+  - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one 
+                            Variable using JavaScript Arrays 
+  - FCC - JavaScript - 17. Waypoint: Nest one Array within Another 
+                            Array 
+  - FCC - JavaScript - 18. Waypoint: Access Array Data with Indexes 
+  - FCC - JavaScript - 19. Waypoint: Modify Array Data With Indexes 
+  - FCC - JavaScript - 20. Waypoint: Manipulate Arrays With pop() 
   - EJ  - Chapter 7: Project: Electronic Life
+  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With push() 
+  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With shift() 
+  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With 
+                            unshift() 
+  - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with 
+                            Functions 
+  - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects 
+  - CG  - Easy: 2. The Descent
+  - CG  - Easy: 3. Skynet: the Chasm
+  - EJ  - Chapter 8: Bugs and Error Handling  
+  - FCC - JavaScript - 26. Waypoint: Manipulate JavaScript Objects 
+  - FCC - JavaScript - 27. Waypoint: Iterate with JavaScript For 
+                            Loops 
+  - FCC - JavaScript - 28. Waypoint: Iterate with JavaScript While 
+                            Loops 
+  - FCC - JavaScript - 29. Waypoint: Generate Random Fractions with 
+                            JavaScript 
+  - FCC - JavaScript - 30. Waypoint: Generate Random Whole Numbers 
+                            with JavaScript 
+  - CG  - Easy: 4. Temperatures
+  - CG  - Easy: 5. Mars Lander - Level 1
+  - EJ  - Chapter 9: Regular Expressions  
+  - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers 
+                            within a Range 
+  - FCC - JavaScript - 32. Waypoint: Use Conditional Logic with If 
+                            and Else Statements 
+  - FCC - JavaScript - 33. Waypoint: Sift through Text with Regular 
+                            Expressions 
+  - FCC - JavaScript - 34. Waypoint: Find Numbers with Regular 
+                            Expressions 
+  - FCC - JavaScript - 35. Waypoint: Find Whitespace with Regular 
+                            Expressions 
+  - CG  - Easy: 6. ASCII Art
+  - CG  - Easy: 7. Chuck Norris
+  - EJ  - Chapter 10: Modules
+  - FCC - JavaScript - 36. Waypoint: Invert Regular Expression 
+                            Matches with JavaScript 
+  - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot 
+                            Machine 
+  - FCC - JavaScript - 38. Waypoint: Add your JavaScript Slot 
+                            Machine Slots 
+  - FCC - JavaScript - 39. Waypoint: Bring your JavaScript Slot 
+                            Machine to Life 
+  - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot 
+                            Machine some Stylish Images
+  - CG  - Easy: 8. MIME Type
+  - CG  - Easy: 9. Defibrillators
+  - CG  - Easy: 10. Horse-racing Duals
+  - EJ  - Chapter 11: Project: A Programming Language
+  - CG  - Medium: 1. Winamax Sponsored Challenge
+  - CG  - Medium: 2. Teads Sponsored Challenge
+  - CA  - jQuery Functions
   - CS  - Manipulating the DOM 3.2. Manipulating the DOM
   - CS  - 3.3. Creating a DOM Node
   - CS  - 3.4. Adding to the DOM I
   - CS  - 3.5. Adding to the DOM II
   - CS  - 3.6. Removing From the DOM
+  - EJ  - Chapter 12: JavaScript and the Browser
+  
+
+
+
+
+  - CG  - Medium: 3. Skynet: the Virus
+  - CG  - Medium: 4. APU: Init Phase
+  - CG  - Medium: 5. The Paranoid Android
+
+
+  - CG  - Medium: 6. Mars Lander - Level 2
+  - CG  - Medium: 7. Heat Detector
+  - CG  - Medium: 8. Indiana - Level 1
+  - CG  - Medium: 9. Stock Exchange Losses
+  - CG  - Medium: 10. Network Cabling
+
+
+
   - CS  - Acting on Interaction 3.7. Acting on Interaction
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
   - CS  - 3.10. On Page Load
-  - EJ  - Chapter 8: Bugs and Error Handling
+
   - CG  - Medium: 11. Conway Sequence
   - CG  - Medium: 12. Telephone Numbers
   - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
   - CG  - Medium: 14. Bender, a depressed robot
   - CG  - Medium: 15. Scrabble
-  - EJ  - Chapter 9: Regular Expressions
+
   - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
   - CS  - 3.12. Removing the Clicked Button
   - CS  - 3.13. Relative Traversing I
   - CS  - 3.14. Relative Traversing II
   - CS  - 3.15. Relative Traversing III
-  - EJ  - Chapter 10: Modules
+
   - CG  - Medium: 16. The Gift
   - CG  - Medium: 17. Mayan Calculation
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
@@ -412,13 +450,13 @@ Order of Study:
   - CS  - 3.21. New Filter I
   - CS  - 3.22. New Filter II
   - CS  - 3.23. New Filter III
-  - EJ  - Chapter 11: Project: A Programming Language
+
   - CG  - Hard: 1. APU: Improvement Phase
   - CG  - Hard: 2. The Labyrinth
   - CG  - Hard: 3. Skynet strikes back
   - CG  - Hard: 4. The Paranoid Android - One step further
   - CG  - Hard: 5. Skynet: The Bridge
-  - EJ  - Chapter 12: JavaScript and the Browser
+
   - CA  - Dynamic HTML
   - CS  - On DOM Load 4.2. On DOM Load
   - CS  - 4.3. On Load I
