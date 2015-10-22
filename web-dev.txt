@@ -409,7 +409,41 @@ Order of Study:
   - CS  - 3.5. Adding to the DOM II
   - CS  - 3.6. Removing From the DOM
   - EJ  - Chapter 12: JavaScript and the Browser
+  - FCC - jQuery - 1. Waypoint: Learn how Script Tags and Document 
+                      Ready Work
+  - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
+                      Using jQuery 
+  - FCC - jQuery - 3. Waypoint: Target Elements by Class Using 
+                      jQuery 
+  - FCC - jQuery - 4. Waypoint: Target Elements by ID Using jQuery 
+  - CS  - Acting on Interaction 3.7. Acting on Interaction
+  - CS  - 3.8. Click Interaction
+  - CS  - 3.9. Acting on Click
+  - CS  - 3.10. On Page Load
   
+  - FCC - jQuery - 5. Waypoint: Delete your jQuery Functions 
+  - FCC - jQuery - 6. Waypoint: Target the same element with 
+                      multiple jQuery Selectors 
+  - FCC - jQuery - 7. Waypoint: Remove Classes from an element with 
+                      jQuery 
+  - FCC - jQuery - 8. Waypoint: Change the CSS of an Element Using 
+                      jQuery 
+
+  - FCC - jQuery - 9. Waypoint: Disable an Element Using jQuery 
+  - FCC - jQuery - 10. Waypoint: Remove an Element Using jQuery 
+  - FCC - jQuery - 11. Waypoint: Use appendTo to Move Elements with 
+                        jQuery 
+  - FCC - jQuery - 12. Waypoint: Clone an Element Using jQuery 
+
+  - FCC - jQuery - 13. Waypoint: Target the Parent of an Element 
+                        Using jQuery 
+  - FCC - jQuery - 14. Waypoint: Target the Children of an Element 
+                        Using jQuery 
+  - FCC - jQuery - 15. Waypoint: Target a Specific Child of an 
+                        Element Using jQuery 
+  - FCC - jQuery - 16. Waypoint: Target Even Numbered Elements Using 
+                        jQuery 
+  - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the Entire Page
 
 
 
@@ -417,26 +451,20 @@ Order of Study:
   - CG  - Medium: 3. Skynet: the Virus
   - CG  - Medium: 4. APU: Init Phase
   - CG  - Medium: 5. The Paranoid Android
-
-
   - CG  - Medium: 6. Mars Lander - Level 2
   - CG  - Medium: 7. Heat Detector
   - CG  - Medium: 8. Indiana - Level 1
   - CG  - Medium: 9. Stock Exchange Losses
   - CG  - Medium: 10. Network Cabling
-
-
-
-  - CS  - Acting on Interaction 3.7. Acting on Interaction
-  - CS  - 3.8. Click Interaction
-  - CS  - 3.9. Acting on Click
-  - CS  - 3.10. On Page Load
-
   - CG  - Medium: 11. Conway Sequence
   - CG  - Medium: 12. Telephone Numbers
   - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
   - CG  - Medium: 14. Bender, a depressed robot
   - CG  - Medium: 15. Scrabble
+  - CG  - Medium: 16. The Gift
+  - CG  - Medium: 17. Mayan Calculation
+
+
 
   - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
   - CS  - 3.12. Removing the Clicked Button
@@ -444,8 +472,7 @@ Order of Study:
   - CS  - 3.14. Relative Traversing II
   - CS  - 3.15. Relative Traversing III
 
-  - CG  - Medium: 16. The Gift
-  - CG  - Medium: 17. Mayan Calculation
+
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
   - CS  - 3.17. Fetching Data From the Dom I
   - CS  - 3.18. Fetching Data From the Dom II
