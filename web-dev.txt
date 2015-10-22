@@ -241,7 +241,8 @@ Order of Study:
   22/10/15  - FCC - Intro - 3. Waypoint: Configure your Code 
                                 Portfolio
   22/10/15  - FCC - Intro - 4. Waypoint: Join a Campsite in Your City
-  - FCC - Intro - 5. Waypoint: Learn What to Do If You Get Stuck
+  22/10/15  - FCC - Intro - 5. Waypoint: Learn What to Do If You Get 
+                                Stuck
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - Using jQuery 1.8. Using jQuery
   - CS  - 1.9. Include the jQuery Library
