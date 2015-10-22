@@ -244,7 +244,7 @@ Order of Study:
   22/10/15  - FCC - Intro - 5. Waypoint: Learn What to Do If You Get 
                                 Stuck
   22/10/15  - EJ  - Introduction (p2-10)
-  - EJ  - Chapter 1: Values, Types and Operators (p11-22)
+  22/10/15  - EJ  - Chapter 1: Values, Types and Operators (p11-22)
   - CS  - Using jQuery 1.8. Using jQuery
   - CS  - 1.9. Include the jQuery Library
   - CS  - 1.10. Include a Custom JavaScript File
