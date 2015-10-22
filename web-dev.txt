@@ -234,7 +234,12 @@ Order of Study:
   21/10/15  - CS  - 1.5. the text() Method
   21/10/15  - CS  - 1.6. Changing Text
   21/10/15  - CS  - 1.7. DOM Ready
-  - FCC - 
+  - FCC - Intro - 1. Waypoint: Learn how Free Code Camp Works
+  - FCC - Intro - 2. Waypoint: Create a GitHub Account and Join our 
+                      Chat Rooms
+  - FCC - Intro - 3. Waypoint: Configure your Code Portfolio
+  - FCC - Intro - 4. Waypoint: Join a Campsite in Your City
+  - FCC - Intro - 5. Waypoint: Learn What to Do If You Get Stuck
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - Using jQuery 1.8. Using jQuery
   - CS  - 1.9. Include the jQuery Library
