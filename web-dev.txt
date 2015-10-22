@@ -240,6 +240,13 @@ Order of Study:
   - FCC - Intro - 3. Waypoint: Configure your Code Portfolio
   - FCC - Intro - 4. Waypoint: Join a Campsite in Your City
   - FCC - Intro - 5. Waypoint: Learn What to Do If You Get Stuck
+  - EJ  - Intro + Chapter 1: Values, Types and Operators
+  - CS  - Using jQuery 1.8. Using jQuery
+  - CS  - 1.9. Include the jQuery Library
+  - CS  - 1.10. Include a Custom JavaScript File
+  - CS  - 1.11. Modifying Multiple Elements
+  - CS  - 1.12. ID Selector
+  - CS  - 1.13. Class Selector
   - FCC - Bootstrap - 1. Waypoint: Use Responsive Design with 
                           Bootstrap Fluid Containers 
   - FCC - Bootstrap - 2. Waypoint: Make Images Mobile Responsive 
@@ -256,6 +263,9 @@ Order of Study:
   - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid to Put 
                           Elements Side By Side 
   - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for Bootstrap 
+  - TP  - 6.5 Completing the Website
+  - TP  - 7.1 Conclusion
+  - EJ  - Chapter 2: Program Structure
   - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
   - FCC - Bootstrap - 12. Waypoint: Create a Custom Heading 
   - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons to our 
@@ -271,6 +281,14 @@ Order of Study:
   - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
                           Bootstrap Container Fluid Div 
+  - EJ  - Chapter 3: Functions
+  - CA  - Introducing jQuery
+  - CS  - Searching the DOM 2.2. Searching the DOM
+  - CS  - 2.3. Descendant Selector
+  - CS  - 2.4. Selecting Direct Children
+  - CS  - 2.5. Selecting Multiple Elements
+  - CS  - 2.6. The :first Pseudo Selector
+  - CS  - 2.7. The :even Selector  
   - FCC - Bootstrap - 21. Waypoint: Create a Bootstrap Row 
   - FCC - Bootstrap - 22. Waypoint: Split your Bootstrap Row 
   - FCC - Bootstrap - 23. Waypoint: Create Bootstrap Wells 
@@ -286,14 +304,50 @@ Order of Study:
   - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
   - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
   - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code
-  - EJ  - Intro + Chapter 1: Values, Types and Operators
-  - CS  - Using jQuery 1.8. Using jQuery
-  - CS  - 1.9. Include the jQuery Library
-  - CS  - 1.10. Include a Custom JavaScript File
-  - CS  - 1.11. Modifying Multiple Elements
-  - CS  - 1.12. ID Selector
-  - CS  - 1.13. Class Selector
-  - EJ  - Chapter 2: Program Structure
+  - EJ  - Chapter 4: Data Structures: Objects and Arrays
+  
+  - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
+  - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
+  - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
+  - FCC - JavaScript - 4. Waypoint: Declare String Variables 
+  - FCC - JavaScript - 5. Waypoint: Check the Length Property of a String Variable 
+  - FCC - JavaScript - 6. Waypoint: Use Bracket Notation to Find the First Character in a String 
+  - FCC - JavaScript - 7. Waypoint: Use Bracket Notation to Find the Nth Character in a String 
+  - FCC - JavaScript - 8. Waypoint: Use Bracket Notation to Find the Last Character in a String 
+  - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the Nth-to-Last Character in a String 
+  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript 
+  - FCC - JavaScript - 11. Waypoint: Subtract One Number from Another with JavaScript 
+  - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with JavaScript 
+  - FCC - JavaScript - 13. Waypoint: Divide One Number by Another with JavaScript 
+  - FCC - JavaScript - 14. Waypoint: Create Decimal Numbers with JavaScript 
+  - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations on Decimals with JavaScript 
+  - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one Variable using JavaScript Arrays 
+  - FCC - JavaScript - 17. Waypoint: Nest one Array within Another Array 
+  - FCC - JavaScript - 18. Waypoint: Access Array Data with Indexes 
+  - FCC - JavaScript - 19. Waypoint: Modify Array Data With Indexes 
+  - FCC - JavaScript - 20. Waypoint: Manipulate Arrays With pop() 
+  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With push() 
+  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With shift() 
+  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With unshift() 
+  - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with Functions 
+  - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects 
+  - FCC - JavaScript - 26. Waypoint: Manipulate JavaScript Objects 
+  - FCC - JavaScript - 27. Waypoint: Iterate with JavaScript For Loops 
+  - FCC - JavaScript - 28. Waypoint: Iterate with JavaScript While Loops 
+  - FCC - JavaScript - 29. Waypoint: Generate Random Fractions with JavaScript 
+  - FCC - JavaScript - 30. Waypoint: Generate Random Whole Numbers with JavaScript 
+  - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers within a Range 
+  - FCC - JavaScript - 32. Waypoint: Use Conditional Logic with If and Else Statements 
+  - FCC - JavaScript - 33. Waypoint: Sift through Text with Regular Expressions 
+  - FCC - JavaScript - 34. Waypoint: Find Numbers with Regular Expressions 
+  - FCC - JavaScript - 35. Waypoint: Find Whitespace with Regular Expressions 
+  - FCC - JavaScript - 36. Waypoint: Invert Regular Expression Matches with JavaScript 
+  - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot Machine 
+  - FCC - JavaScript - 38. Waypoint: Add your JavaScript Slot Machine Slots 
+  - FCC - JavaScript - 39. Waypoint: Bring your JavaScript Slot Machine to Life 
+  - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot Machine some Stylish Images
+
+  
   - CG  - Easy: 2. The Descent
   - CG  - Easy: 3. Skynet: the Chasm
   - CG  - Easy: 4. Temperatures
@@ -303,15 +357,8 @@ Order of Study:
   - CG  - Easy: 8. MIME Type
   - CG  - Easy: 9. Defibrillators
   - CG  - Easy: 10. Horse-racing Duals
-  - EJ  - Chapter 3: Functions
-  - CA  - Introducing jQuery
-  - CS  - Searching the DOM 2.2. Searching the DOM
-  - CS  - 2.3. Descendant Selector
-  - CS  - 2.4. Selecting Direct Children
-  - CS  - 2.5. Selecting Multiple Elements
-  - CS  - 2.6. The :first Pseudo Selector
-  - CS  - 2.7. The :even Selector
-  - EJ  - Chapter 4: Data Structures: Objects and Arrays
+
+
   - CG  - Medium: 1. Winamax Sponsored Challenge
   - CG  - Medium: 2. Teads Sponsored Challenge
   - CG  - Medium: 3. Skynet: the Virus
@@ -455,8 +502,6 @@ Order of Study:
   - VCS - Design - Principles of Visual Design - 12-16
   - TOP - Web Development Framework (Step 1 - 3 plus Project)
   - VCS - Design - Principles of Visual Design - 17-20
-  - TP  - 6.5 Completing the Website
-  - TP  - 7.1 Conclusion
   - TOP - Additional Important Topics (Step 2 - 4)
   - VCS - Design - Creating and Using Mockups 21-23
   - TOP - Tying it All Together (Step 1 - 3)
