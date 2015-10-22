@@ -240,6 +240,52 @@ Order of Study:
   - FCC - Intro - 3. Waypoint: Configure your Code Portfolio
   - FCC - Intro - 4. Waypoint: Join a Campsite in Your City
   - FCC - Intro - 5. Waypoint: Learn What to Do If You Get Stuck
+  - FCC - Bootstrap - 1. Waypoint: Use Responsive Design with 
+                          Bootstrap Fluid Containers 
+  - FCC - Bootstrap - 2. Waypoint: Make Images Mobile Responsive 
+  - FCC - Bootstrap - 3. Waypoint: Center Text with Bootstrap 
+  - FCC - Bootstrap - 4. Waypoint: Create a Bootstrap Button 
+  - FCC - Bootstrap - 5. Waypoint: Create a Block Element Bootstrap 
+                          Button 
+  - FCC - Bootstrap - 6. Waypoint: Taste the Bootstrap Button Color 
+                          Rainbow 
+  - FCC - Bootstrap - 7. Waypoint: Call out Optional Actions with 
+                          Button Info 
+  - FCC - Bootstrap - 8. Waypoint: Warn your Users of a Dangerous 
+                          Action 
+  - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid to Put 
+                          Elements Side By Side 
+  - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for Bootstrap 
+  - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
+  - FCC - Bootstrap - 12. Waypoint: Create a Custom Heading 
+  - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons to our 
+                          Buttons 
+  - FCC - Bootstrap - 14. Waypoint: Add Font Awesome Icons to all of 
+                          our Buttons 
+  - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons 
+  - FCC - Bootstrap - 16. Waypoint: Responsively Style Checkboxes 
+  - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as Form 
+                          Controls 
+  - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
+                          Responsively with Bootstrap 
+  - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
+  - FCC - Bootstrap - 20. Waypoint: House our page within a 
+                          Bootstrap Container Fluid Div 
+  - FCC - Bootstrap - 21. Waypoint: Create a Bootstrap Row 
+  - FCC - Bootstrap - 22. Waypoint: Split your Bootstrap Row 
+  - FCC - Bootstrap - 23. Waypoint: Create Bootstrap Wells 
+  - FCC - Bootstrap - 24. Waypoint: Add Elements within your 
+                          Bootstrap Wells 
+  - FCC - Bootstrap - 25. Waypoint: Apply the Default Bootstrap 
+                          Button Style 
+  - FCC - Bootstrap - 26. Waypoint: Create a Class to Target with 
+                          jQuery Selectors 
+  - FCC - Bootstrap - 27. Waypoint: Add ID Attributes to Bootstrap 
+                          Elements 
+  - FCC - Bootstrap - 28. Waypoint: Label Bootstrap Wells 
+  - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
+  - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
+  - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - Using jQuery 1.8. Using jQuery
   - CS  - 1.9. Include the jQuery Library
