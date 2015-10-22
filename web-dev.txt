@@ -27,42 +27,51 @@ Order of Study:
   11/09/15  - VCS - Basics - 23. Review of Concepts
   11/09/15  - VCS - Basics - 24. Where to Go From Here
   11/09/15  - VCS - Design - 1. Welcome
-  11/09/15  - FCC - 1. HTML5 and CSS - 1. Waypoint: Say Hello to 
+  11/09/15  - FCC - HTML5/CSS - 1. Waypoint: Say Hello to 
                         HTML Elements
   11/09/15  - VCS - Design - 2. A High Level Overview
-  11/09/15  - FCC - 2. Waypoint: Headline with the h2 Element
+  11/09/15  - FCC - HTML5/CSS - 2. Waypoint: Headline with the h2 
+                        Element
   11/09/15  - VCS - Design - 3. What is 'Product'?
-  11/09/15  - FCC - 3. Waypoint: Inform with the Paragraph Element
+  11/09/15  - FCC - HTML5/CSS - 3. Waypoint: Inform with the 
+                        Paragraph Element
   12/09/15  - VCS - Design - 4. The Design Process
   11/09/15  - UXA - Homepage
   11/09/15  - UXA - Discovery
   12/09/15  - UXA - Strategy
   12/09/15  - UXA - Design
-  11/09/15  - FCC - 4. Waypoint: Uncomment HTML
+  11/09/15  - FCC - HTML5/CSS - 4. Waypoint: Uncomment HTML
   12/09/15  - VCS - Design - 5. How This Mini-Course Will Look
-  11/09/15  - FCC - 5. Waypoint: Comment out HTML
+  11/09/15  - FCC - HTML5/CSS - 5. Waypoint: Comment out HTML
   12/09/15  - TOP - Introduction to the Front End
-  12/09/15  - FCC - 6. Waypoint: Fill in the Blank with Placeholder 
-                        Text
-  12/09/15  - FCC - 7. Waypoint: Delete HTML Elements
-  12/09/15  - FCC - 8. Waypoint: Change the Color of Text
-  12/09/15  - FCC - 9. Waypoint: Use CSS Selectors to Style Elements
-  12/09/15  - FCC - 10. Waypoint: Use a CSS Class to Stlye an Element
-  12/09/15  - FCC - 11. Waypoint: Style Multiple Elements with a CSS 
-                        Class
-  12/09/15  - FCC - 12. Waypoint: Change the Font Size of an Element
-  12/09/15  - FCC - 13. Waypoint: Set the Font Family of an Element
-  12/09/15  - FCC - 14. Waypoint: Import a Google Font
-  12/09/15  - FCC - 15. Waypoint: Specify How Fonts Should Degrade  
-  13/09/15  - FCC - 16. Waypoint: Add Images to your Website
-  13/09/15  - FCC - 17. Waypoint: Size your Images
-  13/09/15  - FCC - 18. Waypoint: Add Borders Around your Elements
-  13/09/15  - FCC - 19. Waypoint: Add Rounded Corners with a Border  
-                        Radius
-  13/09/15  - FCC - 20. Waypoint: Make Circular Images with a Border 
-                        Radius
-  13/09/15  - FCC - 21. Waypoint: Link to External Pages with Anchor 
-                        Elements
+  12/09/15  - FCC - HTML5/CSS - 6. Waypoint: Fill in the Blank with 
+                        Placeholder Text
+  12/09/15  - FCC - HTML5/CSS - 7. Waypoint: Delete HTML Elements
+  12/09/15  - FCC - HTML5/CSS - 8. Waypoint: Change the Color of Text
+  12/09/15  - FCC - HTML5/CSS - 9. Waypoint: Use CSS Selectors to 
+                        Style Elements
+  12/09/15  - FCC - HTML5/CSS - 10. Waypoint: Use a CSS Class to 
+                        Stlye an Element
+  12/09/15  - FCC - HTML5/CSS - 11. Waypoint: Style Multiple 
+                        Elements with a CSS Class
+  12/09/15  - FCC - HTML5/CSS - 12. Waypoint: Change the Font Size 
+                        of an Element
+  12/09/15  - FCC - HTML5/CSS - 13. Waypoint: Set the Font Family of 
+                        an Element
+  12/09/15  - FCC - HTML5/CSS - 14. Waypoint: Import a Google Font
+  12/09/15  - FCC - HTML5/CSS - 15. Waypoint: Specify How Fonts 
+                        Should Degrade  
+  13/09/15  - FCC - HTML5/CSS - 16. Waypoint: Add Images to your 
+                        Website
+  13/09/15  - FCC - HTML5/CSS - 17. Waypoint: Size your Images
+  13/09/15  - FCC - HTML5/CSS - 18. Waypoint: Add Borders Around 
+                        your Elements
+  13/09/15  - FCC - HTML5/CSS - 19. Waypoint: Add Rounded Corners 
+                        with a Border Radius
+  13/09/15  - FCC - HTML5/CSS - 20. Waypoint: Make Circular Images 
+                        with a Border Radius
+  13/09/15  - FCC - HTML5/CSS - 21. Waypoint: Link to External Pages 
+                        with Anchor Elements
   14/09/15  - TP  - "30 Days to Learn HTML & CSS" 1.1 Course 
                       Introduction
   14/09/15  - TP  - 2.1 Your First Web Page
@@ -91,27 +100,31 @@ Order of Study:
   17/09/15  - TP  - 5.1 Zen Coding
   17/09/15  - TP  - 5.2 Resets and Normalizing
   17/09/15  - TP  - 5.3 CSS Frameworks
-  18/09/15  - FCC - 22. Waypoint: Nest an Anchor Element within a 
-                        Paragraph
-  18/09/15  - FCC - 23. Waypoint: Make Dead Links using the Hash 
-                        Symbol
-  18/09/15  - FCC - 24. Waypoint: Turn an Image into a Link
-  18/09/15  - FCC - 25. Waypoint: Add Alt Text to an Image for 
-                        Accessibility
-  18/09/15  - FCC - 26. Waypoint: Create a Bulleted Unordered List
-  18/09/15  - FCC - 27. Waypoint: Create an Ordered List
-  19/09/15  - FCC - 28. Waypoint: Create a Text Field
-  19/09/15  - FCC - 29. Waypoint: Add Placeholder Text to a Text 
-                        Field
-  19/09/15  - FCC - 30. Waypoint: Create a Form Element
-  19/09/15  - FCC - 31. Waypoint: Add a Submit Button to a Form
-  19/09/15  - FCC - 32. Waypoint: Use HTML5 to Require a Field
-  19/09/15  - FCC - 33. Waypoint: Create a Set of Radio Buttons
+  18/09/15  - FCC - HTML5/CSS - 22. Waypoint: Nest an Anchor Element 
+                        within a Paragraph
+  18/09/15  - FCC - HTML5/CSS - 23. Waypoint: Make Dead Links using 
+                        the Hash Symbol
+  18/09/15  - FCC - HTML5/CSS - 24. Waypoint: Turn an Image into a 
+                        Link
+  18/09/15  - FCC - HTML5/CSS - 25. Waypoint: Add Alt Text to an 
+                        Image for Accessibility
+  18/09/15  - FCC - HTML5/CSS - 26. Waypoint: Create a Bulleted 
+                        Unordered List
+  18/09/15  - FCC - HTML5/CSS - 27. Waypoint: Create an Ordered List
+  19/09/15  - FCC - HTML5/CSS - 28. Waypoint: Create a Text Field
+  19/09/15  - FCC - HTML5/CSS - 29. Waypoint: Add Placeholder Text 
+                        to a Text Field
+  19/09/15  - FCC - HTML5/CSS - 30. Waypoint: Create a Form Element
+  19/09/15  - FCC - HTML5/CSS - 31. Waypoint: Add a Submit Button to 
+                        a Form
+  19/09/15  - FCC - HTML5/CSS - 32. Waypoint: Use HTML5 to Require a Field
+  19/09/15  - FCC - HTML5/CSS - 33. Waypoint: Create a Set of Radio Buttons
   20/09/15  - TP  - 6.1 Creating the Markup
   20/09/15  - TP  - 6.2 How to Slice a PSD
   20/09/15  - TP  - 6.3 How to Create Snippets
   21/09/15  - TP  - 6.4 The CSS For Our Website
-  22/09/15  - FCC - 34. Waypoint: Create a Set of Checkboxes
+  22/09/15  - FCC - HTML5/CSS - 34. Waypoint: Create a Set of 
+                        Checkboxes
   23/09/15  - TP  - "Understanding the CSS Box Model" Box 1.1 
                       Introduction
   23/09/15  - TP  - Box 2.1 Box Model Basics
@@ -124,56 +137,75 @@ Order of Study:
   24/09/15  - TP  - Box 3.1 Final Thoughts
   24/09/15  - TOP - HTML and CSS Basics
   02/10/15  - TOP - Project - HTML/CSS
-  03/10/15  - FCC - 35. Waypoint: Check Radio Buttons and Checkboxes 
-                        by Default
-  03/10/15  - FCC - 36. Waypoint: Nest Many Elements within a Single 
-                        Div Element
-  03/10/15  - FCC - 37. Waypoint: Give a Background Color to a Div 
+  03/10/15  - FCC - HTML5/CSS - 35. Waypoint: Check Radio Buttons 
+                        and Checkboxes by Default
+  03/10/15  - FCC - HTML5/CSS - 36. Waypoint: Nest Many Elements 
+                        within a Single Div Element
+  03/10/15  - FCC - HTML5/CSS - 37. Waypoint: Give a Background 
+                        Color to a Div Element
+  03/10/15  - FCC - HTML5/CSS - 38. Waypoint: Set the ID of an 
                         Element
-  03/10/15  - FCC - 38. Waypoint: Set the ID of an Element
-  03/10/15  - FCC - 39. Waypoint: Use an ID Attribute to Style an 
-                        Element
-  03/10/15  - FCC - 40. Waypoint: Adjusting the Padding of an Element
-  03/10/15  - FCC - 41. Waypoint: Adjust the Margin of an Element
-  03/10/15  - FCC - 42. Waypoint: Add a Negative Margin to an Element
-  03/10/15  - FCC - 43. Waypoint: Add Different Padding to Each Side 
+  03/10/15  - FCC - HTML5/CSS - 39. Waypoint: Use an ID Attribute to
+                        Style an Element
+  03/10/15  - FCC - HTML5/CSS - 40. Waypoint: Adjusting the Padding 
                         of an Element
-  03/10/15  - FCC - 44. Waypoint: Add Different Margins to Each Side 
-                        of an Element
-  03/10/15  - FCC - 45. Waypoint: Use Clockwise Notation to Specify  
-                        the Padding of an Element
-  03/10/15  - FCC - 46. Waypoint: Use Clockwise Notation to Specify 
-                        the Margin of an Element
-  03/10/15  - FCC - 47. Waypoint: Style the HTML Body Element
-  03/10/15  - FCC - 48. Waypoint: Inherit Styles from the Body 
+  03/10/15  - FCC - HTML5/CSS - 41. Waypoint: Adjust the Margin of 
+                        an Element
+  03/10/15  - FCC - HTML5/CSS - 42. Waypoint: Add a Negative Margin 
+                        to an Element
+  03/10/15  - FCC - HTML5/CSS - 43. Waypoint: Add Different Padding 
+                        to Each Side of an Element
+  03/10/15  - FCC - HTML5/CSS - 44. Waypoint: Add Different Margins 
+                        to Each Side of an Element
+  03/10/15  - FCC - HTML5/CSS - 45. Waypoint: Use Clockwise Notation 
+                        to Specify the Padding of an Element
+  03/10/15  - FCC - HTML5/CSS - 46. Waypoint: Use Clockwise Notation 
+                        to Specify the Margin of an Element
+  03/10/15  - FCC - HTML5/CSS - 47. Waypoint: Style the HTML Body 
                         Element
-  03/10/15  - FCC - 49. Waypoint: Prioritize One Style Over Another
-  03/10/15  - FCC - 50. Waypoint: Override Styles in Subsequent CSS
-  03/10/15  - FCC - 51. Waypoint: Override Class Declarations by 
-                        Styling ID Attributes
-  03/10/15  - FCC - 52. Waypoint: Override Class Declarations with 
-                        Inline Styles
-  03/10/15  - FCC - 53. Waypoint: Override All Other Styles by using 
-                        Important
-  03/10/15  - FCC - 54. Waypoint: Use Hex Code for Specific Colors
-  03/10/15  - FCC - 55. Waypoint: Use Hex Code to Color Elements 
-                        White
-  03/10/15  - FCC - 56. Waypoint: Use Hex Code to Color Elements Red
-  03/10/15  - FCC - 57. Waypoint: Use Hex Code to Color Elements 
-                        Green
-  03/10/15  - FCC - 58. Waypoint: Use Hex Code to Color Elements Blue
-  03/10/15  - FCC - 59. Waypoint: Use Hex Code to Mix Colors
-  03/10/15  - FCC - 60. Waypoint: Use Hex Code to Color Elements Gray
-  03/10/15  - FCC - 61. Waypoint: Use Hex Code for Specific Shades  
-                        of Gray
-  03/10/15  - FCC - 62. Waypoint: Use Abbreviated Hex Code
-  03/10/15  - FCC - 63. Waypoint: Use RGB values to Color Elements 
-  03/10/15  - FCC - 64. Waypoint: Use RGB to Color Elements White
-  03/10/15  - FCC - 65. Waypoint: Use RGB to Color Elements Red
-  03/10/15  - FCC - 66. Waypoint: Use RGB to Color Elements Green
-  03/10/15  - FCC - 67. Waypoint: Use RGB to Color Elements Blue
-  03/10/15  - FCC - 68. Waypoint: Use RGB to Mix Colors
-  03/10/15  - FCC - 69. Waypoint: Use RGB to Color Elements Gray
+  03/10/15  - FCC - HTML5/CSS - 48. Waypoint: Inherit Styles from 
+                        the Body Element
+  03/10/15  - FCC - HTML5/CSS - 49. Waypoint: Prioritize One Style 
+                        Over Another
+  03/10/15  - FCC - HTML5/CSS - 50. Waypoint: Override Styles in 
+                        Subsequent CSS
+  03/10/15  - FCC - HTML5/CSS - 51. Waypoint: Override Class 
+                        Declarations by Styling ID Attributes
+  03/10/15  - FCC - HTML5/CSS - 52. Waypoint: Override Class 
+                        Declarations with Inline Styles
+  03/10/15  - FCC - HTML5/CSS - 53. Waypoint: Override All Other 
+                        Styles by using Important
+  03/10/15  - FCC - HTML5/CSS - 54. Waypoint: Use Hex Code for 
+                        Specific Colors
+  03/10/15  - FCC - HTML5/CSS - 55. Waypoint: Use Hex Code to Color 
+                        Elements White
+  03/10/15  - FCC - HTML5/CSS - 56. Waypoint: Use Hex Code to Color 
+                        Elements Red
+  03/10/15  - FCC - HTML5/CSS - 57. Waypoint: Use Hex Code to Color 
+                        Elements Green
+  03/10/15  - FCC - HTML5/CSS - 58. Waypoint: Use Hex Code to Color 
+                        Elements Blue
+  03/10/15  - FCC - HTML5/CSS - 59. Waypoint: Use Hex Code to Mix 
+                        Colors
+  03/10/15  - FCC - HTML5/CSS - 60. Waypoint: Use Hex Code to Color 
+                        Elements Gray
+  03/10/15  - FCC - HTML5/CSS - 61. Waypoint: Use Hex Code for 
+                        Specific Shades of Gray
+  03/10/15  - FCC - HTML5/CSS - 62. Waypoint: Use Abbreviated Hex 
+                        Code
+  03/10/15  - FCC - HTML5/CSS - 63. Waypoint: Use RGB values to 
+                        Color Elements 
+  03/10/15  - FCC - HTML5/CSS - 64. Waypoint: Use RGB to Color 
+                        Elements White
+  03/10/15  - FCC - HTML5/CSS - 65. Waypoint: Use RGB to Color 
+                        Elements Red
+  03/10/15  - FCC - HTML5/CSS - 66. Waypoint: Use RGB to Color 
+                        Elements Green
+  03/10/15  - FCC - HTML5/CSS - 67. Waypoint: Use RGB to Color 
+                        Elements Blue
+  03/10/15  - FCC - HTML5/CSS - 68. Waypoint: Use RGB to Mix Colors
+  03/10/15  - FCC - HTML5/CSS - 69. Waypoint: Use RGB to Color 
+                        Elements Gray
   09/10/15  - CA  - Introduction to JavaScript 1
   09/10/15  - CA  - Introduction to JavaScript 2
   09/10/15  - CA  - Functions 1
@@ -202,10 +234,7 @@ Order of Study:
   21/10/15  - CS  - 1.5. the text() Method
   21/10/15  - CS  - 1.6. Changing Text
   21/10/15  - CS  - 1.7. DOM Ready
-  - CG  - Easy: 2. The Descent
-  - CG  - Easy: 3. Skynet: the Chasm
-  - CG  - Easy: 4. Temperatures
-  - CG  - Easy: 5. Mars Lander - Level 1
+  - FCC - 
   - EJ  - Intro + Chapter 1: Values, Types and Operators
   - CS  - Using jQuery 1.8. Using jQuery
   - CS  - 1.9. Include the jQuery Library
@@ -214,6 +243,10 @@ Order of Study:
   - CS  - 1.12. ID Selector
   - CS  - 1.13. Class Selector
   - EJ  - Chapter 2: Program Structure
+  - CG  - Easy: 2. The Descent
+  - CG  - Easy: 3. Skynet: the Chasm
+  - CG  - Easy: 4. Temperatures
+  - CG  - Easy: 5. Mars Lander - Level 1
   - CG  - Easy: 6. ASCII Art
   - CG  - Easy: 7. Chuck Norris
   - CG  - Easy: 8. MIME Type
