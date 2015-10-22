@@ -304,6 +304,10 @@ Order of Study:
   - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
   - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
   - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code
+  - FCC - Success - 1. Waypoint: Browse Camper News 
+  - FCC - Success - 2. Waypoint: Reference our Wiki 
+  - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni Network 
+  - FCC - Success - 4. Waypoint: Commit to a Goal and a Nonprofit
   - EJ  - Chapter 4: Data Structures: Objects and Arrays
   - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
   - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
