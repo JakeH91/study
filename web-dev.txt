@@ -420,7 +420,7 @@ Order of Study:
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
   - CS  - 3.10. On Page Load
-  
+  - EJ  - Chapter 13: The Document Object Model
   - FCC - jQuery - 5. Waypoint: Delete your jQuery Functions 
   - FCC - jQuery - 6. Waypoint: Target the same element with 
                       multiple jQuery Selectors 
@@ -428,13 +428,26 @@ Order of Study:
                       jQuery 
   - FCC - jQuery - 8. Waypoint: Change the CSS of an Element Using 
                       jQuery 
-
+  - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
+  - CS  - 3.12. Removing the Clicked Button
+  - CS  - 3.13. Relative Traversing I
+  - CS  - 3.14. Relative Traversing II
+  - CS  - 3.15. Relative Traversing III
+  - EJ  - Chapter 14: Handling Events
   - FCC - jQuery - 9. Waypoint: Disable an Element Using jQuery 
   - FCC - jQuery - 10. Waypoint: Remove an Element Using jQuery 
   - FCC - jQuery - 11. Waypoint: Use appendTo to Move Elements with 
                         jQuery 
   - FCC - jQuery - 12. Waypoint: Clone an Element Using jQuery 
-
+  - CS  - Traversing and Filtering 3.16. Traversing and Filtering
+  - CS  - 3.17. Fetching Data From the Dom I
+  - CS  - 3.18. Fetching Data From the Dom II
+  - CS  - 3.19. Refactoring
+  - CS  - 3.20. Better On Handlers
+  - CS  - 3.21. New Filter I
+  - CS  - 3.22. New Filter II
+  - CS  - 3.23. New Filter III
+  - EJ  - Chapter 15: Project: A Platform Game
   - FCC - jQuery - 13. Waypoint: Target the Parent of an Element 
                         Using jQuery 
   - FCC - jQuery - 14. Waypoint: Target the Children of an Element 
@@ -444,89 +457,33 @@ Order of Study:
   - FCC - jQuery - 16. Waypoint: Target Even Numbered Elements Using 
                         jQuery 
   - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the Entire Page
-
-
-
-
-  - CG  - Medium: 3. Skynet: the Virus
-  - CG  - Medium: 4. APU: Init Phase
-  - CG  - Medium: 5. The Paranoid Android
-  - CG  - Medium: 6. Mars Lander - Level 2
-  - CG  - Medium: 7. Heat Detector
-  - CG  - Medium: 8. Indiana - Level 1
-  - CG  - Medium: 9. Stock Exchange Losses
-  - CG  - Medium: 10. Network Cabling
-  - CG  - Medium: 11. Conway Sequence
-  - CG  - Medium: 12. Telephone Numbers
-  - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
-  - CG  - Medium: 14. Bender, a depressed robot
-  - CG  - Medium: 15. Scrabble
-  - CG  - Medium: 16. The Gift
-  - CG  - Medium: 17. Mayan Calculation
-
-
-
-  - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
-  - CS  - 3.12. Removing the Clicked Button
-  - CS  - 3.13. Relative Traversing I
-  - CS  - 3.14. Relative Traversing II
-  - CS  - 3.15. Relative Traversing III
-
-
-  - CS  - Traversing and Filtering 3.16. Traversing and Filtering
-  - CS  - 3.17. Fetching Data From the Dom I
-  - CS  - 3.18. Fetching Data From the Dom II
-  - CS  - 3.19. Refactoring
-  - CS  - 3.20. Better On Handlers
-  - CS  - 3.21. New Filter I
-  - CS  - 3.22. New Filter II
-  - CS  - 3.23. New Filter III
-
-  - CG  - Hard: 1. APU: Improvement Phase
-  - CG  - Hard: 2. The Labyrinth
-  - CG  - Hard: 3. Skynet strikes back
-  - CG  - Hard: 4. The Paranoid Android - One step further
-  - CG  - Hard: 5. Skynet: The Bridge
-
   - CA  - Dynamic HTML
   - CS  - On DOM Load 4.2. On DOM Load
   - CS  - 4.3. On Load I
   - CS  - 4.4. On Load II
   - CS  - 4.5. Slide Effect I
   - CS  - 4.6. Slide Effect II
-  - EJ  - Chapter 13: The Document Object Model
-  - CG  - Hard: 6. Indiana - Level 2
-  - CG  - Hard: 7. Thor VS Giants
-  - CG  - Hard: 8. Vox Codei
-  - CG  - Hard: 9. Super Computer
-  - CG  - Hard: 10. Roller Coaster
-  - EJ  - Chapter 14: Handling Events
   - CS  - Expanding on on() 4.7. Expanding on on()
   - CS  - 4.8. Mouseover I
   - CS  - 4.9. Mouseover II
   - CS  - 4.10. Mouseleave
   - CS  - 4.11. Named Functions
-  - EJ  - Chapter 15: Project: A Platform Game
-  - CG  - Hard: 11. CGX Formatter
-  - CG  - Hard: 12. TAN Network
-  - CG  - Hard: 13. Genome Sequencing
-  - CG  - Hard: 14. Surface
-  - CG  - Hard: 15. Bender - The Money Machine
-  - CG  - Hard: 16. Bender - Algorithmic Complexity
   - EJ  - Chapter 16: Drawing on Canvas
   - CS  - Keyboard Events 4.12. Keyboard Events
   - CS  - 4.13. Keyup Event
   - CS  - 4.14. Keyup Event Handler I
   - CS  - 4.15. Keyup Event Handler II
   - CS  - 4.16. Another Event Handler
-  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
+  - CG  - Medium: 3. Skynet: the Virus
+  - CG  - Medium: 4. APU: Init Phase
   - EJ  - Chapter 17: HTTP
   - CS  - Link Layover 4.17. Link Layover
   - CS  - 4.18. Link Events I
   - CS  - 4.19. Link Events II
   - CS  - 4.20. Event Parameter I
   - CS  - 4.21. Event Parameter II
-  - CG  - Very Hard: 2. Triangulation
+  - CG  - Medium: 5. The Paranoid Android
+  - CG  - Medium: 6. Mars Lander - Level 2
   - EJ  - Chapter 18: Forms and Form Fields
   - CA  - jQuery Events
   - CS  - Taming CSS 5.2. Taming CSS
@@ -534,27 +491,66 @@ Order of Study:
   - CS  - 5.4. CSS II
   - CS  - 5.5. Show Photo
   - CS  - 5.6. Refactoring to CSS
-  - CG  - Very Hard: 3. The Resistance
+  - CG  - Medium: 7. Heat Detector
+  - CG  - Medium: 8. Indiana - Level 1
   - EJ  - Chapter 19: Project: A Paint Program
   - CS  - Animation 5.7. Animation
   - CS  - 5.8. Animate I
   - CS  - 5.9. Animate II
   - CS  - 5.10. Animation Speed
   - CS  - 5.11. Animate III
-  - CG  - Very Hard: 4. Indiana - Level 3
+  - CG  - Medium: 9. Stock Exchange Losses
+  - CG  - Medium: 10. Network Cabling
   - EJ  - Chapter 20: Node.js
   - CA  - jQuery Effects
-  - CG  - Very Hard: 5. Music Scores
+  - CG  - Medium: 11. Conway Sequence
+  - CG  - Medium: 12. Telephone Numbers
   - EJ  - Chapter 21: Project: Skill-Sharing Website
   - CA  - Make An Interactive Website: Unit 1
   - CA  - Make An Interactive Website: Unit 2
   - CA  - Make An Interactive Website: Unit 3
   - CA  - Make An Interactive Website: Unit 4
   - CA  - Make An Interactive Website: Unit 5
-  - CG  - Very Hard: 6. Vox Codei - Redux
+  - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
+  - CG  - Medium: 14. Bender, a depressed robot
   - TOP - jQuery  Basics
-  - CG  - Very Hard: 7. Mars Lander - Level 3
   - TOP - Project - JavaScript and jQuery
+  - CG  - Medium: 15. Scrabble
+  - CG  - Medium: 16. The Gift
+  - CG  - Medium: 17. Mayan Calculation
+
+
+
+  - CG  - Hard: 1. APU: Improvement Phase
+  - CG  - Hard: 2. The Labyrinth
+  - CG  - Hard: 3. Skynet strikes back
+  - CG  - Hard: 4. The Paranoid Android - One step further
+  - CG  - Hard: 5. Skynet: The Bridge
+  - CG  - Hard: 6. Indiana - Level 2
+  - CG  - Hard: 7. Thor VS Giants
+  - CG  - Hard: 8. Vox Codei
+  - CG  - Hard: 9. Super Computer
+  - CG  - Hard: 10. Roller Coaster
+  - CG  - Hard: 11. CGX Formatter
+  - CG  - Hard: 12. TAN Network
+  - CG  - Hard: 13. Genome Sequencing
+  - CG  - Hard: 14. Surface
+  - CG  - Hard: 15. Bender - The Money Machine
+  - CG  - Hard: 16. Bender - Algorithmic Complexity
+  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
+  - CG  - Very Hard: 2. Triangulation
+  - CG  - Very Hard: 3. The Resistance
+  - CG  - Very Hard: 4. Indiana - Level 3
+  - CG  - Very Hard: 5. Music Scores
+  - CG  - Very Hard: 6. Vox Codei - Redux
+  - CG  - Very Hard: 7. Mars Lander - Level 3
+
+
+
+
+
+
+
   
 
   
