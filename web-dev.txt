@@ -519,43 +519,6 @@ Order of Study:
   - CG  - Medium: 16. The Gift
   - CG  - Medium: 17. Mayan Calculation
 
-
-
-  - CG  - Hard: 1. APU: Improvement Phase
-  - CG  - Hard: 2. The Labyrinth
-  - CG  - Hard: 3. Skynet strikes back
-  - CG  - Hard: 4. The Paranoid Android - One step further
-  - CG  - Hard: 5. Skynet: The Bridge
-  - CG  - Hard: 6. Indiana - Level 2
-  - CG  - Hard: 7. Thor VS Giants
-  - CG  - Hard: 8. Vox Codei
-  - CG  - Hard: 9. Super Computer
-  - CG  - Hard: 10. Roller Coaster
-  - CG  - Hard: 11. CGX Formatter
-  - CG  - Hard: 12. TAN Network
-  - CG  - Hard: 13. Genome Sequencing
-  - CG  - Hard: 14. Surface
-  - CG  - Hard: 15. Bender - The Money Machine
-  - CG  - Hard: 16. Bender - Algorithmic Complexity
-  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
-  - CG  - Very Hard: 2. Triangulation
-  - CG  - Very Hard: 3. The Resistance
-  - CG  - Very Hard: 4. Indiana - Level 3
-  - CG  - Very Hard: 5. Music Scores
-  - CG  - Very Hard: 6. Vox Codei - Redux
-  - CG  - Very Hard: 7. Mars Lander - Level 3
-
-
-
-
-
-
-
-  
-
-  
-  
-  
   
   - VCS - Design - 6. What is User Experience?
   - VCS - Design - 7. Components of Good UX
@@ -616,3 +579,28 @@ Order of Study:
   - Learn - Intro To Ruby - BONUS - Advanced Hashes
   - VCS - Markup and Coding - Getting Started with Ruby 16-17 + Project
   - VCS - Markup and Coding - Conclusion 19-20
+
+
+  - CG  - Hard: 1. APU: Improvement Phase
+  - CG  - Hard: 2. The Labyrinth
+  - CG  - Hard: 3. Skynet strikes back
+  - CG  - Hard: 4. The Paranoid Android - One step further
+  - CG  - Hard: 5. Skynet: The Bridge
+  - CG  - Hard: 6. Indiana - Level 2
+  - CG  - Hard: 7. Thor VS Giants
+  - CG  - Hard: 8. Vox Codei
+  - CG  - Hard: 9. Super Computer
+  - CG  - Hard: 10. Roller Coaster
+  - CG  - Hard: 11. CGX Formatter
+  - CG  - Hard: 12. TAN Network
+  - CG  - Hard: 13. Genome Sequencing
+  - CG  - Hard: 14. Surface
+  - CG  - Hard: 15. Bender - The Money Machine
+  - CG  - Hard: 16. Bender - Algorithmic Complexity
+  - CG  - Very Hard: 1. Nintendo Sponsored Challenge
+  - CG  - Very Hard: 2. Triangulation
+  - CG  - Very Hard: 3. The Resistance
+  - CG  - Very Hard: 4. Indiana - Level 3
+  - CG  - Very Hard: 5. Music Scores
+  - CG  - Very Hard: 6. Vox Codei - Redux
+  - CG  - Very Hard: 7. Mars Lander - Level 3
