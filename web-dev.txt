@@ -248,7 +248,7 @@ Order of Study:
   23/10/15  - CS  - Using jQuery 1.8. Using jQuery
   23/10/15  - CS  - 1.9. Include the jQuery Library
   23/10/15  - CS  - 1.10. Include a Custom JavaScript File
-  - CS  - 1.11. Modifying Multiple Elements
+  23/10/15  - CS  - 1.11. Modifying Multiple Elements
   - CS  - 1.12. ID Selector
   - CS  - 1.13. Class Selector
   - FCC - Bootstrap - 1. Waypoint: Use Responsive Design with 
