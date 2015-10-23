@@ -258,7 +258,7 @@ Order of Study:
   23/10/15  - FCC - Bootstrap - 4. Waypoint: Create a Bootstrap Button 
   23/10/15  - FCC - Bootstrap - 5. Waypoint: Create a Block Element Bootstrap 
                           Button 
-  - FCC - Bootstrap - 6. Waypoint: Taste the Bootstrap Button Color 
+  23/10/15  - FCC - Bootstrap - 6. Waypoint: Taste the Bootstrap Button Color 
                           Rainbow 
   - FCC - Bootstrap - 7. Waypoint: Call out Optional Actions with 
                           Button Info 
