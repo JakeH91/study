@@ -260,7 +260,7 @@ Order of Study:
                           Button 
   23/10/15  - FCC - Bootstrap - 6. Waypoint: Taste the Bootstrap Button Color 
                           Rainbow 
-  - FCC - Bootstrap - 7. Waypoint: Call out Optional Actions with 
+  23/10/15  - FCC - Bootstrap - 7. Waypoint: Call out Optional Actions with 
                           Button Info 
   - FCC - Bootstrap - 8. Waypoint: Warn your Users of a Dangerous 
                           Action 
