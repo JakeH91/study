@@ -245,7 +245,7 @@ Order of Study:
                                 Stuck
   22/10/15  - EJ  - Introduction (p2-10)
   22/10/15  - EJ  - Chapter 1: Values, Types and Operators (p11-22)
-  - CS  - Using jQuery 1.8. Using jQuery
+  23/10/15  - CS  - Using jQuery 1.8. Using jQuery
   - CS  - 1.9. Include the jQuery Library
   - CS  - 1.10. Include a Custom JavaScript File
   - CS  - 1.11. Modifying Multiple Elements
