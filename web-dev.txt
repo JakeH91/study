@@ -272,7 +272,7 @@ Order of Study:
   23/10/15  - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for 
                                     Bootstrap 
   23/10/15  - TP  - 6.5 Completing the Website
-  - TP  - 7.1 Conclusion
+  23/10/15  - TP  - 7.1 Conclusion
   - EJ  - Chapter 2: Program Structure
   - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
   - FCC - Bootstrap - 12. Waypoint: Create a Custom Heading 
@@ -282,7 +282,7 @@ Order of Study:
                           our Buttons 
   - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons 
   - FCC - Bootstrap - 16. Waypoint: Responsively Style Checkboxes 
-  
+
   - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as Form 
                           Controls 
   - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
