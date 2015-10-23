@@ -264,7 +264,7 @@ Order of Study:
                           Button Info 
   23/10/15  - FCC - Bootstrap - 8. Waypoint: Warn your Users of a Dangerous 
                           Action 
-  - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid to Put 
+  23/10/15  - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid to Put 
                           Elements Side By Side 
   - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for Bootstrap 
   - TP  - 6.5 Completing the Website
