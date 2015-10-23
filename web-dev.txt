@@ -251,23 +251,27 @@ Order of Study:
   23/10/15  - CS  - 1.11. Modifying Multiple Elements
   23/10/15  - CS  - 1.12. ID Selector
   23/10/15  - CS  - 1.13. Class Selector
-  23/10/15  - FCC - Bootstrap - 1. Waypoint: Use Responsive Design with 
-                          Bootstrap Fluid Containers 
-  23/10/15  - FCC - Bootstrap - 2. Waypoint: Make Images Mobile Responsive 
-  23/10/15  - FCC - Bootstrap - 3. Waypoint: Center Text with Bootstrap 
-  23/10/15  - FCC - Bootstrap - 4. Waypoint: Create a Bootstrap Button 
-  23/10/15  - FCC - Bootstrap - 5. Waypoint: Create a Block Element Bootstrap 
-                          Button 
-  23/10/15  - FCC - Bootstrap - 6. Waypoint: Taste the Bootstrap Button Color 
-                          Rainbow 
-  23/10/15  - FCC - Bootstrap - 7. Waypoint: Call out Optional Actions with 
-                          Button Info 
-  23/10/15  - FCC - Bootstrap - 8. Waypoint: Warn your Users of a Dangerous 
-                          Action 
-  23/10/15  - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid to Put 
-                          Elements Side By Side 
-  23/10/15  - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for Bootstrap 
-  - TP  - 6.5 Completing the Website
+  23/10/15  - FCC - Bootstrap - 1. Waypoint: Use Responsive Design 
+                                    with Bootstrap Fluid Containers 
+  23/10/15  - FCC - Bootstrap - 2. Waypoint: Make Images Mobile 
+                                    Responsive 
+  23/10/15  - FCC - Bootstrap - 3. Waypoint: Center Text with 
+                                    Bootstrap 
+  23/10/15  - FCC - Bootstrap - 4. Waypoint: Create a Bootstrap 
+                                    Button 
+  23/10/15  - FCC - Bootstrap - 5. Waypoint: Create a Block Element 
+                                    Bootstrap Button 
+  23/10/15  - FCC - Bootstrap - 6. Waypoint: Taste the Bootstrap 
+                                    Button Color Rainbow 
+  23/10/15  - FCC - Bootstrap - 7. Waypoint: Call out Optional 
+                                    Actions with Button Info 
+  23/10/15  - FCC - Bootstrap - 8. Waypoint: Warn your Users of a 
+                                    Dangerous Action 
+  23/10/15  - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid 
+                                    to Put Elements Side By Side 
+  23/10/15  - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for 
+                                    Bootstrap 
+  23/10/15  - TP  - 6.5 Completing the Website
   - TP  - 7.1 Conclusion
   - EJ  - Chapter 2: Program Structure
   - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
@@ -278,6 +282,7 @@ Order of Study:
                           our Buttons 
   - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons 
   - FCC - Bootstrap - 16. Waypoint: Responsively Style Checkboxes 
+  
   - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as Form 
                           Controls 
   - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
