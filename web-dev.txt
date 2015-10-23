@@ -253,7 +253,7 @@ Order of Study:
   23/10/15  - CS  - 1.13. Class Selector
   23/10/15  - FCC - Bootstrap - 1. Waypoint: Use Responsive Design with 
                           Bootstrap Fluid Containers 
-  - FCC - Bootstrap - 2. Waypoint: Make Images Mobile Responsive 
+  23/10/15  - FCC - Bootstrap - 2. Waypoint: Make Images Mobile Responsive 
   - FCC - Bootstrap - 3. Waypoint: Center Text with Bootstrap 
   - FCC - Bootstrap - 4. Waypoint: Create a Bootstrap Button 
   - FCC - Bootstrap - 5. Waypoint: Create a Block Element Bootstrap 
