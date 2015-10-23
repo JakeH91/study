@@ -274,13 +274,18 @@ Order of Study:
   23/10/15  - TP  - 6.5 Completing the Website
   23/10/15  - TP  - 7.1 Conclusion
   - EJ  - Chapter 2: Program Structure
+  - TP  - Bootstrap - 1.1 Introduction
+  - TP  - Bootstrap - 2.1 Bootstrap Overview and Installation
   - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
   - FCC - Bootstrap - 12. Waypoint: Create a Custom Heading 
   - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons to our 
                           Buttons 
   - FCC - Bootstrap - 14. Waypoint: Add Font Awesome Icons to all of 
                           our Buttons 
-  - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons 
+  - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons
+  - TP  - Bootstrap - 3.1 The Grid System
+  - TP  - Bootstrap - 3.2 Buttons and Icons
+  - TP  - Bootstrap - 3.3 Form Controls
   - FCC - Bootstrap - 16. Waypoint: Responsively Style Checkboxes 
 
   - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as Form 
@@ -297,7 +302,14 @@ Order of Study:
   - CS  - 2.4. Selecting Direct Children
   - CS  - 2.5. Selecting Multiple Elements
   - CS  - 2.6. The :first Pseudo Selector
-  - CS  - 2.7. The :even Selector  
+  - CS  - 2.7. The :even Selector
+  - TP  - Bootstrap - 4.1 Dropdowns
+  - TP  - Bootstrap - 4.2 Tabs
+  - TP  - Bootstrap - 4.3 The Navbar
+  - TP  - Bootstrap - 4.4 List Groups
+  - TP  - Bootstrap - 4.5 Panels
+  - TP  - Bootstrap - 4.6 Modal Windows
+  - TP  - Bootstrap - 4.7 Collapse Carousels  
   - FCC - Bootstrap - 21. Waypoint: Create a Bootstrap Row 
   - FCC - Bootstrap - 22. Waypoint: Split your Bootstrap Row 
   - FCC - Bootstrap - 23. Waypoint: Create Bootstrap Wells 
@@ -313,6 +325,12 @@ Order of Study:
   - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
   - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
   - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code
+  - TP  - Bootstrap - 5.1 Page Header and Banner
+  - TP  - Bootstrap - 5.2 Testimonials and Features
+  - TP  - Bootstrap - 5.3 Call to Action and Gallery
+  - TP  - Bootstrap - 5.4 Q&A and Contact Form
+  - TP  - Bootstrap - 5.5 Footer, Scrollspy and Responsive Changes
+  - TP  - Bootstrap - 6.1 Final Words
   - FCC - Success - 1. Waypoint: Browse Camper News 
   - FCC - Success - 2. Waypoint: Reference our Wiki 
   - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni Network 
