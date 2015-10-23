@@ -266,7 +266,7 @@ Order of Study:
                           Action 
   23/10/15  - FCC - Bootstrap - 9. Waypoint: Use the Bootstrap Grid to Put 
                           Elements Side By Side 
-  - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for Bootstrap 
+  23/10/15  - FCC - Bootstrap - 10. Waypoint: Ditch Custom CSS for Bootstrap 
   - TP  - 6.5 Completing the Website
   - TP  - 7.1 Conclusion
   - EJ  - Chapter 2: Program Structure
