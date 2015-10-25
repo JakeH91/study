@@ -275,7 +275,10 @@ Order of Study:
                                     Bootstrap 
   23/10/15  - TP  - 6.5 Completing the Website
   23/10/15  - TP  - 7.1 Conclusion
-  - EJ  - Chapter 2: Program Structure
+  - EJ  - Chapter 2: Program Structure (p23-41)
+  - EJ  - Chapter 2: Exercise 1 - Looping a Triangle
+  - EJ  - Chapter 2: Exercise 2 - Fizz Buzz
+  - EJ  - Chapter 2: Exercise 3 - Chess Board
   - TP  - Bootstrap - 1.1 Introduction
   - TP  - Bootstrap - 2.1 Bootstrap Overview and Installation
   - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
@@ -289,7 +292,6 @@ Order of Study:
   - TP  - Bootstrap - 3.2 Buttons and Icons
   - TP  - Bootstrap - 3.3 Form Controls
   - FCC - Bootstrap - 16. Waypoint: Responsively Style Checkboxes 
-
   - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as Form 
                           Controls 
   - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
@@ -297,7 +299,7 @@ Order of Study:
   - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
                           Bootstrap Container Fluid Div 
-  - EJ  - Chapter 3: Functions
+  - EJ  - Chapter 3: Functions (p42-60)
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
   - CS  - 2.3. Descendant Selector
@@ -337,7 +339,7 @@ Order of Study:
   - FCC - Success - 2. Waypoint: Reference our Wiki 
   - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni Network 
   - FCC - Success - 4. Waypoint: Commit to a Goal and a Nonprofit
-  - EJ  - Chapter 4: Data Structures: Objects and Arrays
+  - EJ  - Chapter 4: Data Structures: Objects and Arrays (p61-85)
   - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
   - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
@@ -360,7 +362,7 @@ Order of Study:
   - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
                           Nth-to-Last Character in a String 
   - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript 
-  - EJ  - Chapter 5: Higher-Order Functions  
+  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
   - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
                             Another with JavaScript 
   - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
