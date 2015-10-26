@@ -286,8 +286,8 @@ Order of Study:
                                     Elements 
   26/10/15  - FCC - Bootstrap - 12. Waypoint: Create a Custom 
                                     Heading 
-  - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons to our 
-                          Buttons 
+  26/10/15  - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons 
+                                    to our Buttons 
   - FCC - Bootstrap - 14. Waypoint: Add Font Awesome Icons to all of 
                           our Buttons 
   - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons
