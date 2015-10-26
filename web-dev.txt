@@ -296,8 +296,8 @@ Order of Study:
                                     Checkboxes 
   26/10/15  - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as 
                                     Form Controls 
-  - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
-                          Responsively with Bootstrap 
+  26/10/15  - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
+                                    Responsively with Bootstrap 
   - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
                           Bootstrap Container Fluid Div 
