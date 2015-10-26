@@ -292,18 +292,18 @@ Order of Study:
                                     to all of our Buttons
   26/10/15  - FCC - Bootstrap - 15. Waypoint: Responsively Style 
                                     Radio Buttons
-  - TP  - Bootstrap - 3.1 The Grid System
-  - TP  - Bootstrap - 3.2 Buttons and Icons
-  - TP  - Bootstrap - 3.3 Form Controls
   26/10/15  - FCC - Bootstrap - 16. Waypoint: Responsively Style 
                                     Checkboxes 
-  - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as Form 
-                          Controls 
+  26/10/15  - FCC - Bootstrap - 17. Waypoint: Style Text Inputs as 
+                                    Form Controls 
   - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
                           Responsively with Bootstrap 
   - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
                           Bootstrap Container Fluid Div 
+  - TP  - Bootstrap - 3.1 The Grid System
+  - TP  - Bootstrap - 3.2 Buttons and Icons
+  - TP  - Bootstrap - 3.3 Form Controls
   - EJ  - Chapter 3: Functions (p42-60)
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
