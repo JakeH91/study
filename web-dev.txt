@@ -279,7 +279,7 @@ Order of Study:
   25/10/15  - EJ  - Chapter 2: Exercise 1 - Looping a Triangle
   25/10/15  - EJ  - Chapter 2: Exercise 2 - Fizz Buzz
   26/10/15  - EJ  - Chapter 2: Exercise 3 - Chess Board
-  - TP  - Bootstrap - 1.1 Introduction
+  26/10/15  - TP  - Bootstrap - 1.1 Introduction
   - TP  - Bootstrap - 2.1 Bootstrap Overview and Installation
   - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline Elements 
   - FCC - Bootstrap - 12. Waypoint: Create a Custom Heading 
