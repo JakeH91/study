@@ -288,8 +288,8 @@ Order of Study:
                                     Heading 
   26/10/15  - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons 
                                     to our Buttons 
-  - FCC - Bootstrap - 14. Waypoint: Add Font Awesome Icons to all of 
-                          our Buttons 
+  26/10/15  - FCC - Bootstrap - 14. Waypoint: Add Font Awesome Icons 
+                                    to all of our Buttons
   - FCC - Bootstrap - 15. Waypoint: Responsively Style Radio Buttons
   - TP  - Bootstrap - 3.1 The Grid System
   - TP  - Bootstrap - 3.2 Buttons and Icons
