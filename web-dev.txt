@@ -299,8 +299,9 @@ Order of Study:
   26/10/15  - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
                                     Responsively with Bootstrap 
   26/10/15  - TP  - Bootstrap - 3.1 The Grid System
-  - TP  - Bootstrap - 3.2 Buttons and Icons
+  26/10/15  - TP  - Bootstrap - 3.2 Buttons and Icons
   - TP  - Bootstrap - 3.3 Form Controls
+  - EJ  - Chapter 3: Functions (p42-60)  
   - TP  - Bootstrap - 4.1 Dropdowns
   - TP  - Bootstrap - 4.2 Tabs
   - TP  - Bootstrap - 4.3 The Navbar
@@ -308,7 +309,6 @@ Order of Study:
   - TP  - Bootstrap - 4.5 Panels
   - TP  - Bootstrap - 4.6 Modal Windows
   - TP  - Bootstrap - 4.7 Collapse Carousels
-  - EJ  - Chapter 3: Functions (p42-60)
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
   - CS  - 2.3. Descendant Selector
