@@ -284,7 +284,8 @@ Order of Study:
                                     Installation
   26/10/15  - FCC - Bootstrap - 11. Waypoint: Use Spans for Inline 
                                     Elements 
-  - FCC - Bootstrap - 12. Waypoint: Create a Custom Heading 
+  26/10/15  - FCC - Bootstrap - 12. Waypoint: Create a Custom 
+                                    Heading 
   - FCC - Bootstrap - 13. Waypoint: Add Font Awesome Icons to our 
                           Buttons 
   - FCC - Bootstrap - 14. Waypoint: Add Font Awesome Icons to all of 
