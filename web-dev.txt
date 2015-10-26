@@ -298,12 +298,16 @@ Order of Study:
                                     Form Controls 
   26/10/15  - FCC - Bootstrap - 18. Waypoint: Line up Form Elements 
                                     Responsively with Bootstrap 
-  - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
-  - FCC - Bootstrap - 20. Waypoint: House our page within a 
-                          Bootstrap Container Fluid Div 
-  - TP  - Bootstrap - 3.1 The Grid System
+  26/10/15  - TP  - Bootstrap - 3.1 The Grid System
   - TP  - Bootstrap - 3.2 Buttons and Icons
   - TP  - Bootstrap - 3.3 Form Controls
+  - TP  - Bootstrap - 4.1 Dropdowns
+  - TP  - Bootstrap - 4.2 Tabs
+  - TP  - Bootstrap - 4.3 The Navbar
+  - TP  - Bootstrap - 4.4 List Groups
+  - TP  - Bootstrap - 4.5 Panels
+  - TP  - Bootstrap - 4.6 Modal Windows
+  - TP  - Bootstrap - 4.7 Collapse Carousels
   - EJ  - Chapter 3: Functions (p42-60)
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
@@ -312,13 +316,9 @@ Order of Study:
   - CS  - 2.5. Selecting Multiple Elements
   - CS  - 2.6. The :first Pseudo Selector
   - CS  - 2.7. The :even Selector
-  - TP  - Bootstrap - 4.1 Dropdowns
-  - TP  - Bootstrap - 4.2 Tabs
-  - TP  - Bootstrap - 4.3 The Navbar
-  - TP  - Bootstrap - 4.4 List Groups
-  - TP  - Bootstrap - 4.5 Panels
-  - TP  - Bootstrap - 4.6 Modal Windows
-  - TP  - Bootstrap - 4.7 Collapse Carousels  
+  - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
+  - FCC - Bootstrap - 20. Waypoint: House our page within a 
+                          Bootstrap Container Fluid Div   
   - FCC - Bootstrap - 21. Waypoint: Create a Bootstrap Row 
   - FCC - Bootstrap - 22. Waypoint: Split your Bootstrap Row 
   - FCC - Bootstrap - 23. Waypoint: Create Bootstrap Wells 
@@ -345,6 +345,35 @@ Order of Study:
   - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni Network 
   - FCC - Success - 4. Waypoint: Commit to a Goal and a Nonprofit
   - EJ  - Chapter 4: Data Structures: Objects and Arrays (p61-85)
+  - FCC - jQuery - 1. Waypoint: Learn how Script Tags and Document 
+                      Ready Work
+  - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
+                      Using jQuery 
+  - FCC - jQuery - 3. Waypoint: Target Elements by Class Using 
+                      jQuery 
+  - FCC - jQuery - 4. Waypoint: Target Elements by ID Using jQuery 
+  - FCC - jQuery - 5. Waypoint: Delete your jQuery Functions 
+  - FCC - jQuery - 6. Waypoint: Target the same element with 
+                      multiple jQuery Selectors 
+  - FCC - jQuery - 7. Waypoint: Remove Classes from an element with 
+                      jQuery 
+  - FCC - jQuery - 8. Waypoint: Change the CSS of an Element Using 
+                      jQuery 
+  - FCC - jQuery - 9. Waypoint: Disable an Element Using jQuery 
+  - FCC - jQuery - 10. Waypoint: Remove an Element Using jQuery 
+  - FCC - jQuery - 11. Waypoint: Use appendTo to Move Elements with 
+                        jQuery 
+  - FCC - jQuery - 12. Waypoint: Clone an Element Using jQuery 
+  - FCC - jQuery - 13. Waypoint: Target the Parent of an Element 
+                        Using jQuery 
+  - FCC - jQuery - 14. Waypoint: Target the Children of an Element 
+                        Using jQuery 
+  - FCC - jQuery - 15. Waypoint: Target a Specific Child of an 
+                        Element Using jQuery 
+  - FCC - jQuery - 16. Waypoint: Target Even Numbered Elements Using 
+                        jQuery 
+  - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the Entire Page
+  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
   - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
   - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
@@ -367,7 +396,6 @@ Order of Study:
   - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
                           Nth-to-Last Character in a String 
   - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript 
-  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
   - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
                             Another with JavaScript 
   - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
@@ -444,37 +472,18 @@ Order of Study:
   - CS  - 3.4. Adding to the DOM I
   - CS  - 3.5. Adding to the DOM II
   - CS  - 3.6. Removing From the DOM
-  - EJ  - Chapter 12: JavaScript and the Browser
-  - FCC - jQuery - 1. Waypoint: Learn how Script Tags and Document 
-                      Ready Work
-  - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
-                      Using jQuery 
-  - FCC - jQuery - 3. Waypoint: Target Elements by Class Using 
-                      jQuery 
-  - FCC - jQuery - 4. Waypoint: Target Elements by ID Using jQuery 
+  - EJ  - Chapter 12: JavaScript and the Browser 
   - CS  - Acting on Interaction 3.7. Acting on Interaction
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
   - CS  - 3.10. On Page Load
   - EJ  - Chapter 13: The Document Object Model
-  - FCC - jQuery - 5. Waypoint: Delete your jQuery Functions 
-  - FCC - jQuery - 6. Waypoint: Target the same element with 
-                      multiple jQuery Selectors 
-  - FCC - jQuery - 7. Waypoint: Remove Classes from an element with 
-                      jQuery 
-  - FCC - jQuery - 8. Waypoint: Change the CSS of an Element Using 
-                      jQuery 
   - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
   - CS  - 3.12. Removing the Clicked Button
   - CS  - 3.13. Relative Traversing I
   - CS  - 3.14. Relative Traversing II
   - CS  - 3.15. Relative Traversing III
-  - EJ  - Chapter 14: Handling Events
-  - FCC - jQuery - 9. Waypoint: Disable an Element Using jQuery 
-  - FCC - jQuery - 10. Waypoint: Remove an Element Using jQuery 
-  - FCC - jQuery - 11. Waypoint: Use appendTo to Move Elements with 
-                        jQuery 
-  - FCC - jQuery - 12. Waypoint: Clone an Element Using jQuery 
+  - EJ  - Chapter 14: Handling Events 
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
   - CS  - 3.17. Fetching Data From the Dom I
   - CS  - 3.18. Fetching Data From the Dom II
@@ -484,15 +493,6 @@ Order of Study:
   - CS  - 3.22. New Filter II
   - CS  - 3.23. New Filter III
   - EJ  - Chapter 15: Project: A Platform Game
-  - FCC - jQuery - 13. Waypoint: Target the Parent of an Element 
-                        Using jQuery 
-  - FCC - jQuery - 14. Waypoint: Target the Children of an Element 
-                        Using jQuery 
-  - FCC - jQuery - 15. Waypoint: Target a Specific Child of an 
-                        Element Using jQuery 
-  - FCC - jQuery - 16. Waypoint: Target Even Numbered Elements Using 
-                        jQuery 
-  - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the Entire Page
   - CA  - Dynamic HTML
   - CS  - On DOM Load 4.2. On DOM Load
   - CS  - 4.3. On Load I
