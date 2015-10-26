@@ -300,15 +300,8 @@ Order of Study:
                                     Responsively with Bootstrap 
   26/10/15  - TP  - Bootstrap - 3.1 The Grid System
   26/10/15  - TP  - Bootstrap - 3.2 Buttons and Icons
-  - TP  - Bootstrap - 3.3 Form Controls
+  26/10/15  - TP  - Bootstrap - 3.3 Form Controls
   - EJ  - Chapter 3: Functions (p42-60)  
-  - TP  - Bootstrap - 4.1 Dropdowns
-  - TP  - Bootstrap - 4.2 Tabs
-  - TP  - Bootstrap - 4.3 The Navbar
-  - TP  - Bootstrap - 4.4 List Groups
-  - TP  - Bootstrap - 4.5 Panels
-  - TP  - Bootstrap - 4.6 Modal Windows
-  - TP  - Bootstrap - 4.7 Collapse Carousels
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
   - CS  - 2.3. Descendant Selector
@@ -326,6 +319,13 @@ Order of Study:
                           Bootstrap Wells 
   - FCC - Bootstrap - 25. Waypoint: Apply the Default Bootstrap 
                           Button Style 
+  - TP  - Bootstrap - 4.1 Dropdowns
+  - TP  - Bootstrap - 4.2 Tabs
+  - TP  - Bootstrap - 4.3 The Navbar
+  - TP  - Bootstrap - 4.4 List Groups
+  - TP  - Bootstrap - 4.5 Panels
+  - TP  - Bootstrap - 4.6 Modal Windows
+  - TP  - Bootstrap - 4.7 Collapse Carousels  
   - FCC - Bootstrap - 26. Waypoint: Create a Class to Target with 
                           jQuery Selectors 
   - FCC - Bootstrap - 27. Waypoint: Add ID Attributes to Bootstrap 
