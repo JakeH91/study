@@ -309,7 +309,7 @@ Order of Study:
   27/10/15  - TP  - HTML - Solid Forms: 2.5 Placeholder Text
   27/10/15  - TP  - HTML - Solid Forms: 2.6 Autofocus and Tab Index
   27/10/15  - TP  - HTML - Solid Forms: 2.7 Client Side Validation
-  - TP  - HTML - Solid Forms: 3.1 Final Thoughts
+  27/10/15  - TP  - HTML - Solid Forms: 3.1 Final Thoughts
   - Self- Project 1: Basic HTML/CSS Forms (w/ some Bootstrap)
   - EJ  - Chapter 3: Functions (p42-60)  
   - CA  - Introducing jQuery
