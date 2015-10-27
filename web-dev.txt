@@ -301,7 +301,7 @@ Order of Study:
   26/10/15  - TP  - Bootstrap - 3.1 The Grid System
   26/10/15  - TP  - Bootstrap - 3.2 Buttons and Icons
   26/10/15  - TP  - Bootstrap - 3.3 Form Controls
-  - TP  - HTML - Solid Forms: 1.1 Introduction
+  27/10/15  - TP  - HTML - Solid Forms: 1.1 Introduction
   - TP  - HTML - Solid Forms: 2.1 The Form Element
   - TP  - HTML - Solid Forms: 2.2 Text Inputs and Labels
   - TP  - HTML - Solid Forms: 2.3 Other Input Types
