@@ -303,7 +303,7 @@ Order of Study:
   26/10/15  - TP  - Bootstrap - 3.3 Form Controls
   27/10/15  - TP  - HTML - Solid Forms: 1.1 Introduction
   27/10/15  - TP  - HTML - Solid Forms: 2.1 The Form Element
-  - TP  - HTML - Solid Forms: 2.2 Text Inputs and Labels
+  27/10/15  - TP  - HTML - Solid Forms: 2.2 Text Inputs and Labels
   - TP  - HTML - Solid Forms: 2.3 Other Input Types
   - TP  - HTML - Solid Forms: 2.4 Fieldsets and Legends
   - TP  - HTML - Solid Forms: 2.5 Placeholder Text
