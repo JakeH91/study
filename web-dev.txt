@@ -320,7 +320,7 @@ Order of Study:
   28/10/15  - CS  - Searching the DOM 2.2. Searching the DOM
   28/10/15  - CS  - 2.3. Descendant Selector
   28/10/15  - CS  - 2.4. Selecting Direct Children
-  - CS  - 2.5. Selecting Multiple Elements
+  28/10/15  - CS  - 2.5. Selecting Multiple Elements
   - CS  - 2.6. The :first Pseudo Selector
   - CS  - 2.7. The :even Selector
   - TP  - jQuery - 1.1 Welcome
