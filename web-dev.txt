@@ -313,6 +313,9 @@ Order of Study:
   28/10/15  - Self- Project 1: Basic HTML/CSS Forms (w/ some 
                                 Bootstrap)
   28/10/15  - EJ  - Chapter 3: Functions (p42-60)  
+  - EJ  - Chapter 3: Exercise 1 - Minimum
+  - EJ  - Chapter 3: Exercise 2 - Recursion
+  - EJ  - Chapter 3: Exercise 3 - Bean Counting
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
   - CS  - 2.3. Descendant Selector
