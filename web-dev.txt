@@ -317,7 +317,7 @@ Order of Study:
   28/10/15  - EJ  - Chapter 3: Exercise 2 - Recursion
   28/10/15  - EJ  - Chapter 3: Exercise 3 - Bean Counting
   28/10/15  - CA  - Introducing jQuery
-  - CS  - Searching the DOM 2.2. Searching the DOM
+  28/10/15  - CS  - Searching the DOM 2.2. Searching the DOM
   - CS  - 2.3. Descendant Selector
   - CS  - 2.4. Selecting Direct Children
   - CS  - 2.5. Selecting Multiple Elements
