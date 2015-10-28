@@ -323,6 +323,14 @@ Order of Study:
   - CS  - 2.5. Selecting Multiple Elements
   - CS  - 2.6. The :first Pseudo Selector
   - CS  - 2.7. The :even Selector
+  - TP  - jQuery - 1.1 Welcome
+  - TP  - jQuery - 2.1 Hello jQuery
+  - TP  - jQuery - 2.2 Not So Fast, jQuery
+  - TP  - jQuery - 2.3 The Basics of Querying the DOM
+  - TP  - jQuery - 2.4 Events 101
+  - TP  - jQuery - 2.5 Events 201
+  - TP  - jQuery - 2.6 Bind...Live...Delegate...Huh?
+  - TP  - jQuery - 2.7 Creating and Appending Content
   - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
                           Bootstrap Container Fluid Div   
@@ -359,6 +367,16 @@ Order of Study:
   - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni Network 
   - FCC - Success - 4. Waypoint: Commit to a Goal and a Nonprofit
   - EJ  - Chapter 4: Data Structures: Objects and Arrays (p61-85)
+  - TP  - jQuery - 3.1 Slides and Structure
+  - TP  - jQuery - 3.2 The this Keyword
+  - TP  - jQuery - 3.3 Modifying Effect Speeds
+  - TP  - jQuery - 3.4 Creating Custom Effect Methods
+  - TP  - jQuery - 3.5 Full Control With animate
+  - TP  - jQuery - 3.6 Homework Solutions
+  - TP  - jQuery - 3.7 The Obligatory Slider (First Attempt)
+  - TP  - jQuery - 3.8 Prototypal Inheritance and 
+                              Refactoring the Slider
+  - TP  - jQuery - 3.9 Your Questions Answered
   - FCC - jQuery - 1. Waypoint: Learn how Script Tags and Document 
                       Ready Work
   - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
@@ -397,7 +415,12 @@ Order of Study:
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
   - FCC - JavaScript - 4. Waypoint: Declare String Variables 
   - FCC - JavaScript - 5. Waypoint: Check the Length Property of a 
-                          String Variable 
+                          String Variable
+  - TP  - jQuery - 4.1 $.each and Templating
+  - TP  - jQuery - 4.2 Say Hello to Handlebars
+  - TP  - jQuery - 4.3 The Twitter API
+  - TP  - jQuery - 4.4 Filtering with jQuery.grep
+  - TP  - jQuery - 5.1 Custom Events and the Observer Pattern
   - CS  - Traversing the DOM 2.8. Traversing the DOM
   - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
@@ -534,6 +557,11 @@ Order of Study:
   - CG  - Medium: 1. Winamax Sponsored Challenge
   - CG  - Medium: 2. Teads Sponsored Challenge
   - CA  - jQuery Functions
+  - TP  - jQuery - 6.1 Loading Pages Asynchronously
+  - TP  - jQuery - 6.2 Interacting with the Server-Side
+  - TP  - jQuery - 6.3 PHP and jQuery: Part 1
+  - TP  - jQuery - 6.4 PHP and jQuery: Part 2
+  - TP  - jQuery - 6.5 Deferreds
   - CS  - Manipulating the DOM 3.2. Manipulating the DOM
   - CS  - 3.3. Creating a DOM Node
   - CS  - 3.4. Adding to the DOM I
@@ -561,6 +589,8 @@ Order of Study:
   - CS  - 3.23. New Filter III
   - EJ  - Chapter 15: Project: A Platform Game
   - CA  - Dynamic HTML
+  - TP  - jQuery - 7.1 Head First Into Plugin Development
+  - TP  - jQuery - 8.1 Goodbye
   - CS  - On DOM Load 4.2. On DOM Load
   - CS  - 4.3. On Load I
   - CS  - 4.4. On Load II
