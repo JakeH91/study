@@ -312,7 +312,7 @@ Order of Study:
   27/10/15  - TP  - HTML - Solid Forms: 3.1 Final Thoughts
   28/10/15  - Self- Project 1: Basic HTML/CSS Forms (w/ some 
                                 Bootstrap)
-  - EJ  - Chapter 3: Functions (p42-60)  
+  28/10/15  - EJ  - Chapter 3: Functions (p42-60)  
   - CA  - Introducing jQuery
   - CS  - Searching the DOM 2.2. Searching the DOM
   - CS  - 2.3. Descendant Selector
