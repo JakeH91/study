@@ -323,7 +323,7 @@ Order of Study:
   28/10/15  - CS  - 2.5. Selecting Multiple Elements
   28/10/15  - CS  - 2.6. The :first Pseudo Selector
   28/10/15  - CS  - 2.7. The :even Selector
-  - TP  - jQuery - 1.1 Welcome
+  29/10/15  - TP  - jQuery - 1.1 Welcome
   - TP  - jQuery - 2.1 Hello jQuery
   - TP  - jQuery - 2.2 Not So Fast, jQuery
   - TP  - jQuery - 2.3 The Basics of Querying the DOM
