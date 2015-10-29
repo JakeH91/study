@@ -330,7 +330,7 @@ Order of Study:
   29/10/15  - TP  - jQuery - 2.4 Events 101
   29/10/15  - TP  - jQuery - 2.5 Events 201
   29/10/15  - TP  - jQuery - 2.6 Bind...Live...Delegate...Huh?
-  - TP  - jQuery - 2.7 Creating and Appending Content
+  29/10/15  - TP  - jQuery - 2.7 Creating and Appending Content
   - EJ  - Chapter 4: Data Structures: Objects and Arrays (p61-85)
   - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
