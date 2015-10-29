@@ -324,7 +324,7 @@ Order of Study:
   28/10/15  - CS  - 2.6. The :first Pseudo Selector
   28/10/15  - CS  - 2.7. The :even Selector
   29/10/15  - TP  - jQuery - 1.1 Welcome
-  - TP  - jQuery - 2.1 Hello jQuery
+  29/10/15  - TP  - jQuery - 2.1 Hello jQuery
   - TP  - jQuery - 2.2 Not So Fast, jQuery
   - TP  - jQuery - 2.3 The Basics of Querying the DOM
   - TP  - jQuery - 2.4 Events 101
