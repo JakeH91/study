@@ -327,7 +327,7 @@ Order of Study:
   29/10/15  - TP  - jQuery - 2.1 Hello jQuery
   29/10/15  - TP  - jQuery - 2.2 Not So Fast, jQuery
   29/10/15  - TP  - jQuery - 2.3 The Basics of Querying the DOM
-  - TP  - jQuery - 2.4 Events 101
+  29/10/15  - TP  - jQuery - 2.4 Events 101
   - TP  - jQuery - 2.5 Events 201
   - TP  - jQuery - 2.6 Bind...Live...Delegate...Huh?
   - TP  - jQuery - 2.7 Creating and Appending Content
