@@ -344,7 +344,15 @@ Order of Study:
   30/10/15  - FCC - Bootstrap - 24. Waypoint: Add Elements within 
                                     your Bootstrap Wells 
   30/10/15  - FCC - Bootstrap - 25. Waypoint: Apply the Default 
-                                    Bootstrap Button Style 
+                                    Bootstrap Button Style
+  30/10/15  - FCC - Bootstrap - 26. Waypoint: Create a Class to 
+                                    Target with jQuery Selectors 
+  - FCC - Bootstrap - 27. Waypoint: Add ID Attributes to Bootstrap 
+                          Elements 
+  - FCC - Bootstrap - 28. Waypoint: Label Bootstrap Wells 
+  - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
+  - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
+  - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code 
   - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
   - EJ  - Chapter 4: Exercise 2 - Reversing an Array
   - EJ  - Chapter 4: Exercise 3 - A List 
@@ -356,14 +364,6 @@ Order of Study:
   - TP  - Bootstrap - 4.5 Panels
   - TP  - Bootstrap - 4.6 Modal Windows
   - TP  - Bootstrap - 4.7 Collapse Carousels  
-  - FCC - Bootstrap - 26. Waypoint: Create a Class to Target with 
-                          jQuery Selectors 
-  - FCC - Bootstrap - 27. Waypoint: Add ID Attributes to Bootstrap 
-                          Elements 
-  - FCC - Bootstrap - 28. Waypoint: Label Bootstrap Wells 
-  - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
-  - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
-  - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code
   - TP  - Bootstrap - 5.1 Page Header and Banner
   - TP  - Bootstrap - 5.2 Testimonials and Features
   - TP  - Bootstrap - 5.3 Call to Action and Gallery
