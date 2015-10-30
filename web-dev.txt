@@ -352,7 +352,8 @@ Order of Study:
   30/10/15  - FCC - Bootstrap - 28. Waypoint: Label Bootstrap Wells 
   30/10/15  - FCC - Bootstrap - 29. Waypoint: Give Each Element a 
                                     Unique ID 
-  - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
+  30/10/15  - FCC - Bootstrap - 30. Waypoint: Label Bootstrap 
+                                    Buttons 
   - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code 
   - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
   - EJ  - Chapter 4: Exercise 2 - Reversing an Array
