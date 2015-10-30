@@ -333,11 +333,8 @@ Order of Study:
   29/10/15  - TP  - jQuery - 2.7 Creating and Appending Content
   30/10/15  - EJ  - Chapter 4: Data Structures: Objects and Arrays 
                     (p61-85)
-  - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
-  - EJ  - Chapter 4: Exercise 2 - Reversing an Array
-  - EJ  - Chapter 4: Exercise 3 - A List 
-  - EJ  - Chapter 4: Exercise 4 - Deep Comparison
-  - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap Headline 
+  30/10/15  - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap 
+                                    Headline 
   - FCC - Bootstrap - 20. Waypoint: House our page within a 
                           Bootstrap Container Fluid Div   
   - FCC - Bootstrap - 21. Waypoint: Create a Bootstrap Row 
@@ -347,6 +344,10 @@ Order of Study:
                           Bootstrap Wells 
   - FCC - Bootstrap - 25. Waypoint: Apply the Default Bootstrap 
                           Button Style 
+  - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
+  - EJ  - Chapter 4: Exercise 2 - Reversing an Array
+  - EJ  - Chapter 4: Exercise 3 - A List 
+  - EJ  - Chapter 4: Exercise 4 - Deep Comparison
   - TP  - Bootstrap - 4.1 Dropdowns
   - TP  - Bootstrap - 4.2 Tabs
   - TP  - Bootstrap - 4.3 The Navbar
