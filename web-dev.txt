@@ -350,7 +350,8 @@ Order of Study:
   30/10/15  - FCC - Bootstrap - 27. Waypoint: Add ID Attributes to 
                                     Bootstrap Elements 
   30/10/15  - FCC - Bootstrap - 28. Waypoint: Label Bootstrap Wells 
-  - FCC - Bootstrap - 29. Waypoint: Give Each Element a Unique ID 
+  30/10/15  - FCC - Bootstrap - 29. Waypoint: Give Each Element a 
+                                    Unique ID 
   - FCC - Bootstrap - 30. Waypoint: Label Bootstrap Buttons 
   - FCC - Bootstrap - 31. Waypoint: Use Comments to Clarify Code 
   - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
