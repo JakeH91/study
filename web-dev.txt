@@ -335,8 +335,8 @@ Order of Study:
                     (p61-85)
   30/10/15  - FCC - Bootstrap - 19. Waypoint: Create a Bootstrap 
                                     Headline 
-  - FCC - Bootstrap - 20. Waypoint: House our page within a 
-                          Bootstrap Container Fluid Div   
+  30/10/15  - FCC - Bootstrap - 20. Waypoint: House our page within 
+                                    a Bootstrap Container Fluid Div   
   - FCC - Bootstrap - 21. Waypoint: Create a Bootstrap Row 
   - FCC - Bootstrap - 22. Waypoint: Split your Bootstrap Row 
   - FCC - Bootstrap - 23. Waypoint: Create Bootstrap Wells 
