@@ -343,8 +343,8 @@ Order of Study:
   30/10/15  - FCC - Bootstrap - 23. Waypoint: Create Bootstrap Wells 
   30/10/15  - FCC - Bootstrap - 24. Waypoint: Add Elements within 
                                     your Bootstrap Wells 
-  - FCC - Bootstrap - 25. Waypoint: Apply the Default Bootstrap 
-                          Button Style 
+  30/10/15  - FCC - Bootstrap - 25. Waypoint: Apply the Default 
+                                    Bootstrap Button Style 
   - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
   - EJ  - Chapter 4: Exercise 2 - Reversing an Array
   - EJ  - Chapter 4: Exercise 3 - A List 
