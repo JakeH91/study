@@ -357,7 +357,7 @@ Order of Study:
   30/10/15  - FCC - Bootstrap - 31. Waypoint: Use Comments to 
                                     Clarify Code 
   30/10/15  - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
-  - EJ  - Chapter 4: Exercise 2 - Reversing an Array
+  31/10/15  - EJ  - Chapter 4: Exercise 2 - Reversing an Array
   - EJ  - Chapter 4: Exercise 3 - A List 
   - EJ  - Chapter 4: Exercise 4 - Deep Comparison
   - TP  - Bootstrap - 4.1 Dropdowns
