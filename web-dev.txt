@@ -358,7 +358,7 @@ Order of Study:
                                     Clarify Code 
   30/10/15  - EJ  - Chapter 4: Exercise 1 - The Sum of a Range
   31/10/15  - EJ  - Chapter 4: Exercise 2 - Reversing an Array
-  - TP  - Bootstrap - 4.1 Dropdowns
+  31/10/15  - TP  - Bootstrap - 4.1 Dropdowns
   - TP  - Bootstrap - 4.2 Tabs
   - TP  - Bootstrap - 4.3 The Navbar
   - TP  - Bootstrap - 4.4 List Groups
