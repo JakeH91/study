@@ -361,9 +361,9 @@ Order of Study:
   31/10/15  - TP  - Bootstrap - 4.1 Dropdowns
   31/10/15  - TP  - Bootstrap - 4.2 Tabs
   31/10/15  - TP  - Bootstrap - 4.3 The Navbar
-  - TP  - Bootstrap - 4.4 List Groups
-  - TP  - Bootstrap - 4.5 Panels
-  - TP  - Bootstrap - 4.6 Modal Windows
+  31/10/15  - TP  - Bootstrap - 4.4 List Groups
+  31/10/15  - TP  - Bootstrap - 4.5 Panels
+  31/10/15  - TP  - Bootstrap - 4.6 Modal Windows
   - TP  - Bootstrap - 4.7 Collapse Carousels  
   - TP  - Bootstrap - 5.1 Page Header and Banner
   - TP  - Bootstrap - 5.2 Testimonials and Features
