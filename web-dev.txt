@@ -367,7 +367,8 @@ Order of Study:
   31/10/15  - TP  - Bootstrap - 4.7 Collapse Carousels
   01/11/15  - FCC - Success - 1. Waypoint: Browse Camper News 
   01/11/15  - FCC - Success - 2. Waypoint: Reference our Wiki 
-  - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni Network 
+  01/11/15  - FCC - Success - 3. Waypoint: Join our LinkedIn Alumni 
+                                  Network 
   - FCC - Success - 4. Waypoint: Commit to a Goal and a Nonprofit  
   - TP  - Bootstrap - 5.1 Page Header and Banner
   - TP  - Bootstrap - 5.2 Testimonials and Features
