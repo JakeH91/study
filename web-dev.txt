@@ -377,7 +377,7 @@ Order of Study:
   02/11/15  - TP  - Bootstrap - 5.4 Q&A and Contact Form
   02/11/15  - TP  - Bootstrap - 5.5 Footer, Scrollspy and Responsive 
                                     Changes
-  - TP  - Bootstrap - 6.1 Final Words
+  02/11/15  - TP  - Bootstrap - 6.1 Final Words
   - EJ  - Chapter 5: Higher-Order Functions (p86-104)
   - TP  - jQuery - 3.1 Slides and Structure
   - TP  - jQuery - 3.2 The this Keyword
