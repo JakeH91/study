@@ -374,7 +374,7 @@ Order of Study:
   02/11/15  - TP  - Bootstrap - 5.1 Page Header and Banner
   02/11/15  - TP  - Bootstrap - 5.2 Testimonials and Features
   02/11/15  - TP  - Bootstrap - 5.3 Call to Action and Gallery
-  - TP  - Bootstrap - 5.4 Q&A and Contact Form
+  02/11/15  - TP  - Bootstrap - 5.4 Q&A and Contact Form
   - TP  - Bootstrap - 5.5 Footer, Scrollspy and Responsive Changes
   - TP  - Bootstrap - 6.1 Final Words
   - EJ  - Chapter 5: Higher-Order Functions (p86-104)
