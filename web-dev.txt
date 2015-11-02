@@ -509,6 +509,15 @@ Order of Study:
   - FCC - JavaScript - 4. Waypoint: Declare String Variables 
   - FCC - JavaScript - 5. Waypoint: Check the Length Property of a 
                           String Variable
+  - FCC - JavaScript - 6. Waypoint: Use Bracket Notation to Find the 
+                          First Character in a String 
+  - FCC - JavaScript - 7. Waypoint: Use Bracket Notation to Find the 
+                          Nth Character in a String 
+  - FCC - JavaScript - 8. Waypoint: Use Bracket Notation to Find the 
+                          Last Character in a String 
+  - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
+                          Nth-to-Last Character in a String 
+  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript
   - EJ  - Chapter 12: JavaScript and the Browser
   - TP  - JavaScript - 2.1 Variables
   - TP  - JavaScript - 2.2 Data Types
@@ -521,15 +530,7 @@ Order of Study:
   - TP  - JavaScript - 2.9 this
   - TP  - JavaScript - 2.10 JavaScript Keywords
   - TP  - JavaScript - 2.11 Section 2 Summary
-  - FCC - JavaScript - 6. Waypoint: Use Bracket Notation to Find the 
-                          First Character in a String 
-  - FCC - JavaScript - 7. Waypoint: Use Bracket Notation to Find the 
-                          Nth Character in a String 
-  - FCC - JavaScript - 8. Waypoint: Use Bracket Notation to Find the 
-                          Last Character in a String 
-  - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
-                          Nth-to-Last Character in a String 
-  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript 
+   
   - EJ  - Chapter 13: The Document Object Model
   - TP  - JavaScript - 3.1 Conditionals
   - TP  - JavaScript - 3.2 switch
