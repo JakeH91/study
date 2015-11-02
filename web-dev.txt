@@ -373,7 +373,7 @@ Order of Study:
                                   Nonprofit  
   02/11/15  - TP  - Bootstrap - 5.1 Page Header and Banner
   02/11/15  - TP  - Bootstrap - 5.2 Testimonials and Features
-  - TP  - Bootstrap - 5.3 Call to Action and Gallery
+  02/11/15  - TP  - Bootstrap - 5.3 Call to Action and Gallery
   - TP  - Bootstrap - 5.4 Q&A and Contact Form
   - TP  - Bootstrap - 5.5 Footer, Scrollspy and Responsive Changes
   - TP  - Bootstrap - 6.1 Final Words
