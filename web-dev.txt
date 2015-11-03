@@ -390,8 +390,8 @@ Order of Study:
                                 Using jQuery 
   03/11/15  - FCC - jQuery - 5. Waypoint: Delete your jQuery 
                                 Functions 
-  - FCC - jQuery - 6. Waypoint: Target the same element with 
-                      multiple jQuery Selectors 
+  03/11/15  - FCC - jQuery - 6. Waypoint: Target the same element 
+                                with multiple jQuery Selectors 
   - FCC - jQuery - 7. Waypoint: Remove Classes from an element with 
                       jQuery 
   - FCC - jQuery - 8. Waypoint: Change the CSS of an Element Using 
