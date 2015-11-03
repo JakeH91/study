@@ -402,7 +402,8 @@ Order of Study:
                                   jQuery 
   03/11/15  - FCC - jQuery - 11. Waypoint: Use appendTo to Move 
                                   Elements with jQuery 
-  - FCC - jQuery - 12. Waypoint: Clone an Element Using jQuery 
+  03/11/15  - FCC - jQuery - 12. Waypoint: Clone an Element Using 
+                                  jQuery 
   - FCC - jQuery - 13. Waypoint: Target the Parent of an Element 
                         Using jQuery 
   - FCC - jQuery - 14. Waypoint: Target the Children of an Element 
