@@ -379,6 +379,7 @@ Order of Study:
                                     Changes
   02/11/15  - TP  - Bootstrap - 6.1 Final Words
   03/11/15  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
+  03/11/15  - EJ  - Chapter 5: Exercise 1 - Flattening
   - FCC - jQuery - 1. Waypoint: Learn how Script Tags and Document 
                       Ready Work
   - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
