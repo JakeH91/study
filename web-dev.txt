@@ -394,8 +394,8 @@ Order of Study:
                                 with multiple jQuery Selectors 
   03/11/15  - FCC - jQuery - 7. Waypoint: Remove Classes from an 
                                 element with jQuery 
-  - FCC - jQuery - 8. Waypoint: Change the CSS of an Element Using 
-                      jQuery 
+  03/11/15  - FCC - jQuery - 8. Waypoint: Change the CSS of an 
+                                Element Using jQuery 
   - FCC - jQuery - 9. Waypoint: Disable an Element Using jQuery 
   - FCC - jQuery - 10. Waypoint: Remove an Element Using jQuery 
   - FCC - jQuery - 11. Waypoint: Use appendTo to Move Elements with 
