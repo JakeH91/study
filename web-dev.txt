@@ -410,8 +410,8 @@ Order of Study:
                                   Element Using jQuery 
   03/11/15  - FCC - jQuery - 15. Waypoint: Target a Specific Child 
                                   of an Element Using jQuery 
-  - FCC - jQuery - 16. Waypoint: Target Even Numbered Elements Using 
-                        jQuery 
+  03/11/15  - FCC - jQuery - 16. Waypoint: Target Even Numbered 
+                                  Elements Using jQuery 
   - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the Entire Page
   - EJ  - Chapter 6: The Secret Life of Objects
   - TP  - jQuery - 3.1 Slides and Structure
