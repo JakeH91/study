@@ -382,8 +382,8 @@ Order of Study:
   03/11/15  - EJ  - Chapter 5: Exercise 1 - Flattening
   03/11/15  - FCC - jQuery - 1. Waypoint: Learn how Script Tags and 
                                 Document Ready Work
-  - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
-                      Using jQuery 
+  03/11/15  - FCC - jQuery - 2. Waypoint: Target HTML Elements with 
+                                Selectors Using jQuery 
   - FCC - jQuery - 3. Waypoint: Target Elements by Class Using 
                       jQuery 
   - FCC - jQuery - 4. Waypoint: Target Elements by ID Using jQuery 
