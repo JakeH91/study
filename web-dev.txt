@@ -663,6 +663,11 @@ Order of Study:
   - CG  - Medium: 16. The Gift
   - CG  - Medium: 17. Mayan Calculation
   - TOP - Project - JavaScript and jQuery
+  - EJ  - Chapter 4: Exercise 3 - A List
+  - EJ  - Chapter 4: Exercise 4 - Deep Comparison
+  - EJ  - Chapter 5: Exercise 2 - Mother-Child Age Difference
+  - EJ  - Chapter 5: Exercise 3 - Historical Life Expectancy
+  - EJ  - Chapter 5: Exercise 4 - Every and Then Some
   
   - VCS - Design - 6. What is User Experience?
   - VCS - Design - 7. Components of Good UX
