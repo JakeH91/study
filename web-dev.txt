@@ -378,18 +378,7 @@ Order of Study:
   02/11/15  - TP  - Bootstrap - 5.5 Footer, Scrollspy and Responsive 
                                     Changes
   02/11/15  - TP  - Bootstrap - 6.1 Final Words
-  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
-  - TP  - jQuery - 3.1 Slides and Structure
-  - TP  - jQuery - 3.2 The this Keyword
-  - TP  - jQuery - 3.3 Modifying Effect Speeds
-  - TP  - jQuery - 3.4 Creating Custom Effect Methods
-  - TP  - jQuery - 3.5 Full Control With animate
-  - TP  - jQuery - 3.6 Homework Solutions
-  - TP  - jQuery - 3.7 The Obligatory Slider (First Attempt)
-  - TP  - jQuery - 3.8 Prototypal Inheritance and 
-                              Refactoring the Slider
-  - TP  - jQuery - 3.9 Your Questions Answered
-  - EJ  - Chapter 6: The Secret Life of Objects
+  03/11/15  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
   - FCC - jQuery - 1. Waypoint: Learn how Script Tags and Document 
                       Ready Work
   - FCC - jQuery - 2. Waypoint: Target HTML Elements with Selectors 
@@ -418,11 +407,17 @@ Order of Study:
   - FCC - jQuery - 16. Waypoint: Target Even Numbered Elements Using 
                         jQuery 
   - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the Entire Page
-  - TP  - jQuery - 4.1 $.each and Templating
-  - TP  - jQuery - 4.2 Say Hello to Handlebars
-  - TP  - jQuery - 4.3 The Twitter API
-  - TP  - jQuery - 4.4 Filtering with jQuery.grep
-  - TP  - jQuery - 5.1 Custom Events and the Observer Pattern
+  - EJ  - Chapter 6: The Secret Life of Objects
+  - TP  - jQuery - 3.1 Slides and Structure
+  - TP  - jQuery - 3.2 The this Keyword
+  - TP  - jQuery - 3.3 Modifying Effect Speeds
+  - TP  - jQuery - 3.4 Creating Custom Effect Methods
+  - TP  - jQuery - 3.5 Full Control With animate
+  - TP  - jQuery - 3.6 Homework Solutions
+  - TP  - jQuery - 3.7 The Obligatory Slider (First Attempt)
+  - TP  - jQuery - 3.8 Prototypal Inheritance and 
+                              Refactoring the Slider
+  - TP  - jQuery - 3.9 Your Questions Answered
   - EJ  - Chapter 7: Project: Electronic Life
   - CS  - Traversing the DOM 2.8. Traversing the DOM
   - CS  - 2.9. Using find()
@@ -432,11 +427,11 @@ Order of Study:
   - CS  - 2.13. Traversing Up
   - CS  - 2.14. Traversing Down
   - CA  - jQuery Functions
-  - TP  - jQuery - 6.1 Loading Pages Asynchronously
-  - TP  - jQuery - 6.2 Interacting with the Server-Side
-  - TP  - jQuery - 6.3 PHP and jQuery: Part 1
-  - TP  - jQuery - 6.4 PHP and jQuery: Part 2
-  - TP  - jQuery - 6.5 Deferreds
+  - TP  - jQuery - 4.1 $.each and Templating
+  - TP  - jQuery - 4.2 Say Hello to Handlebars
+  - TP  - jQuery - 4.3 The Twitter API
+  - TP  - jQuery - 4.4 Filtering with jQuery.grep
+  - TP  - jQuery - 5.1 Custom Events and the Observer Pattern
   - EJ  - Chapter 8: Bugs and Error Handling
   - CS  - Manipulating the DOM 3.2. Manipulating the DOM
   - CS  - 3.3. Creating a DOM Node
@@ -460,10 +455,15 @@ Order of Study:
   - CS  - 3.21. New Filter I
   - CS  - 3.22. New Filter II
   - CS  - 3.23. New Filter III
-  - TP  - jQuery - 7.1 Head First Into Plugin Development
-  - TP  - jQuery - 8.1 Goodbye  
+  - TP  - jQuery - 6.1 Loading Pages Asynchronously
+  - TP  - jQuery - 6.2 Interacting with the Server-Side
+  - TP  - jQuery - 6.3 PHP and jQuery: Part 1
+  - TP  - jQuery - 6.4 PHP and jQuery: Part 2
+  - TP  - jQuery - 6.5 Deferreds
   - CA  - Dynamic HTML
   - EJ  - Chapter 9: Regular Expressions
+  - TP  - jQuery - 7.1 Head First Into Plugin Development
+  - TP  - jQuery - 8.1 Goodbye  
   - CS  - On DOM Load 4.2. On DOM Load
   - CS  - 4.3. On Load I
   - CS  - 4.4. On Load II
@@ -529,15 +529,8 @@ Order of Study:
   - TP  - JavaScript - 2.8 Scope
   - TP  - JavaScript - 2.9 this
   - TP  - JavaScript - 2.10 JavaScript Keywords
-  - TP  - JavaScript - 2.11 Section 2 Summary
-   
+  - TP  - JavaScript - 2.11 Section 2 Summary 
   - EJ  - Chapter 13: The Document Object Model
-  - TP  - JavaScript - 3.1 Conditionals
-  - TP  - JavaScript - 3.2 switch
-  - TP  - JavaScript - 3.3 for Loops
-  - TP  - JavaScript - 3.4 while Loops
-  - TP  - JavaScript - 3.5 Timers
-  - TP  - JavaScript - 3.6 Section 3 Summary
   - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
                             Another with JavaScript 
   - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
@@ -548,15 +541,13 @@ Order of Study:
                             JavaScript 
   - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations 
                             on Decimals with JavaScript 
+  - TP  - JavaScript - 3.1 Conditionals
+  - TP  - JavaScript - 3.2 switch
+  - TP  - JavaScript - 3.3 for Loops
+  - TP  - JavaScript - 3.4 while Loops
+  - TP  - JavaScript - 3.5 Timers
+  - TP  - JavaScript - 3.6 Section 3 Summary
   - EJ  - Chapter 14: Handling Events 
-  - TP  - JavaScript - 4.1 Working With Strings
-  - TP  - JavaScript - 4.2 Working With Arrays
-  - TP  - JavaScript - 4.3 Iterating Arrays
-  - TP  - JavaScript - 4.4 Working With Object Instances
-  - TP  - JavaScript - 4.5 Working With Functions
-  - TP  - JavaScript - 4.6 Working With Dates and Times
-  - TP  - JavaScript - 4.7 Working With the Math Object
-  - TP  - JavaScript - 4.8 Section 4 Summary
   - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one 
                             Variable using JavaScript Arrays 
   - FCC - JavaScript - 17. Waypoint: Nest one Array within Another 
@@ -568,15 +559,15 @@ Order of Study:
   - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With shift() 
   - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With 
                             unshift() 
+  - TP  - JavaScript - 4.1 Working With Strings
+  - TP  - JavaScript - 4.2 Working With Arrays
+  - TP  - JavaScript - 4.3 Iterating Arrays
+  - TP  - JavaScript - 4.4 Working With Object Instances
+  - TP  - JavaScript - 4.5 Working With Functions
+  - TP  - JavaScript - 4.6 Working With Dates and Times
+  - TP  - JavaScript - 4.7 Working With the Math Object
+  - TP  - JavaScript - 4.8 Section 4 Summary
   - EJ  - Chapter 15: Project: A Platform Game
-  - TP  - JavaScript - 5.1 Selecting HTML Elements
-  - TP  - JavaScript - 5.2 Manipulating HTML Elements
-  - TP  - JavaScript - 5.3 DOM Traversal
-  - TP  - JavaScript - 5.4 Adding and Removing Elements
-  - TP  - JavaScript - 5.5 DOM Events
-  - TP  - JavaScript - 5.6 Section 5 Summary
-  - CG  - Easy: 2. The Descent
-  - CG  - Easy: 3. Skynet: the Chasm
   - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with 
                             Functions 
   - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects  
@@ -588,15 +579,16 @@ Order of Study:
   - FCC - JavaScript - 29. Waypoint: Generate Random Fractions with 
                             JavaScript 
   - FCC - JavaScript - 30. Waypoint: Generate Random Whole Numbers 
-                            with JavaScript 
+                            with JavaScript
+  - TP  - JavaScript - 5.1 Selecting HTML Elements
+  - TP  - JavaScript - 5.2 Manipulating HTML Elements
+  - TP  - JavaScript - 5.3 DOM Traversal
+  - TP  - JavaScript - 5.4 Adding and Removing Elements
+  - TP  - JavaScript - 5.5 DOM Events
+  - TP  - JavaScript - 5.6 Section 5 Summary
+  - CG  - Easy: 2. The Descent
+  - CG  - Easy: 3. Skynet: the Chasm
   - EJ  - Chapter 16: Drawing on Canvas
-  - TP  - JavaScript - 6.1 Selector API
-  - TP  - JavaScript - 6.2 Geolocation
-  - TP  - JavaScript - 6.3 Web Storage
-  - TP  - JavaScript - 6.4 The History API
-  - TP  - JavaScript - 6.5 Section 6 Summary
-  - CG  - Easy: 4. Temperatures
-  - CG  - Easy: 5. Mars Lander - Level 1
   - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers 
                             within a Range 
   - FCC - JavaScript - 32. Waypoint: Use Conditional Logic with If 
@@ -607,7 +599,24 @@ Order of Study:
                             Expressions 
   - FCC - JavaScript - 35. Waypoint: Find Whitespace with Regular 
                             Expressions 
+  - TP  - JavaScript - 6.1 Selector API
+  - TP  - JavaScript - 6.2 Geolocation
+  - TP  - JavaScript - 6.3 Web Storage
+  - TP  - JavaScript - 6.4 The History API
+  - TP  - JavaScript - 6.5 Section 6 Summary
+  - CG  - Easy: 4. Temperatures
+  - CG  - Easy: 5. Mars Lander - Level 1
   - EJ  - Chapter 17: HTTP
+  - FCC - JavaScript - 36. Waypoint: Invert Regular Expression 
+                            Matches with JavaScript 
+  - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot 
+                            Machine 
+  - FCC - JavaScript - 38. Waypoint: Add your JavaScript Slot 
+                            Machine Slots 
+  - FCC - JavaScript - 39. Waypoint: Bring your JavaScript Slot 
+                            Machine to Life 
+  - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot 
+                            Machine some Stylish Images
   - TP  - JavaScript - 7.1 Working With the Object Constructor
   - TP  - JavaScript - 7.2 Custom Objects
   - TP  - JavaScript - 7.3 AJAX
@@ -623,16 +632,6 @@ Order of Study:
   - TP  - JavaScript - 8.1 Conclusion
   - CG  - Easy: 6. ASCII Art
   - CG  - Easy: 7. Chuck Norris
-  - FCC - JavaScript - 36. Waypoint: Invert Regular Expression 
-                            Matches with JavaScript 
-  - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot 
-                            Machine 
-  - FCC - JavaScript - 38. Waypoint: Add your JavaScript Slot 
-                            Machine Slots 
-  - FCC - JavaScript - 39. Waypoint: Bring your JavaScript Slot 
-                            Machine to Life 
-  - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot 
-                            Machine some Stylish Images
   - EJ  - Chapter 18: Forms and Form Fields  
   - CG  - Easy: 8. MIME Type
   - CG  - Easy: 9. Defibrillators
