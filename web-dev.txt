@@ -627,6 +627,18 @@ Order of Study:
   - TP  - JavaScript - 8.1 Conclusion
   - CG  - Easy: 6. ASCII Art
   - CG  - Easy: 7. Chuck Norris
+  - FCC - OOP - 1. Waypoint: Declare JavaScript Objects as Variables 
+  - FCC - OOP - 2. Waypoint: Construct JavaScript Objects with Functions 
+  - FCC - OOP - 3. Waypoint: Make Object Properties Private 
+  - FCC - OOP - 4. Waypoint: Make Instances of Objects with a Constructor Function 
+  - FCC - OOP - 5. Waypoint: Iterate over Arrays with .map 
+  - FCC - OOP - 6. Waypoint: Condense arrays with .reduce 
+  - FCC - OOP - 7. Waypoint: Filter Arrays with .filter 
+  - FCC - OOP - 8. Waypoint: Sort Arrays with .sort 
+  - FCC - OOP - 9. Waypoint: Reverse Arrays with .reverse 
+  - FCC - OOP - 10. Waypoint: Concatenate Strings with .concat 
+  - FCC - OOP - 11. Waypoint: Split Strings with .split 
+  - FCC - OOP - 12. Waypoint: Join Strings with .join  
   - EJ  - Chapter 5: Higher-Order Functions (p86-104)
   - EJ  - Chapter 6: The Secret Life of Objects
   - EJ  - Chapter 7: Project: Electronic Life
