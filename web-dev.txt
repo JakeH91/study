@@ -414,7 +414,6 @@ Order of Study:
                                   Elements Using jQuery 
   03/11/15  - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the 
                                   Entire Page
-  - EJ  - Chapter 6: The Secret Life of Objects
   - TP  - jQuery - 3.1 Slides and Structure
   - TP  - jQuery - 3.2 The this Keyword
   - TP  - jQuery - 3.3 Modifying Effect Speeds
@@ -425,7 +424,6 @@ Order of Study:
   - TP  - jQuery - 3.8 Prototypal Inheritance and 
                               Refactoring the Slider
   - TP  - jQuery - 3.9 Your Questions Answered
-  - EJ  - Chapter 7: Project: Electronic Life
   - CS  - Traversing the DOM 2.8. Traversing the DOM
   - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
@@ -439,7 +437,6 @@ Order of Study:
   - TP  - jQuery - 4.3 The Twitter API
   - TP  - jQuery - 4.4 Filtering with jQuery.grep
   - TP  - jQuery - 5.1 Custom Events and the Observer Pattern
-  - EJ  - Chapter 8: Bugs and Error Handling
   - CS  - Manipulating the DOM 3.2. Manipulating the DOM
   - CS  - 3.3. Creating a DOM Node
   - CS  - 3.4. Adding to the DOM I
@@ -468,7 +465,6 @@ Order of Study:
   - TP  - jQuery - 6.4 PHP and jQuery: Part 2
   - TP  - jQuery - 6.5 Deferreds
   - CA  - Dynamic HTML
-  - EJ  - Chapter 9: Regular Expressions
   - TP  - jQuery - 7.1 Head First Into Plugin Development
   - TP  - jQuery - 8.1 Goodbye  
   - CS  - On DOM Load 4.2. On DOM Load
@@ -491,7 +487,6 @@ Order of Study:
   - CS  - 4.19. Link Events II
   - CS  - 4.20. Event Parameter I
   - CS  - 4.21. Event Parameter II
-  - EJ  - Chapter 10: Modules
   - CA  - jQuery Events
   - CS  - Taming CSS 5.2. Taming CSS
   - CS  - 5.3. CSS I
@@ -505,7 +500,6 @@ Order of Study:
   - CS  - 5.11. Animate III
   - CA  - jQuery Effects
   - TOP - jQuery  Basics
-  - EJ  - Chapter 11: Project: A Programming Language
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
   - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
@@ -525,7 +519,6 @@ Order of Study:
   - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
                           Nth-to-Last Character in a String 
   - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript
-  - EJ  - Chapter 12: JavaScript and the Browser
   - TP  - JavaScript - 2.1 Variables
   - TP  - JavaScript - 2.2 Data Types
   - TP  - JavaScript - 2.3 Basic Operators
@@ -537,7 +530,6 @@ Order of Study:
   - TP  - JavaScript - 2.9 this
   - TP  - JavaScript - 2.10 JavaScript Keywords
   - TP  - JavaScript - 2.11 Section 2 Summary 
-  - EJ  - Chapter 13: The Document Object Model
   - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
                             Another with JavaScript 
   - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
@@ -554,7 +546,6 @@ Order of Study:
   - TP  - JavaScript - 3.4 while Loops
   - TP  - JavaScript - 3.5 Timers
   - TP  - JavaScript - 3.6 Section 3 Summary
-  - EJ  - Chapter 14: Handling Events 
   - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one 
                             Variable using JavaScript Arrays 
   - FCC - JavaScript - 17. Waypoint: Nest one Array within Another 
@@ -574,7 +565,6 @@ Order of Study:
   - TP  - JavaScript - 4.6 Working With Dates and Times
   - TP  - JavaScript - 4.7 Working With the Math Object
   - TP  - JavaScript - 4.8 Section 4 Summary
-  - EJ  - Chapter 15: Project: A Platform Game
   - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with 
                             Functions 
   - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects  
@@ -595,7 +585,6 @@ Order of Study:
   - TP  - JavaScript - 5.6 Section 5 Summary
   - CG  - Easy: 2. The Descent
   - CG  - Easy: 3. Skynet: the Chasm
-  - EJ  - Chapter 16: Drawing on Canvas
   - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers 
                             within a Range 
   - FCC - JavaScript - 32. Waypoint: Use Conditional Logic with If 
@@ -613,7 +602,6 @@ Order of Study:
   - TP  - JavaScript - 6.5 Section 6 Summary
   - CG  - Easy: 4. Temperatures
   - CG  - Easy: 5. Mars Lander - Level 1
-  - EJ  - Chapter 17: HTTP
   - FCC - JavaScript - 36. Waypoint: Invert Regular Expression 
                             Matches with JavaScript 
   - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot 
@@ -639,6 +627,19 @@ Order of Study:
   - TP  - JavaScript - 8.1 Conclusion
   - CG  - Easy: 6. ASCII Art
   - CG  - Easy: 7. Chuck Norris
+  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
+  - EJ  - Chapter 6: The Secret Life of Objects
+  - EJ  - Chapter 7: Project: Electronic Life
+  - EJ  - Chapter 8: Bugs and Error Handling
+  - EJ  - Chapter 9: Regular Expressions
+  - EJ  - Chapter 10: Modules
+  - EJ  - Chapter 11: Project: A Programming Language
+  - EJ  - Chapter 12: JavaScript and the Browser
+  - EJ  - Chapter 13: The Document Object Model
+  - EJ  - Chapter 14: Handling Events 
+  - EJ  - Chapter 15: Project: A Platform Game
+  - EJ  - Chapter 16: Drawing on Canvas
+  - EJ  - Chapter 17: HTTP
   - EJ  - Chapter 18: Forms and Form Fields  
   - CG  - Easy: 8. MIME Type
   - CG  - Easy: 9. Defibrillators
