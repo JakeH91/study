@@ -427,8 +427,8 @@ Order of Study:
   19/11/15  - CS  - Traversing the DOM 2.8. Traversing the DOM
   19/11/15  - CS  - 2.9. Using find()
   19/11/15  - CS  - 2.10. Using first()
-  - CS  - 2.11. Using last()
-  - CS  - 2.12. Using prev()
+  19/11/15  - CS  - 2.11. Using last()
+  19/11/15  - CS  - 2.12. Using prev()
   - CS  - 2.13. Traversing Up
   - CS  - 2.14. Traversing Down
   - CA  - jQuery Functions
