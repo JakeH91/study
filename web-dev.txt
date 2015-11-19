@@ -431,7 +431,7 @@ Order of Study:
   19/11/15  - CS  - 2.12. Using prev()
   19/11/15  - CS  - 2.13. Traversing Up
   19/11/15  - CS  - 2.14. Traversing Down
-  - CA  - jQuery Functions
+  19/11/15  - CA  - jQuery Functions
   - TP  - jQuery - 4.1 $.each and Templating
   - TP  - jQuery - 4.2 Say Hello to Handlebars
   - TP  - jQuery - 4.3 The Twitter API
