@@ -425,7 +425,7 @@ Order of Study:
                               Refactoring the Slider
   - TP  - jQuery - 3.9 Your Questions Answered
   19/11/15  - CS  - Traversing the DOM 2.8. Traversing the DOM
-  - CS  - 2.9. Using find()
+  19/11/15  - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
   - CS  - 2.11. Using last()
   - CS  - 2.12. Using prev()
