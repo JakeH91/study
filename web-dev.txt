@@ -414,7 +414,7 @@ Order of Study:
                                   Elements Using jQuery 
   03/11/15  - FCC - jQuery - 17. Waypoint: Use jQuery to Modify the 
                                   Entire Page
-  - TP  - jQuery - 3.1 Slides and Structure
+  04/11/15  - TP  - jQuery - 3.1 Slides and Structure
   - TP  - jQuery - 3.2 The this Keyword
   - TP  - jQuery - 3.3 Modifying Effect Speeds
   - TP  - jQuery - 3.4 Creating Custom Effect Methods
@@ -424,7 +424,7 @@ Order of Study:
   - TP  - jQuery - 3.8 Prototypal Inheritance and 
                               Refactoring the Slider
   - TP  - jQuery - 3.9 Your Questions Answered
-  - CS  - Traversing the DOM 2.8. Traversing the DOM
+  19/11/15  - CS  - Traversing the DOM 2.8. Traversing the DOM
   - CS  - 2.9. Using find()
   - CS  - 2.10. Using first()
   - CS  - 2.11. Using last()
