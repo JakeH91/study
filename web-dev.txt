@@ -430,7 +430,7 @@ Order of Study:
   19/11/15  - CS  - 2.11. Using last()
   19/11/15  - CS  - 2.12. Using prev()
   19/11/15  - CS  - 2.13. Traversing Up
-  - CS  - 2.14. Traversing Down
+  19/11/15  - CS  - 2.14. Traversing Down
   - CA  - jQuery Functions
   - TP  - jQuery - 4.1 $.each and Templating
   - TP  - jQuery - 4.2 Say Hello to Handlebars
