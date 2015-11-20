@@ -423,10 +423,10 @@ Order of Study:
   19/11/15  - CS  - 2.14. Traversing Down
   19/11/15  - CA  - jQuery Functions
   20/11/15  - CS  - Manipulating the DOM 3.2. Manipulating the DOM
-  - CS  - 3.3. Creating a DOM Node
-  - CS  - 3.4. Adding to the DOM I
-  - CS  - 3.5. Adding to the DOM II
-  - CS  - 3.6. Removing From the DOM
+  20/11/15  - CS  - 3.3. Creating a DOM Node
+  20/11/15  - CS  - 3.4. Adding to the DOM I
+  20/11/15  - CS  - 3.5. Adding to the DOM II
+  20/11/15  - CS  - 3.6. Removing From the DOM
   - CS  - Acting on Interaction 3.7. Acting on Interaction
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
