@@ -422,7 +422,7 @@ Order of Study:
   19/11/15  - CS  - 2.13. Traversing Up
   19/11/15  - CS  - 2.14. Traversing Down
   19/11/15  - CA  - jQuery Functions
-  - CS  - Manipulating the DOM 3.2. Manipulating the DOM
+  20/11/15  - CS  - Manipulating the DOM 3.2. Manipulating the DOM
   - CS  - 3.3. Creating a DOM Node
   - CS  - 3.4. Adding to the DOM I
   - CS  - 3.5. Adding to the DOM II
