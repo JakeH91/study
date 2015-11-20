@@ -433,10 +433,10 @@ Order of Study:
   20/11/15  - CS  - 3.10. On Page Load
   20/11/15  - CS  - Refactor Using Traversing 3.11. Refactor Using 
                     Traversing
-  - CS  - 3.12. Removing the Clicked Button
-  - CS  - 3.13. Relative Traversing I
-  - CS  - 3.14. Relative Traversing II
-  - CS  - 3.15. Relative Traversing III
+  20/11/15  - CS  - 3.12. Removing the Clicked Button
+  20/11/15  - CS  - 3.13. Relative Traversing I
+  20/11/15  - CS  - 3.14. Relative Traversing II
+  20/11/15  - CS  - 3.15. Relative Traversing III
   - CS  - Traversing and Filtering 3.16. Traversing and Filtering
   - CS  - 3.17. Fetching Data From the Dom I
   - CS  - 3.18. Fetching Data From the Dom II
