@@ -427,7 +427,7 @@ Order of Study:
   20/11/15  - CS  - 3.4. Adding to the DOM I
   20/11/15  - CS  - 3.5. Adding to the DOM II
   20/11/15  - CS  - 3.6. Removing From the DOM
-  - CS  - Acting on Interaction 3.7. Acting on Interaction
+  20/11/15  - CS  - Acting on Interaction 3.7. Acting on Interaction
   - CS  - 3.8. Click Interaction
   - CS  - 3.9. Acting on Click
   - CS  - 3.10. On Page Load
