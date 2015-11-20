@@ -431,7 +431,8 @@ Order of Study:
   20/11/15  - CS  - 3.8. Click Interaction
   20/11/15  - CS  - 3.9. Acting on Click
   20/11/15  - CS  - 3.10. On Page Load
-  - CS  - Refactor Using Traversing 3.11. Refactor Using Traversing
+  20/11/15  - CS  - Refactor Using Traversing 3.11. Refactor Using 
+                    Traversing
   - CS  - 3.12. Removing the Clicked Button
   - CS  - 3.13. Relative Traversing I
   - CS  - 3.14. Relative Traversing II
