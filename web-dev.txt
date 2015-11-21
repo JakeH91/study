@@ -452,7 +452,7 @@ Order of Study:
   21/11/15  - CS  - 4.4. On Load II
   21/11/15  - CS  - 4.5. Slide Effect I
   21/11/15  - CS  - 4.6. Slide Effect II
-  - CS  - Expanding on on() 4.7. Expanding on on()
+  21/11/15  - CS  - Expanding on on() 4.7. Expanding on on()
   - CS  - 4.8. Mouseover I
   - CS  - 4.9. Mouseover II
   - CS  - 4.10. Mouseleave
