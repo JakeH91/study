@@ -446,7 +446,7 @@ Order of Study:
   20/11/15  - CS  - 3.21. New Filter I
   20/11/15  - CS  - 3.22. New Filter II
   20/11/15  - CS  - 3.23. New Filter III
-  - CA  - Dynamic HTML
+  21/11/15  - CA  - Dynamic HTML
   - CS  - On DOM Load 4.2. On DOM Load
   - CS  - 4.3. On Load I
   - CS  - 4.4. On Load II
