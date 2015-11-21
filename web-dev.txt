@@ -457,7 +457,7 @@ Order of Study:
   21/11/15  - CS  - 4.9. Mouseover II
   21/11/15  - CS  - 4.10. Mouseleave
   21/11/15  - CS  - 4.11. Named Functions
-  - CS  - Keyboard Events 4.12. Keyboard Events
+  21/11/15  - CS  - Keyboard Events 4.12. Keyboard Events
   - CS  - 4.13. Keyup Event
   - CS  - 4.14. Keyup Event Handler I
   - CS  - 4.15. Keyup Event Handler II
