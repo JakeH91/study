@@ -448,10 +448,10 @@ Order of Study:
   20/11/15  - CS  - 3.23. New Filter III
   21/11/15  - CA  - Dynamic HTML
   21/11/15  - CS  - On DOM Load 4.2. On DOM Load
-  - CS  - 4.3. On Load I
-  - CS  - 4.4. On Load II
-  - CS  - 4.5. Slide Effect I
-  - CS  - 4.6. Slide Effect II
+  21/11/15  - CS  - 4.3. On Load I
+  21/11/15  - CS  - 4.4. On Load II
+  21/11/15  - CS  - 4.5. Slide Effect I
+  21/11/15  - CS  - 4.6. Slide Effect II
   - CS  - Expanding on on() 4.7. Expanding on on()
   - CS  - 4.8. Mouseover I
   - CS  - 4.9. Mouseover II
