@@ -463,10 +463,10 @@ Order of Study:
   21/11/15  - CS  - 4.15. Keyup Event Handler II
   21/11/15  - CS  - 4.16. Another Event Handler
   21/11/15  - CS  - Link Layover 4.17. Link Layover
-  - CS  - 4.18. Link Events I
-  - CS  - 4.19. Link Events II
-  - CS  - 4.20. Event Parameter I
-  - CS  - 4.21. Event Parameter II
+  21/11/15  - CS  - 4.18. Link Events I
+  21/11/15  - CS  - 4.19. Link Events II
+  21/11/15  - CS  - 4.20. Event Parameter I
+  21/11/15  - CS  - 4.21. Event Parameter II
   - CA  - jQuery Events
   - CS  - Taming CSS 5.2. Taming CSS
   - CS  - 5.3. CSS I
