@@ -467,7 +467,7 @@ Order of Study:
   21/11/15  - CS  - 4.19. Link Events II
   21/11/15  - CS  - 4.20. Event Parameter I
   21/11/15  - CS  - 4.21. Event Parameter II
-  - CA  - jQuery Events
+  23/11/15  - CA  - jQuery Events
   - CS  - Taming CSS 5.2. Taming CSS
   - CS  - 5.3. CSS I
   - CS  - 5.4. CSS II
