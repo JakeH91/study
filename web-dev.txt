@@ -469,10 +469,10 @@ Order of Study:
   21/11/15  - CS  - 4.21. Event Parameter II
   23/11/15  - CA  - jQuery Events
   24/11/15  - CS  - Taming CSS 5.2. Taming CSS
-  - CS  - 5.3. CSS I
-  - CS  - 5.4. CSS II
-  - CS  - 5.5. Show Photo
-  - CS  - 5.6. Refactoring to CSS
+  24/11/15  - CS  - 5.3. CSS I
+  24/11/15  - CS  - 5.4. CSS II
+  24/11/15  - CS  - 5.5. Show Photo
+  24/11/15  - CS  - 5.6. Refactoring to CSS
   - CS  - Animation 5.7. Animation
   - CS  - 5.8. Animate I
   - CS  - 5.9. Animate II
