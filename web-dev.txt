@@ -479,7 +479,7 @@ Order of Study:
   24/11/15  - CS  - 5.10. Animation Speed
   24/11/15  - CS  - 5.11. Animate III
   24/11/15  - CA  - jQuery Effects
-  - TP  - jQuery - 3.1 Slides and Structure
+  26/11/15  - TP  - jQuery - 3.1 Slides and Structure
   - TP  - jQuery - 3.2 The this Keyword
   - TP  - jQuery - 3.3 Modifying Effect Speeds
   - TP  - jQuery - 3.4 Creating Custom Effect Methods
