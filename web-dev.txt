@@ -485,7 +485,7 @@ Order of Study:
   27/11/15  - TP  - jQuery - 3.2 The this Keyword
   27/11/15  - TP  - jQuery - 3.3 Modifying Effect Speeds
   27/11/15  - TP  - jQuery - 3.4 Creating Custom Effect Methods
-  - TP  - jQuery - 3.5 Full Control With animate
+  27/11/15  - TP  - jQuery - 3.5 Full Control With animate
   - TP  - jQuery - 3.6 Homework Solutions
   - TP  - jQuery - 3.7 The Obligatory Slider (First Attempt)
   - TP  - jQuery - 3.8 Prototypal Inheritance and 
