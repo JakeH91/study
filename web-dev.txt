@@ -488,22 +488,6 @@ Order of Study:
   27/11/15  - TP  - jQuery - 3.5 Full Control With animate
   27/11/15  - TP  - jQuery - Self-Homework 3.5: Animate
   27/11/15  - TP  - jQuery - 3.6 Homework Solutions
-  - TP  - jQuery - 3.7 The Obligatory Slider (First Attempt)
-  - TP  - jQuery - 3.8 Prototypal Inheritance and 
-                              Refactoring the Slider
-  - TP  - jQuery - 3.9 Your Questions Answered
-  - TP  - jQuery - 4.1 $.each and Templating
-  - TP  - jQuery - 4.2 Say Hello to Handlebars
-  - TP  - jQuery - 4.3 The Twitter API
-  - TP  - jQuery - 4.4 Filtering with jQuery.grep
-  - TP  - jQuery - 5.1 Custom Events and the Observer Pattern
-  - TP  - jQuery - 6.1 Loading Pages Asynchronously
-  - TP  - jQuery - 6.2 Interacting with the Server-Side
-  - TP  - jQuery - 6.3 PHP and jQuery: Part 1
-  - TP  - jQuery - 6.4 PHP and jQuery: Part 2
-  - TP  - jQuery - 6.5 Deferreds
-  - TP  - jQuery - 7.1 Head First Into Plugin Development
-  - TP  - jQuery - 8.1 Goodbye  
   - TOP - jQuery  Basics
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
@@ -777,3 +761,19 @@ Order of Study:
   - CG  - Very Hard: 5. Music Scores
   - CG  - Very Hard: 6. Vox Codei - Redux
   - CG  - Very Hard: 7. Mars Lander - Level 3
+  - TP  - jQuery - 3.7 The Obligatory Slider (First Attempt)
+  - TP  - jQuery - 3.8 Prototypal Inheritance and 
+                              Refactoring the Slider
+  - TP  - jQuery - 3.9 Your Questions Answered
+  - TP  - jQuery - 4.1 $.each and Templating
+  - TP  - jQuery - 4.2 Say Hello to Handlebars
+  - TP  - jQuery - 4.3 The Twitter API
+  - TP  - jQuery - 4.4 Filtering with jQuery.grep
+  - TP  - jQuery - 5.1 Custom Events and the Observer Pattern
+  - TP  - jQuery - 6.1 Loading Pages Asynchronously
+  - TP  - jQuery - 6.2 Interacting with the Server-Side
+  - TP  - jQuery - 6.3 PHP and jQuery: Part 1
+  - TP  - jQuery - 6.4 PHP and jQuery: Part 2
+  - TP  - jQuery - 6.5 Deferreds
+  - TP  - jQuery - 7.1 Head First Into Plugin Development
+  - TP  - jQuery - 8.1 Goodbye  
