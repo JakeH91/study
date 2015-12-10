@@ -523,10 +523,12 @@ Order of Study:
                                       Another with JavaScript 
   10/12/15  - FCC - JavaScript - 17. Waypoint: Store Multiple Values 
                                       in one Variable using JavaScript Arrays
-  - FCC - JavaScript - 18. Waypoint: Nest one Array within Another 
-                            Array 
-  - FCC - JavaScript - 19. Waypoint: Access Array Data with Indexes 
-  - FCC - JavaScript - 20. Waypoint: Modify Array Data With Indexes 
+  10/12/15  - FCC - JavaScript - 18. Waypoint: Nest one Array within 
+                                      Another Array 
+  10/12/15  - FCC - JavaScript - 19. Waypoint: Access Array Data 
+                                      with Indexes 
+  10/12/15  - FCC - JavaScript - 20. Waypoint: Modify Array Data 
+                                      With Indexes 
   - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With pop() 
   - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With push() 
   - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With shift() 
