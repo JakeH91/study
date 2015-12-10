@@ -541,9 +541,12 @@ Order of Study:
                                       JavaScript with Functions 
   10/12/15  - FCC - JavaScript - 26. Waypoint: Build JavaScript 
                                       Objects  
-  - FCC - JavaScript - 27. Waypoint: Update the Properties of a JavaScript Object 
-  - FCC - JavaScript - 28. Waypoint: Add New Properties to a JavaScript Object
-  - FCC - JavaScript - 29. Waypoint: Delete Properties from a JavaScript Object
+  10/12/15  - FCC - JavaScript - 27. Waypoint: Update the Properties 
+                                      of a JavaScript Object 
+  10/12/15  - FCC - JavaScript - 28. Waypoint: Add New Properties to 
+                                      a JavaScript Object
+  10/12/15  - FCC - JavaScript - 29. Waypoint: Delete Properties 
+                                      from a JavaScript Object
   - FCC - JavaScript - 30. Waypoint: Iterate with JavaScript For Loops
   - FCC - JavaScript - 31. Waypoint: Iterate Odd Numbers With a For Loop
   - FCC - JavaScript - 32. Waypoint: Count Backwards With a For Loop
