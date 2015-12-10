@@ -539,7 +539,8 @@ Order of Study:
                                       With unshift() 
   10/12/15  - FCC - JavaScript - 25. Waypoint: Write Reusable 
                                       JavaScript with Functions 
-  - FCC - JavaScript - 26. Waypoint: Build JavaScript Objects  
+  10/12/15  - FCC - JavaScript - 26. Waypoint: Build JavaScript 
+                                      Objects  
   - FCC - JavaScript - 27. Waypoint: Update the Properties of a JavaScript Object 
   - FCC - JavaScript - 28. Waypoint: Add New Properties to a JavaScript Object
   - FCC - JavaScript - 29. Waypoint: Delete Properties from a JavaScript Object
