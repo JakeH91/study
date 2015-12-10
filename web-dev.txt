@@ -491,7 +491,8 @@ Order of Study:
   10/12/15  - TOP - jQuery  Basics
   10/12/15  - FCC - JavaScript - 1. Waypoint: Comment your 
                                     JavaScript Code 
-  - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
+  10/12/15  - FCC - JavaScript - 2. Waypoint: Understand Boolean 
+                                    Values 
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
   - FCC - JavaScript - 4. Waypoint: Declare String Variables 
   - FCC - JavaScript - 5. Waypoint: Check the Length Property of a 
