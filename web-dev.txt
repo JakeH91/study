@@ -511,12 +511,12 @@ Order of Study:
                                       JavaScript
   10/12/15  - FCC - JavaScript - 11. Waypoint: Subtract One Number 
                                       from Another with JavaScript 
-  - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
-                            JavaScript 
-  - FCC - JavaScript - 13. Waypoint: Divide One Number by Another 
-                            with JavaScript 
-  - FCC - JavaScript - 14. Waypoint: Create Decimal Numbers with 
-                            JavaScript 
+  10/12/15  - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers 
+                                      with JavaScript 
+  10/12/15  - FCC - JavaScript - 13. Waypoint: Divide One Number by 
+                                      Another with JavaScript 
+  10/12/15  - FCC - JavaScript - 14. Waypoint: Create Decimal 
+                                      Numbers with JavaScript 
   - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations 
                             on Decimals with JavaScript 
   - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one 
