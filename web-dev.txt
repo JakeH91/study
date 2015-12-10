@@ -488,11 +488,7 @@ Order of Study:
   27/11/15  - TP  - jQuery - 3.5 Full Control With animate
   27/11/15  - TP  - jQuery - Self-Homework 3.5: Animate
   27/11/15  - TP  - jQuery - 3.6 Homework Solutions
-  - TOP - jQuery  Basics
-  - TP  - JavaScript - 1.1 Introduction
-  - TP  - JavaScript - 1.2 Setup
-  - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
-  - TP  - JavaScript - 1.4 Section 1 Summary
+  10/12/15  - TOP - jQuery  Basics
   - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
   - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
@@ -508,17 +504,6 @@ Order of Study:
   - FCC - JavaScript - 9. Waypoint: Use Bracket Notation to Find the 
                           Nth-to-Last Character in a String 
   - FCC - JavaScript - 10. Waypoint: Add Two Numbers with JavaScript
-  - TP  - JavaScript - 2.1 Variables
-  - TP  - JavaScript - 2.2 Data Types
-  - TP  - JavaScript - 2.3 Basic Operators
-  - TP  - JavaScript - 2.4 Operators Continued
-  - TP  - JavaScript - 2.5 Operators Precedence
-  - TP  - JavaScript - 2.6 Objects
-  - TP  - JavaScript - 2.7 Functions
-  - TP  - JavaScript - 2.8 Scope
-  - TP  - JavaScript - 2.9 this
-  - TP  - JavaScript - 2.10 JavaScript Keywords
-  - TP  - JavaScript - 2.11 Section 2 Summary 
   - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
                             Another with JavaScript 
   - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
@@ -529,12 +514,6 @@ Order of Study:
                             JavaScript 
   - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations 
                             on Decimals with JavaScript 
-  - TP  - JavaScript - 3.1 Conditionals
-  - TP  - JavaScript - 3.2 switch
-  - TP  - JavaScript - 3.3 for Loops
-  - TP  - JavaScript - 3.4 while Loops
-  - TP  - JavaScript - 3.5 Timers
-  - TP  - JavaScript - 3.6 Section 3 Summary
   - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one 
                             Variable using JavaScript Arrays 
   - FCC - JavaScript - 17. Waypoint: Nest one Array within Another 
@@ -546,14 +525,6 @@ Order of Study:
   - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With shift() 
   - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With 
                             unshift() 
-  - TP  - JavaScript - 4.1 Working With Strings
-  - TP  - JavaScript - 4.2 Working With Arrays
-  - TP  - JavaScript - 4.3 Iterating Arrays
-  - TP  - JavaScript - 4.4 Working With Object Instances
-  - TP  - JavaScript - 4.5 Working With Functions
-  - TP  - JavaScript - 4.6 Working With Dates and Times
-  - TP  - JavaScript - 4.7 Working With the Math Object
-  - TP  - JavaScript - 4.8 Section 4 Summary
   - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with 
                             Functions 
   - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects  
@@ -566,12 +537,6 @@ Order of Study:
                             JavaScript 
   - FCC - JavaScript - 30. Waypoint: Generate Random Whole Numbers 
                             with JavaScript
-  - TP  - JavaScript - 5.1 Selecting HTML Elements
-  - TP  - JavaScript - 5.2 Manipulating HTML Elements
-  - TP  - JavaScript - 5.3 DOM Traversal
-  - TP  - JavaScript - 5.4 Adding and Removing Elements
-  - TP  - JavaScript - 5.5 DOM Events
-  - TP  - JavaScript - 5.6 Section 5 Summary
   - CG  - Easy: 2. The Descent
   - CG  - Easy: 3. Skynet: the Chasm
   - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers 
@@ -584,11 +549,6 @@ Order of Study:
                             Expressions 
   - FCC - JavaScript - 35. Waypoint: Find Whitespace with Regular 
                             Expressions 
-  - TP  - JavaScript - 6.1 Selector API
-  - TP  - JavaScript - 6.2 Geolocation
-  - TP  - JavaScript - 6.3 Web Storage
-  - TP  - JavaScript - 6.4 The History API
-  - TP  - JavaScript - 6.5 Section 6 Summary
   - CG  - Easy: 4. Temperatures
   - CG  - Easy: 5. Mars Lander - Level 1
   - FCC - JavaScript - 36. Waypoint: Invert Regular Expression 
@@ -601,6 +561,46 @@ Order of Study:
                             Machine to Life 
   - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot 
                             Machine some Stylish Images
+  - TP  - JavaScript - 1.1 Introduction
+  - TP  - JavaScript - 1.2 Setup
+  - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
+  - TP  - JavaScript - 1.4 Section 1 Summary
+  - TP  - JavaScript - 2.1 Variables
+  - TP  - JavaScript - 2.2 Data Types
+  - TP  - JavaScript - 2.3 Basic Operators
+  - TP  - JavaScript - 2.4 Operators Continued
+  - TP  - JavaScript - 2.5 Operators Precedence
+  - TP  - JavaScript - 2.6 Objects
+  - TP  - JavaScript - 2.7 Functions
+  - TP  - JavaScript - 2.8 Scope
+  - TP  - JavaScript - 2.9 this
+  - TP  - JavaScript - 2.10 JavaScript Keywords
+  - TP  - JavaScript - 2.11 Section 2 Summary 
+  - TP  - JavaScript - 3.1 Conditionals
+  - TP  - JavaScript - 3.2 switch
+  - TP  - JavaScript - 3.3 for Loops
+  - TP  - JavaScript - 3.4 while Loops
+  - TP  - JavaScript - 3.5 Timers
+  - TP  - JavaScript - 3.6 Section 3 Summary
+  - TP  - JavaScript - 4.1 Working With Strings
+  - TP  - JavaScript - 4.2 Working With Arrays
+  - TP  - JavaScript - 4.3 Iterating Arrays
+  - TP  - JavaScript - 4.4 Working With Object Instances
+  - TP  - JavaScript - 4.5 Working With Functions
+  - TP  - JavaScript - 4.6 Working With Dates and Times
+  - TP  - JavaScript - 4.7 Working With the Math Object
+  - TP  - JavaScript - 4.8 Section 4 Summary
+  - TP  - JavaScript - 5.1 Selecting HTML Elements
+  - TP  - JavaScript - 5.2 Manipulating HTML Elements
+  - TP  - JavaScript - 5.3 DOM Traversal
+  - TP  - JavaScript - 5.4 Adding and Removing Elements
+  - TP  - JavaScript - 5.5 DOM Events
+  - TP  - JavaScript - 5.6 Section 5 Summary
+  - TP  - JavaScript - 6.1 Selector API
+  - TP  - JavaScript - 6.2 Geolocation
+  - TP  - JavaScript - 6.3 Web Storage
+  - TP  - JavaScript - 6.4 The History API
+  - TP  - JavaScript - 6.5 Section 6 Summary
   - TP  - JavaScript - 7.1 Working With the Object Constructor
   - TP  - JavaScript - 7.2 Custom Objects
   - TP  - JavaScript - 7.3 AJAX
