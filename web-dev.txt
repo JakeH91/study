@@ -509,8 +509,8 @@ Order of Study:
                                     to Find the Nth-to-Last Character in a String 
   10/12/15  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with 
                                       JavaScript
-  - FCC - JavaScript - 11. Waypoint: Subtract One Number from 
-                            Another with JavaScript 
+  10/12/15  - FCC - JavaScript - 11. Waypoint: Subtract One Number 
+                                      from Another with JavaScript 
   - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers with 
                             JavaScript 
   - FCC - JavaScript - 13. Waypoint: Divide One Number by Another 
