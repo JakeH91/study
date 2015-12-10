@@ -495,7 +495,8 @@ Order of Study:
                                     Values 
   10/12/15  - FCC - JavaScript - 3. Waypoint: Declare JavaScript 
                                     Variables 
-  - FCC - JavaScript - 4. Waypoint: Declare String Variables 
+  10/12/15  - FCC - JavaScript - 4. Waypoint: Declare String 
+                                    Variables 
   - FCC - JavaScript - 5. Waypoint: Check the Length Property of a 
                           String Variable
   - FCC - JavaScript - 6. Waypoint: Use Bracket Notation to Find the 
