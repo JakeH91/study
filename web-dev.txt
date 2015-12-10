@@ -529,11 +529,14 @@ Order of Study:
                                       with Indexes 
   10/12/15  - FCC - JavaScript - 20. Waypoint: Modify Array Data 
                                       With Indexes 
-  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With pop() 
-  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With push() 
-  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With shift() 
-  - FCC - JavaScript - 24. Waypoint: Manipulate Arrays With 
-                            unshift() 
+  10/12/15  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays 
+                                      With pop() 
+  10/12/15  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays 
+                                      With push() 
+  10/12/15  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays 
+                                      With shift() 
+  10/12/15  - FCC - JavaScript - 24. Waypoint: Manipulate Arrays 
+                                      With unshift() 
   - FCC - JavaScript - 25. Waypoint: Write Reusable JavaScript with 
                             Functions 
   - FCC - JavaScript - 26. Waypoint: Build JavaScript Objects  
