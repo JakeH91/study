@@ -493,7 +493,8 @@ Order of Study:
                                     JavaScript Code 
   10/12/15  - FCC - JavaScript - 2. Waypoint: Understand Boolean 
                                     Values 
-  - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
+  10/12/15  - FCC - JavaScript - 3. Waypoint: Declare JavaScript 
+                                    Variables 
   - FCC - JavaScript - 4. Waypoint: Declare String Variables 
   - FCC - JavaScript - 5. Waypoint: Check the Length Property of a 
                           String Variable
