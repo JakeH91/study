@@ -521,50 +521,52 @@ Order of Study:
                                       with JavaScript 
   10/12/15  - FCC - JavaScript - 16. Waypoint: Divide one Decimal by 
                                       Another with JavaScript 
-  - FCC - JavaScript - 17. Waypoint: Nest one Array within Another 
+  10/12/15  - FCC - JavaScript - 17. Waypoint: Store Multiple Values 
+                                      in one Variable using JavaScript Arrays
+  - FCC - JavaScript - 18. Waypoint: Nest one Array within Another 
                             Array 
-  - FCC - JavaScript - 18. Waypoint: Access Array Data with Indexes 
-  - FCC - JavaScript - 19. Waypoint: Modify Array Data With Indexes 
-  - FCC - JavaScript - 20. Waypoint: Manipulate Arrays With pop() 
-  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With push() 
-  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With shift() 
-  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With 
+  - FCC - JavaScript - 19. Waypoint: Access Array Data with Indexes 
+  - FCC - JavaScript - 20. Waypoint: Modify Array Data With Indexes 
+  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays With pop() 
+  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays With push() 
+  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays With shift() 
+  - FCC - JavaScript - 24. Waypoint: Manipulate Arrays With 
                             unshift() 
-  - FCC - JavaScript - 24. Waypoint: Write Reusable JavaScript with 
+  - FCC - JavaScript - 25. Waypoint: Write Reusable JavaScript with 
                             Functions 
-  - FCC - JavaScript - 25. Waypoint: Build JavaScript Objects  
-  - FCC - JavaScript - 26. Waypoint: Manipulate JavaScript Objects 
-  - FCC - JavaScript - 27. Waypoint: Iterate with JavaScript For 
+  - FCC - JavaScript - 26. Waypoint: Build JavaScript Objects  
+  - FCC - JavaScript - 27. Waypoint: Manipulate JavaScript Objects 
+  - FCC - JavaScript - 28. Waypoint: Iterate with JavaScript For 
                             Loops 
-  - FCC - JavaScript - 28. Waypoint: Iterate with JavaScript While 
+  - FCC - JavaScript - 29. Waypoint: Iterate with JavaScript While 
                             Loops 
-  - FCC - JavaScript - 29. Waypoint: Generate Random Fractions with 
+  - FCC - JavaScript - 30. Waypoint: Generate Random Fractions with 
                             JavaScript 
-  - FCC - JavaScript - 30. Waypoint: Generate Random Whole Numbers 
+  - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers 
                             with JavaScript
   - CG  - Easy: 2. The Descent
   - CG  - Easy: 3. Skynet: the Chasm
-  - FCC - JavaScript - 31. Waypoint: Generate Random Whole Numbers 
+  - FCC - JavaScript - 32. Waypoint: Generate Random Whole Numbers 
                             within a Range 
-  - FCC - JavaScript - 32. Waypoint: Use Conditional Logic with If 
+  - FCC - JavaScript - 33. Waypoint: Use Conditional Logic with If 
                             and Else Statements 
-  - FCC - JavaScript - 33. Waypoint: Sift through Text with Regular 
+  - FCC - JavaScript - 34. Waypoint: Sift through Text with Regular 
                             Expressions 
-  - FCC - JavaScript - 34. Waypoint: Find Numbers with Regular 
+  - FCC - JavaScript - 35. Waypoint: Find Numbers with Regular 
                             Expressions 
-  - FCC - JavaScript - 35. Waypoint: Find Whitespace with Regular 
+  - FCC - JavaScript - 36. Waypoint: Find Whitespace with Regular 
                             Expressions 
   - CG  - Easy: 4. Temperatures
   - CG  - Easy: 5. Mars Lander - Level 1
-  - FCC - JavaScript - 36. Waypoint: Invert Regular Expression 
+  - FCC - JavaScript - 37. Waypoint: Invert Regular Expression 
                             Matches with JavaScript 
-  - FCC - JavaScript - 37. Waypoint: Create a JavaScript Slot 
+  - FCC - JavaScript - 38. Waypoint: Create a JavaScript Slot 
                             Machine 
-  - FCC - JavaScript - 38. Waypoint: Add your JavaScript Slot 
+  - FCC - JavaScript - 39. Waypoint: Add your JavaScript Slot 
                             Machine Slots 
-  - FCC - JavaScript - 39. Waypoint: Bring your JavaScript Slot 
+  - FCC - JavaScript - 40. Waypoint: Bring your JavaScript Slot 
                             Machine to Life 
-  - FCC - JavaScript - 40. Waypoint: Give your JavaScript Slot 
+  - FCC - JavaScript - 41. Waypoint: Give your JavaScript Slot 
                             Machine some Stylish Images
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
