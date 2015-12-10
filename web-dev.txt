@@ -489,7 +489,8 @@ Order of Study:
   27/11/15  - TP  - jQuery - Self-Homework 3.5: Animate
   27/11/15  - TP  - jQuery - 3.6 Homework Solutions
   10/12/15  - TOP - jQuery  Basics
-  - FCC - JavaScript - 1. Waypoint: Comment your JavaScript Code 
+  10/12/15  - FCC - JavaScript - 1. Waypoint: Comment your 
+                                    JavaScript Code 
   - FCC - JavaScript - 2. Waypoint: Understand Boolean Values 
   - FCC - JavaScript - 3. Waypoint: Declare JavaScript Variables 
   - FCC - JavaScript - 4. Waypoint: Declare String Variables 
