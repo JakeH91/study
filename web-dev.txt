@@ -517,8 +517,8 @@ Order of Study:
                                       Another with JavaScript 
   10/12/15  - FCC - JavaScript - 14. Waypoint: Create Decimal 
                                       Numbers with JavaScript 
-  - FCC - JavaScript - 15. Waypoint: Perform Arithmetic Operations 
-                            on Decimals with JavaScript 
+  10/12/15  - FCC - JavaScript - 15. Waypoint: Multiply Two Decimals 
+                                      with JavaScript 
   - FCC - JavaScript - 16. Waypoint: Store Multiple Values in one 
                             Variable using JavaScript Arrays 
   - FCC - JavaScript - 17. Waypoint: Nest one Array within Another 
