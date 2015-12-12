@@ -581,8 +581,8 @@ Order of Study:
                               Passing Parameters to our Constructor
   12/12/15  - FCC - OOP - 5. Waypoint: Make Object Properties 
                               Private 
-  - FCC - OOP - 6. Waypoint: Iterate over Arrays with .map 
-  - FCC - OOP - 7. Waypoint: Condense arrays with .reduce 
+  12/12/15  - FCC - OOP - 6. Waypoint: Iterate over Arrays with .map 
+  12/12/15  - FCC - OOP - 7. Waypoint: Condense arrays with .reduce 
   - FCC - OOP - 8. Waypoint: Filter Arrays with .filter 
   - FCC - OOP - 9. Waypoint: Sort Arrays with .sort 
   - FCC - OOP - 10. Waypoint: Reverse Arrays with .reverse 
