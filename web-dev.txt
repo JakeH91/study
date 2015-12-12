@@ -551,7 +551,8 @@ Order of Study:
                                       JavaScript For Loops
   12/12/15  - FCC - JavaScript - 31. Waypoint: Iterate Odd Numbers 
                                       With a For Loop
-  - FCC - JavaScript - 32. Waypoint: Count Backwards With a For Loop
+  12/12/15  - FCC - JavaScript - 32. Waypoint: Count Backwards With 
+                                      a For Loop
   - FCC - JavaScript - 33. Waypoint: Iterate with JavaScript While 
                             Loops 
   - FCC - JavaScript - 34. Waypoint: Generate Random Fractions with 
