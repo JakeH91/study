@@ -561,8 +561,8 @@ Order of Study:
                                       Numbers with JavaScript
   12/12/15  - FCC - JavaScript - 36. Waypoint: Generate Random Whole 
                                       Numbers within a Range 
-  - FCC - JavaScript - 37. Waypoint: Use Conditional Logic with If 
-                            and Else Statements 
+  12/12/15  - FCC - JavaScript - 37. Waypoint: Use Conditional Logic 
+                                      with If and Else Statements 
   - FCC - JavaScript - 38. Waypoint: Sift through Text with Regular 
                             Expressions 
   - FCC - JavaScript - 39. Waypoint: Find Numbers with Regular 
