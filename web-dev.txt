@@ -547,8 +547,10 @@ Order of Study:
                                       a JavaScript Object
   10/12/15  - FCC - JavaScript - 29. Waypoint: Delete Properties 
                                       from a JavaScript Object
-  - FCC - JavaScript - 30. Waypoint: Iterate with JavaScript For Loops
-  - FCC - JavaScript - 31. Waypoint: Iterate Odd Numbers With a For Loop
+  12/12/15  - FCC - JavaScript - 30. Waypoint: Iterate with 
+                                      JavaScript For Loops
+  12/12/15  - FCC - JavaScript - 31. Waypoint: Iterate Odd Numbers 
+                                      With a For Loop
   - FCC - JavaScript - 32. Waypoint: Count Backwards With a For Loop
   - FCC - JavaScript - 33. Waypoint: Iterate with JavaScript While 
                             Loops 
@@ -556,8 +558,6 @@ Order of Study:
                             JavaScript 
   - FCC - JavaScript - 35. Waypoint: Generate Random Whole Numbers 
                             with JavaScript
-  - CG  - Easy: 2. The Descent
-  - CG  - Easy: 3. Skynet: the Chasm
   - FCC - JavaScript - 36. Waypoint: Generate Random Whole Numbers 
                             within a Range 
   - FCC - JavaScript - 37. Waypoint: Use Conditional Logic with If 
@@ -568,8 +568,6 @@ Order of Study:
                             Expressions 
   - FCC - JavaScript - 40. Waypoint: Find Whitespace with Regular 
                             Expressions 
-  - CG  - Easy: 4. Temperatures
-  - CG  - Easy: 5. Mars Lander - Level 1
   - FCC - JavaScript - 41. Waypoint: Invert Regular Expression 
                             Matches with JavaScript 
   - TP  - JavaScript - 1.1 Introduction
@@ -625,6 +623,10 @@ Order of Study:
   - TP  - JavaScript - 7.11 Patterns in JavaScript 2: Pubsub
   - TP  - JavaScript - 7.12 Section 7 Summary
   - TP  - JavaScript - 8.1 Conclusion
+  - CG  - Easy: 2. The Descent
+  - CG  - Easy: 3. Skynet: the Chasm
+  - CG  - Easy: 4. Temperatures
+  - CG  - Easy: 5. Mars Lander - Level 1
   - CG  - Easy: 6. ASCII Art
   - CG  - Easy: 7. Chuck Norris
   - FCC - OOP - 1. Waypoint: Declare JavaScript Objects as Variables 
