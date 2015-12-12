@@ -571,11 +571,16 @@ Order of Study:
                                       Regular Expressions 
   12/12/15  - FCC - JavaScript - 41. Waypoint: Invert Regular 
                                       Expression Matches with JavaScript
-  - FCC - OOP - 1. Waypoint: Declare JavaScript Objects as Variables 
-  - FCC - OOP - 2. Waypoint: Construct JavaScript Objects with Functions 
-  - FCC - OOP - 3. Waypoint: Make Instances of Objects with a Constructor Function
-  - FCC - OOP - 4. Waypoint: Make Unique Objects by Passing Parameters to our Constructor
-  - FCC - OOP - 5. Waypoint: Make Object Properties Private 
+  12/12/15  - FCC - OOP - 1. Waypoint: Declare JavaScript Objects as 
+                              Variables 
+  12/12/15  - FCC - OOP - 2. Waypoint: Construct JavaScript Objects 
+                              with Functions 
+  12/12/15  - FCC - OOP - 3. Waypoint: Make Instances of Objects 
+                              with a Constructor Function
+  12/12/15  - FCC - OOP - 4. Waypoint: Make Unique Objects by 
+                              Passing Parameters to our Constructor
+  12/12/15  - FCC - OOP - 5. Waypoint: Make Object Properties 
+                              Private 
   - FCC - OOP - 6. Waypoint: Iterate over Arrays with .map 
   - FCC - OOP - 7. Waypoint: Condense arrays with .reduce 
   - FCC - OOP - 8. Waypoint: Filter Arrays with .filter 
