@@ -555,12 +555,12 @@ Order of Study:
                                       a For Loop
   12/12/15  - FCC - JavaScript - 33. Waypoint: Iterate with 
                                       JavaScript While Loops 
-  - FCC - JavaScript - 34. Waypoint: Generate Random Fractions with 
-                            JavaScript 
-  - FCC - JavaScript - 35. Waypoint: Generate Random Whole Numbers 
-                            with JavaScript
-  - FCC - JavaScript - 36. Waypoint: Generate Random Whole Numbers 
-                            within a Range 
+  12/12/15  - FCC - JavaScript - 34. Waypoint: Generate Random 
+                                      Fractions with JavaScript 
+  12/12/15  - FCC - JavaScript - 35. Waypoint: Generate Random Whole 
+                                      Numbers with JavaScript
+  12/12/15  - FCC - JavaScript - 36. Waypoint: Generate Random Whole 
+                                      Numbers within a Range 
   - FCC - JavaScript - 37. Waypoint: Use Conditional Logic with If 
                             and Else Statements 
   - FCC - JavaScript - 38. Waypoint: Sift through Text with Regular 
