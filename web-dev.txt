@@ -586,9 +586,10 @@ Order of Study:
   12/12/15  - FCC - OOP - 8. Waypoint: Filter Arrays with .filter 
   12/12/15  - FCC - OOP - 9. Waypoint: Sort Arrays with .sort 
   12/12/15  - FCC - OOP - 10. Waypoint: Reverse Arrays with .reverse 
-  - FCC - OOP - 11. Waypoint: Concatenate Strings with .concat 
-  - FCC - OOP - 12. Waypoint: Split Strings with .split 
-  - FCC - OOP - 13. Waypoint: Join Strings with .join
+  12/12/15  - FCC - OOP - 11. Waypoint: Concatenate Strings with .
+                              concat 
+  12/12/15  - FCC - OOP - 12. Waypoint: Split Strings with .split 
+  12/12/15  - FCC - OOP - 13. Waypoint: Join Strings with .join
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
   - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
