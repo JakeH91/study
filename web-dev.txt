@@ -593,7 +593,7 @@ Order of Study:
   14/12/15  - FCC - Basic Algoritms - 1. WP: Get Set for Bonfires
   14/12/15  - FCC - Basic Algoritms - 2. Bonfire: Meet Bonfire
   14/12/15  - FCC - Basic Algoritms - 3. BF: Reverse a String
-  - FCC - Basic Algoritms - 4. BF: Factorialize a Number
+  14/12/15  - FCC - Basic Algoritms - 4. BF: Factorialize a Number
   - FCC - Basic Algoritms - 5. BF: Check for Palindromes
   - FCC - Basic Algoritms - 6. BF: Find the Longest Word in a String
   - FCC - Basic Algoritms - 7. BF: Title Case a Sentence
