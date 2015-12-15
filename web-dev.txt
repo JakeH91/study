@@ -598,7 +598,8 @@ Order of Study:
   15/12/15  - FCC - Basic Algoritms - 6. BF: Find the Longest Word 
                                           in a String
   15/12/15  - FCC - Basic Algoritms - 7. BF: Title Case a Sentence
-  - FCC - Basic Algoritms - 8. BF: Return Largest Numbers in Arrays
+  15/12/15  - FCC - Basic Algoritms - 8. BF: Return Largest Numbers 
+                                          in Arrays
   - FCC - Basic Algoritms - 9. BF: Confirm the Ending
   - FCC - Basic Algoritms - 10. BF: Repeat a string repeat a string
   - FCC - Basic Algoritms - 11. BF: Truncate a string
