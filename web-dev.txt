@@ -603,7 +603,7 @@ Order of Study:
   16/12/15  - FCC - Basic Algoritms - 9. BF: Confirm the Ending
   16/12/15  - FCC - Basic Algoritms - 10. BF: Repeat a string repeat 
                                           a string
-  - FCC - Basic Algoritms - 11. BF: Truncate a string
+  16/12/15  - FCC - Basic Algoritms - 11. BF: Truncate a string
   - FCC - Basic Algoritms - 12. BF: Chunky Monkey
   - FCC - Basic Algoritms - 13. BF: Slasher Flick
   - FCC - Basic Algoritms - 14. BF: Mutations
