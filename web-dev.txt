@@ -606,7 +606,7 @@ Order of Study:
   16/12/15  - FCC - Basic Algoritms - 11. BF: Truncate a string
   16/12/15  - FCC - Basic Algoritms - 12. BF: Chunky Monkey
   16/12/15  - FCC - Basic Algoritms - 13. BF: Slasher Flick
-  - FCC - Basic Algoritms - 14. BF: Mutations
+  17/12/15  - FCC - Basic Algoritms - 14. BF: Mutations
   - FCC - Basic Algoritms - 15. BF: Falsey Bouncer
   - FCC - Basic Algoritms - 16. BF: Seek and Destroy
   - FCC - Basic Algoritms - 17. BF: Where do I belong
