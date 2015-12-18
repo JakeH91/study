@@ -610,6 +610,11 @@ Order of Study:
   17/12/15  - FCC - Basic Algoritms - 15. BF: Falsey Bouncer
   18/12/15  - FCC - Basic Algoritms - 16. BF: Seek and Destroy
   18/12/15  - FCC - Basic Algoritms - 17. BF: Where do I belong
+  - FCC - Basic FE Proj - 1. WP: Get Set for Ziplines
+  - FCC - Basic FE Proj - 2. Zipline: Build a Personal Portfolio Webpage
+  - FCC - Basic FE Proj - 3. ZL: Build a Random Quote Machine
+  - FCC - Basic FE Proj - 4. ZL: Build a Pomodoro Clock
+  - FCC - Basic FE Proj - 5. ZL: Build a JavaScript Calculator
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
   - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
