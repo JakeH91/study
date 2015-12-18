@@ -609,7 +609,7 @@ Order of Study:
   17/12/15  - FCC - Basic Algoritms - 14. BF: Mutations
   17/12/15  - FCC - Basic Algoritms - 15. BF: Falsey Bouncer
   18/12/15  - FCC - Basic Algoritms - 16. BF: Seek and Destroy
-  - FCC - Basic Algoritms - 17. BF: Where do I belong
+  18/12/15  - FCC - Basic Algoritms - 17. BF: Where do I belong
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
   - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
