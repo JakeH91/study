@@ -614,7 +614,7 @@ Order of Study:
   10/01/16  - FCC - JavaScript - 4. WP: Storing Values with the Equal Operator
   10/01/16  - FCC - JavaScript - 5. WP: Initializing Variables with the Equal Operator
   10/01/16  - FCC - JavaScript - 6. WP: Understanding Uninitialized Variables
-  - FCC - JavaScript - 7. WP: Understanding Case Sensitivity in Variables
+  10/01/16  - FCC - JavaScript - 7. WP: Understanding Case Sensitivity in Variables
   - FCC - JavaScript - 12. WP: Increment a Number with Javascript
   - FCC - JavaScript - 13. WP: Decrement a Number with Javascript
   - FCC - JavaScript - 17. WP: Finding a Remainder in Javascript
