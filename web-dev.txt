@@ -495,25 +495,25 @@ Order of Study:
                                     Values 
   10/12/15  - FCC - JavaScript - 3. Waypoint: Declare JavaScript 
                                     Variables 
-  10/12/15  - FCC - JavaScript - 4. Waypoint: Declare String 
-                                    Variables 
-  10/12/15  - FCC - JavaScript - 5. Waypoint: Check the Length 
-                                    Property of a String Variable
-  10/12/15  - FCC - JavaScript - 6. Waypoint: Use Bracket Notation 
+  10/12/15  - FCC - JavaScript - 23. Waypoint: Declare String 
+                                      Variables 
+  10/12/15  - FCC - JavaScript - 31. Waypoint: Find the Length of a 
+                                      String
+  10/12/15  - FCC - JavaScript - 32. Waypoint: Use Bracket Notation 
                                     to Find the First Character in a String 
-  10/12/15  - FCC - JavaScript - 7. Waypoint: Use Bracket Notation 
+  10/12/15  - FCC - JavaScript - 34. Waypoint: Use Bracket Notation 
                                     to Find the Nth Character in a String 
-  10/12/15  - FCC - JavaScript - 8. Waypoint: Use Bracket Notation 
+  10/12/15  - FCC - JavaScript - 35. Waypoint: Use Bracket Notation 
                                     to Find the Last Character in a String 
-  10/12/15  - FCC - JavaScript - 9. Waypoint: Use Bracket Notation 
+  10/12/15  - FCC - JavaScript - 36. Waypoint: Use Bracket Notation 
                                     to Find the Nth-to-Last Character in a String 
-  10/12/15  - FCC - JavaScript - 10. Waypoint: Add Two Numbers with 
+  10/12/15  - FCC - JavaScript - 8. Waypoint: Add Two Numbers with 
                                       JavaScript
-  10/12/15  - FCC - JavaScript - 11. Waypoint: Subtract One Number 
+  10/12/15  - FCC - JavaScript - 9. Waypoint: Subtract One Number 
                                       from Another with JavaScript 
-  10/12/15  - FCC - JavaScript - 12. Waypoint: Multiply Two Numbers 
+  10/12/15  - FCC - JavaScript - 10. Waypoint: Multiply Two Numbers 
                                       with JavaScript 
-  10/12/15  - FCC - JavaScript - 13. Waypoint: Divide One Number by 
+  10/12/15  - FCC - JavaScript - 11. Waypoint: Divide One Number by 
                                       Another with JavaScript 
   10/12/15  - FCC - JavaScript - 14. Waypoint: Create Decimal 
                                       Numbers with JavaScript 
@@ -521,55 +521,55 @@ Order of Study:
                                       with JavaScript 
   10/12/15  - FCC - JavaScript - 16. Waypoint: Divide one Decimal by 
                                       Another with JavaScript 
-  10/12/15  - FCC - JavaScript - 17. Waypoint: Store Multiple Values 
+  10/12/15  - FCC - JavaScript - 38. Waypoint: Store Multiple Values 
                                       in one Variable using JavaScript Arrays
-  10/12/15  - FCC - JavaScript - 18. Waypoint: Nest one Array within 
+  10/12/15  - FCC - JavaScript - 39. Waypoint: Nest one Array within 
                                       Another Array 
-  10/12/15  - FCC - JavaScript - 19. Waypoint: Access Array Data 
+  10/12/15  - FCC - JavaScript - 40. Waypoint: Access Array Data 
                                       with Indexes 
-  10/12/15  - FCC - JavaScript - 20. Waypoint: Modify Array Data 
+  10/12/15  - FCC - JavaScript - 41. Waypoint: Modify Array Data 
                                       With Indexes 
-  10/12/15  - FCC - JavaScript - 21. Waypoint: Manipulate Arrays 
+  10/12/15  - FCC - JavaScript - 44. Waypoint: Manipulate Arrays 
                                       With pop() 
-  10/12/15  - FCC - JavaScript - 22. Waypoint: Manipulate Arrays 
+  10/12/15  - FCC - JavaScript - 43. Waypoint: Manipulate Arrays 
                                       With push() 
-  10/12/15  - FCC - JavaScript - 23. Waypoint: Manipulate Arrays 
+  10/12/15  - FCC - JavaScript - 45. Waypoint: Manipulate Arrays 
                                       With shift() 
-  10/12/15  - FCC - JavaScript - 24. Waypoint: Manipulate Arrays 
+  10/12/15  - FCC - JavaScript - 46. Waypoint: Manipulate Arrays 
                                       With unshift() 
-  10/12/15  - FCC - JavaScript - 25. Waypoint: Write Reusable 
+  10/12/15  - FCC - JavaScript - 48. Waypoint: Write Reusable 
                                       JavaScript with Functions 
-  10/12/15  - FCC - JavaScript - 26. Waypoint: Build JavaScript 
+  10/12/15  - FCC - JavaScript - 78. Waypoint: Build JavaScript 
                                       Objects  
-  10/12/15  - FCC - JavaScript - 27. Waypoint: Update the Properties 
-                                      of a JavaScript Object 
-  10/12/15  - FCC - JavaScript - 28. Waypoint: Add New Properties to 
+  10/12/15  - FCC - JavaScript - 82. Waypoint: Updating Object 
+                                      Properties 
+  10/12/15  - FCC - JavaScript - 83. Waypoint: Add New Properties to 
                                       a JavaScript Object
-  10/12/15  - FCC - JavaScript - 29. Waypoint: Delete Properties 
+  10/12/15  - FCC - JavaScript - 84. Waypoint: Delete Properties 
                                       from a JavaScript Object
-  12/12/15  - FCC - JavaScript - 30. Waypoint: Iterate with 
+  12/12/15  - FCC - JavaScript - 91. Waypoint: Iterate with 
                                       JavaScript For Loops
-  12/12/15  - FCC - JavaScript - 31. Waypoint: Iterate Odd Numbers 
+  12/12/15  - FCC - JavaScript - 92. Waypoint: Iterate Odd Numbers 
                                       With a For Loop
-  12/12/15  - FCC - JavaScript - 32. Waypoint: Count Backwards With 
+  12/12/15  - FCC - JavaScript - 93. Waypoint: Count Backwards With 
                                       a For Loop
-  12/12/15  - FCC - JavaScript - 33. Waypoint: Iterate with 
+  12/12/15  - FCC - JavaScript - 96. Waypoint: Iterate with 
                                       JavaScript While Loops 
-  12/12/15  - FCC - JavaScript - 34. Waypoint: Generate Random 
+  12/12/15  - FCC - JavaScript - 97. Waypoint: Generate Random 
                                       Fractions with JavaScript 
-  12/12/15  - FCC - JavaScript - 35. Waypoint: Generate Random Whole 
+  12/12/15  - FCC - JavaScript - 98. Waypoint: Generate Random Whole 
                                       Numbers with JavaScript
-  12/12/15  - FCC - JavaScript - 36. Waypoint: Generate Random Whole 
+  12/12/15  - FCC - JavaScript - 99. Waypoint: Generate Random Whole 
                                       Numbers within a Range 
-  12/12/15  - FCC - JavaScript - 37. Waypoint: Use Conditional Logic 
-                                      with If and Else Statements 
-  12/12/15  - FCC - JavaScript - 38. Waypoint: Sift through Text 
+  12/12/15  - FCC - JavaScript - 56. Waypoint: Use Conditional Logic 
+                                      with If Statements 
+  12/12/15  - FCC - JavaScript - 100. Waypoint: Sift through Text 
                                       with Regular Expressions 
-  12/12/15  - FCC - JavaScript - 39. Waypoint: Find Numbers with 
+  12/12/15  - FCC - JavaScript - 101. Waypoint: Find Numbers with 
                                       Regular Expressions 
-  12/12/15  - FCC - JavaScript - 40. Waypoint: Find Whitespace with 
+  12/12/15  - FCC - JavaScript - 102. Waypoint: Find Whitespace with 
                                       Regular Expressions 
-  12/12/15  - FCC - JavaScript - 41. Waypoint: Invert Regular 
+  12/12/15  - FCC - JavaScript - 103. Waypoint: Invert Regular 
                                       Expression Matches with JavaScript
   12/12/15  - FCC - OOP - 1. Waypoint: Declare JavaScript Objects as 
                               Variables 
@@ -611,6 +611,68 @@ Order of Study:
   18/12/15  - FCC - Basic Algoritms - 16. BF: Seek and Destroy
   18/12/15  - FCC - Basic Algoritms - 17. BF: Where do I belong
   18/12/15  - FCC - Basic FE Proj - 1. WP: Get Set for Ziplines
+  - FCC - JavaScript - 4. WP: Storing Values with the Equal Operator
+  - FCC - JavaScript - 5. WP: Initializing Variables with the Equal Operator
+  - FCC - JavaScript - 6. WP: Understanding Uninitialized Variables
+  - FCC - JavaScript - 7. WP: Understanding Case Sensitivity in Variables
+  - FCC - JavaScript - 12. WP: Increment a Number with Javascript
+  - FCC - JavaScript - 13. WP: Decrement a Number with Javascript
+  - FCC - JavaScript - 17. WP: Finding a Remainder in Javascript
+  - FCC - JavaScript - 18. WP: Assignment with Plus Equals
+  - FCC - JavaScript - 19. WP: Assignment with Minus Equals
+  - FCC - JavaScript - 20. WP: Assignment with Times Equals
+  - FCC - JavaScript - 21. WP: Assignment with Divided by Equals
+  - FCC - JavaScript - 22. CP: Convert Celsius to Fahrenheit
+  - FCC - JavaScript - 24. WP: Escaping Literal Quotes in Strings
+  - FCC - JavaScript - 25. WP: Quoting Strings with Single Quotes
+  - FCC - JavaScript - 26. WP: Escape Sequences in Strings
+  - FCC - JavaScript - 27. WP: Concatenating Strings with Plus Operator
+  - FCC - JavaScript - 28. WP: Concatenating Strings with the Plus Equals Operator
+  - FCC - JavaScript - 29. WP: Constructing Strings with Variables
+  - FCC - JavaScript - 30. WP: Appending Variables to Strings
+  - FCC - JavaScript - 33. WP: Understand String Immutability
+  - FCC - JavaScript - 37. CP: Word Blanks
+  - FCC - JavaScript - 42. WP: Access Multi-Dimensional Arrays With Indexes
+  - FCC - JavaScript - 47. CP: Shopping List
+  - FCC - JavaScript - 49. WP: Passing Values to Functions with Arguments
+  - FCC - JavaScript - 50. WP: Global Scope and Functions
+  - FCC - JavaScript - 51. WP: Local Scope and Functions
+  - FCC - JavaScript - 52. WP: Global vs. Local Scope in Functions
+  - FCC - JavaScript - 53. WP: Return a Value from a Function with Return
+  - FCC - JavaScript - 54. WP: Assignment with a Returned Value
+  - FCC - JavaScript - 55. CP: Stand in Line
+  - FCC - JavaScript - 57. WP: Comparison with the Equality Operator
+  - FCC - JavaScript - 58. WP: Comparison with the Strict Equality Operator
+  - FCC - JavaScript - 59. WP: Comparison with the Inequality Operator
+  - FCC - JavaScript - 60. WP: Comparison with the Strict Inequality Operator
+  - FCC - JavaScript - 61. WP: Comparison with the Greater Than Operator
+  - FCC - JavaScript - 62. WP: Comparison with the Greater Than Equal To Operator
+  - FCC - JavaScript - 63. WP: Comparison with the Less Than Operator
+  - FCC - JavaScript - 64. WP: Comparison with the Less Than Equal To Operator
+  - FCC - JavaScript - 65. WP: Comparisons with the Logical And Operator
+  - FCC - JavaScript - 66. WP: Comparisons with the Logical Or Operator
+  - FCC - JavaScript - 67. WP: Introducing Else Statements
+  - FCC - JavaScript - 68. WP: Introducing Else If Statements
+  - FCC - JavaScript - 69. WP: Chaining If Else Statements
+  - FCC - JavaScript - 70. CP: Golf Code
+  - FCC - JavaScript - 71. WP: Selecting from many options with Switch Statements
+  - FCC - JavaScript - 72. WP: Adding a default option in Switch statements
+  - FCC - JavaScript - 73. WP: Multiple Identical Options in Switch Statements
+  - FCC - JavaScript - 74. WP: Replacing If Else Chains with Switch
+  - FCC - JavaScript - 75. WP: Returning Boolean Values from Functions
+  - FCC - JavaScript - 76. WP: Return Early Pattern for Functions
+  - FCC - JavaScript - 77. CP: Counting Cards
+  - FCC - JavaScript - 79. WP: Accessing Objects Properties with the Dot Operator
+  - FCC - JavaScript - 80. WP: Accessing Objects Properties with Bracket Notation
+  - FCC - JavaScript - 81. WP: Accessing Objects Properties with Variables
+  - FCC - JavaScript - 85. WP: Using Objects for Lookups
+  - FCC - JavaScript - 86. WP: Testing Objects for Properties
+  - FCC - JavaScript - 87. WP: Introducing JavaScript Object Notation (JSON)
+  - FCC - JavaScript - 88. WP: Accessing Nested Objects in JSON
+  - FCC - JavaScript - 89. WP: Accessing Nested Arrays in JSON
+  - FCC - JavaScript - 90. CP: Record Collection
+  - FCC - JavaScript - 94. WP Iterate Through an Array with a For Loop
+  - FCC - JavaScript - 95. WP: Nesting For Loops
   - FCC - Basic FE Proj - 2. Zipline: Build a Personal Portfolio Webpage
   - FCC - Basic FE Proj - 3. ZL: Build a Random Quote Machine
   - FCC - Basic FE Proj - 4. ZL: Build a Pomodoro Clock
