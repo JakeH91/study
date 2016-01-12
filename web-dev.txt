@@ -611,12 +611,18 @@ Order of Study:
   18/12/15  - FCC - Basic Algoritms - 16. BF: Seek and Destroy
   18/12/15  - FCC - Basic Algoritms - 17. BF: Where do I belong
   18/12/15  - FCC - Basic FE Proj - 1. WP: Get Set for Ziplines
-  10/01/16  - FCC - JavaScript - 4. WP: Storing Values with the Equal Operator
-  10/01/16  - FCC - JavaScript - 5. WP: Initializing Variables with the Equal Operator
-  10/01/16  - FCC - JavaScript - 6. WP: Understanding Uninitialized Variables
-  10/01/16  - FCC - JavaScript - 7. WP: Understanding Case Sensitivity in Variables
-  - FCC - JavaScript - 12. WP: Increment a Number with Javascript
-  - FCC - JavaScript - 13. WP: Decrement a Number with Javascript
+  10/01/16  - FCC - JavaScript - 4. WP: Storing Values with the 
+                                    Equal Operator
+  10/01/16  - FCC - JavaScript - 5. WP: Initializing Variables with 
+                                    the Equal Operator
+  10/01/16  - FCC - JavaScript - 6. WP: Understanding Uninitialized 
+                                    Variables
+  10/01/16  - FCC - JavaScript - 7. WP: Understanding Case 
+                                    Sensitivity in Variables
+  10/01/16  - FCC - JavaScript - 12. WP: Increment a Number with 
+                                      Javascript
+  10/01/16  - FCC - JavaScript - 13. WP: Decrement a Number with 
+                                      Javascript
   - FCC - JavaScript - 17. WP: Finding a Remainder in Javascript
   - FCC - JavaScript - 18. WP: Assignment with Plus Equals
   - FCC - JavaScript - 19. WP: Assignment with Minus Equals
