@@ -626,7 +626,7 @@ Order of Study:
   10/01/16  - FCC - JavaScript - 17. WP: Finding a Remainder in Javascript
   10/01/16  - FCC - JavaScript - 18. WP: Assignment with Plus Equals
   10/01/16  - FCC - JavaScript - 19. WP: Assignment with Minus Equals
-  - FCC - JavaScript - 20. WP: Assignment with Times Equals
+  10/01/16  - FCC - JavaScript - 20. WP: Assignment with Times Equals
   - FCC - JavaScript - 21. WP: Assignment with Divided by Equals
   - FCC - JavaScript - 22. CP: Convert Celsius to Fahrenheit
   - FCC - JavaScript - 24. WP: Escaping Literal Quotes in Strings
