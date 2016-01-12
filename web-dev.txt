@@ -630,7 +630,8 @@ Order of Study:
   12/01/16  - FCC - JavaScript - 20. WP: Assignment with Times Equals
   12/01/16  - FCC - JavaScript - 21. WP: Assignment with Divided by 
                                       Equals
-  - FCC - JavaScript - 22. CP: Convert Celsius to Fahrenheit
+  12/01/16  - FCC - JavaScript - 22. CP: Convert Celsius to 
+                                      Fahrenheit
   - FCC - JavaScript - 24. WP: Escaping Literal Quotes in Strings
   - FCC - JavaScript - 25. WP: Quoting Strings with Single Quotes
   - FCC - JavaScript - 26. WP: Escape Sequences in Strings
