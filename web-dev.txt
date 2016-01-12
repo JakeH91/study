@@ -619,15 +619,17 @@ Order of Study:
                                     Variables
   10/01/16  - FCC - JavaScript - 7. WP: Understanding Case 
                                     Sensitivity in Variables
-  10/01/16  - FCC - JavaScript - 12. WP: Increment a Number with 
+  12/01/16  - FCC - JavaScript - 12. WP: Increment a Number with 
                                       Javascript
-  10/01/16  - FCC - JavaScript - 13. WP: Decrement a Number with 
+  12/01/16  - FCC - JavaScript - 13. WP: Decrement a Number with 
                                       Javascript
-  10/01/16  - FCC - JavaScript - 17. WP: Finding a Remainder in Javascript
-  10/01/16  - FCC - JavaScript - 18. WP: Assignment with Plus Equals
-  10/01/16  - FCC - JavaScript - 19. WP: Assignment with Minus Equals
-  10/01/16  - FCC - JavaScript - 20. WP: Assignment with Times Equals
-  - FCC - JavaScript - 21. WP: Assignment with Divided by Equals
+  12/01/16  - FCC - JavaScript - 17. WP: Finding a Remainder in 
+                                      Javascript
+  12/01/16  - FCC - JavaScript - 18. WP: Assignment with Plus Equals
+  12/01/16  - FCC - JavaScript - 19. WP: Assignment with Minus Equals
+  12/01/16  - FCC - JavaScript - 20. WP: Assignment with Times Equals
+  12/01/16  - FCC - JavaScript - 21. WP: Assignment with Divided by 
+                                      Equals
   - FCC - JavaScript - 22. CP: Convert Celsius to Fahrenheit
   - FCC - JavaScript - 24. WP: Escaping Literal Quotes in Strings
   - FCC - JavaScript - 25. WP: Quoting Strings with Single Quotes
