@@ -539,37 +539,37 @@ Order of Study:
                                       With unshift() 
   10/12/15  - FCC - JavaScript - 48. Waypoint: Write Reusable 
                                       JavaScript with Functions 
-  10/12/15  - FCC - JavaScript - 78. Waypoint: Build JavaScript 
+  10/12/15  - FCC - JavaScript - 79. Waypoint: Build JavaScript 
                                       Objects  
-  10/12/15  - FCC - JavaScript - 82. Waypoint: Updating Object 
+  10/12/15  - FCC - JavaScript - 83. Waypoint: Updating Object 
                                       Properties 
-  10/12/15  - FCC - JavaScript - 83. Waypoint: Add New Properties to 
+  10/12/15  - FCC - JavaScript - 84. Waypoint: Add New Properties to 
                                       a JavaScript Object
-  10/12/15  - FCC - JavaScript - 84. Waypoint: Delete Properties 
+  10/12/15  - FCC - JavaScript - 85. Waypoint: Delete Properties 
                                       from a JavaScript Object
-  12/12/15  - FCC - JavaScript - 91. Waypoint: Iterate with 
+  12/12/15  - FCC - JavaScript - 92. Waypoint: Iterate with 
                                       JavaScript For Loops
-  12/12/15  - FCC - JavaScript - 92. Waypoint: Iterate Odd Numbers 
+  12/12/15  - FCC - JavaScript - 93. Waypoint: Iterate Odd Numbers 
                                       With a For Loop
-  12/12/15  - FCC - JavaScript - 93. Waypoint: Count Backwards With 
+  12/12/15  - FCC - JavaScript - 94. Waypoint: Count Backwards With 
                                       a For Loop
-  12/12/15  - FCC - JavaScript - 96. Waypoint: Iterate with 
+  12/12/15  - FCC - JavaScript - 97. Waypoint: Iterate with 
                                       JavaScript While Loops 
-  12/12/15  - FCC - JavaScript - 97. Waypoint: Generate Random 
+  12/12/15  - FCC - JavaScript - 99. Waypoint: Generate Random 
                                       Fractions with JavaScript 
-  12/12/15  - FCC - JavaScript - 98. Waypoint: Generate Random Whole 
-                                      Numbers with JavaScript
-  12/12/15  - FCC - JavaScript - 99. Waypoint: Generate Random Whole 
-                                      Numbers within a Range 
+  12/12/15  - FCC - JavaScript - 100. Waypoint: Generate Random 
+                                      Whole Numbers with JavaScript
+  12/12/15  - FCC - JavaScript - 101. Waypoint: Generate Random 
+                                      Whole Numbers within a Range 
   12/12/15  - FCC - JavaScript - 56. Waypoint: Use Conditional Logic 
                                       with If Statements 
-  12/12/15  - FCC - JavaScript - 100. Waypoint: Sift through Text 
+  12/12/15  - FCC - JavaScript - 102. Waypoint: Sift through Text 
                                       with Regular Expressions 
-  12/12/15  - FCC - JavaScript - 101. Waypoint: Find Numbers with 
+  12/12/15  - FCC - JavaScript - 103. Waypoint: Find Numbers with 
                                       Regular Expressions 
-  12/12/15  - FCC - JavaScript - 102. Waypoint: Find Whitespace with 
+  12/12/15  - FCC - JavaScript - 104. Waypoint: Find Whitespace with 
                                       Regular Expressions 
-  12/12/15  - FCC - JavaScript - 103. Waypoint: Invert Regular 
+  12/12/15  - FCC - JavaScript - 105. Waypoint: Invert Regular 
                                       Expression Matches with JavaScript
   12/12/15  - FCC - OOP - 1. Waypoint: Declare JavaScript Objects as 
                               Variables 
@@ -674,26 +674,27 @@ Order of Study:
   - FCC - JavaScript - 66. WP: Comparisons with the Logical Or Operator
   - FCC - JavaScript - 67. WP: Introducing Else Statements
   - FCC - JavaScript - 68. WP: Introducing Else If Statements
-  - FCC - JavaScript - 69. WP: Chaining If Else Statements
-  - FCC - JavaScript - 70. CP: Golf Code
-  - FCC - JavaScript - 71. WP: Selecting from many options with Switch Statements
-  - FCC - JavaScript - 72. WP: Adding a default option in Switch statements
-  - FCC - JavaScript - 73. WP: Multiple Identical Options in Switch Statements
-  - FCC - JavaScript - 74. WP: Replacing If Else Chains with Switch
-  - FCC - JavaScript - 75. WP: Returning Boolean Values from Functions
-  - FCC - JavaScript - 76. WP: Return Early Pattern for Functions
-  - FCC - JavaScript - 77. CP: Counting Cards
-  - FCC - JavaScript - 79. WP: Accessing Objects Properties with the Dot Operator
-  - FCC - JavaScript - 80. WP: Accessing Objects Properties with Bracket Notation
-  - FCC - JavaScript - 81. WP: Accessing Objects Properties with Variables
-  - FCC - JavaScript - 85. WP: Using Objects for Lookups
-  - FCC - JavaScript - 86. WP: Testing Objects for Properties
-  - FCC - JavaScript - 87. WP: Introducing JavaScript Object Notation (JSON)
-  - FCC - JavaScript - 88. WP: Accessing Nested Objects in JSON
-  - FCC - JavaScript - 89. WP: Accessing Nested Arrays in JSON
-  - FCC - JavaScript - 90. CP: Record Collection
-  - FCC - JavaScript - 94. WP Iterate Through an Array with a For Loop
-  - FCC - JavaScript - 95. WP: Nesting For Loops
+  - FCC - JavaScript - 69. WP: Logical Order in If Else Statements
+  - FCC - JavaScript - 70. WP: Chaining If Else Statements
+  - FCC - JavaScript - 71. CP: Golf Code
+  - FCC - JavaScript - 72. WP: Selecting from many options with Switch Statements
+  - FCC - JavaScript - 73. WP: Adding a default option in Switch statements
+  - FCC - JavaScript - 74. WP: Multiple Identical Options in Switch Statements
+  - FCC - JavaScript - 75. WP: Replacing If Else Chains with Switch
+  - FCC - JavaScript - 76. WP: Returning Boolean Values from Functions
+  - FCC - JavaScript - 77. WP: Return Early Pattern for Functions
+  - FCC - JavaScript - 78. CP: Counting Cards
+  - FCC - JavaScript - 80. WP: Accessing Objects Properties with the Dot Operator
+  - FCC - JavaScript - 81. WP: Accessing Objects Properties with Bracket Notation
+  - FCC - JavaScript - 82. WP: Accessing Objects Properties with Variables
+  - FCC - JavaScript - 86. WP: Using Objects for Lookups
+  - FCC - JavaScript - 87. WP: Testing Objects for Properties
+  - FCC - JavaScript - 88. WP: Introducing JavaScript Object Notation (JSON)
+  - FCC - JavaScript - 89. WP: Accessing Nested Objects in JSON
+  - FCC - JavaScript - 90. WP: Accessing Nested Arrays in JSON
+  - FCC - JavaScript - 91. CP: Record Collection
+  - FCC - JavaScript - 95. WP Iterate Through an Array with a For Loop
+  - FCC - JavaScript - 96. WP: Nesting For Loops
   - FCC - Basic FE Proj - 2. Zipline: Build a Personal Portfolio Webpage
   - FCC - Basic FE Proj - 3. ZL: Build a Random Quote Machine
   - FCC - Basic FE Proj - 4. ZL: Build a Pomodoro Clock
