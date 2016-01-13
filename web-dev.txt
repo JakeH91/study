@@ -662,20 +662,32 @@ Order of Study:
   13/01/16  - FCC - JavaScript - 54. WP: Assignment with a Returned 
                                       Value
   13/01/16  - FCC - JavaScript - 55. CP: Stand in Line
-  - FCC - JavaScript - 57. WP: Comparison with the Equality Operator
-  - FCC - JavaScript - 58. WP: Comparison with the Strict Equality Operator
-  - FCC - JavaScript - 59. WP: Comparison with the Inequality Operator
-  - FCC - JavaScript - 60. WP: Comparison with the Strict Inequality Operator
-  - FCC - JavaScript - 61. WP: Comparison with the Greater Than Operator
-  - FCC - JavaScript - 62. WP: Comparison with the Greater Than Equal To Operator
-  - FCC - JavaScript - 63. WP: Comparison with the Less Than Operator
-  - FCC - JavaScript - 64. WP: Comparison with the Less Than Equal To Operator
-  - FCC - JavaScript - 65. WP: Comparisons with the Logical And Operator
-  - FCC - JavaScript - 66. WP: Comparisons with the Logical Or Operator
-  - FCC - JavaScript - 67. WP: Introducing Else Statements
-  - FCC - JavaScript - 68. WP: Introducing Else If Statements
-  - FCC - JavaScript - 69. WP: Logical Order in If Else Statements
-  - FCC - JavaScript - 70. WP: Chaining If Else Statements
+  13/01/16  - FCC - JavaScript - 57. WP: Comparison with the 
+                                      Equality Operator
+  13/01/16  - FCC - JavaScript - 58. WP: Comparison with the Strict 
+                                      Equality Operator
+  13/01/16  - FCC - JavaScript - 59. WP: Comparison with the 
+                                      Inequality Operator
+  13/01/16  - FCC - JavaScript - 60. WP: Comparison with the Strict 
+                                      Inequality Operator
+  13/01/16  - FCC - JavaScript - 61. WP: Comparison with the Greater 
+                                      Than Operator
+  13/01/16  - FCC - JavaScript - 62. WP: Comparison with the Greater 
+                                      Than Equal To Operator
+  13/01/16  - FCC - JavaScript - 63. WP: Comparison with the Less 
+                                      Than Operator
+  13/01/16  - FCC - JavaScript - 64. WP: Comparison with the Less 
+                                      Than Equal To Operator
+  13/01/16  - FCC - JavaScript - 65. WP: Comparisons with the 
+                                      Logical And Operator
+  13/01/16  - FCC - JavaScript - 66. WP: Comparisons with the 
+                                      Logical Or Operator
+  13/01/16  - FCC - JavaScript - 67. WP: Introducing Else Statements
+  13/01/16  - FCC - JavaScript - 68. WP: Introducing Else If 
+                                      Statements
+  13/01/16  - FCC - JavaScript - 69. WP: Logical Order in If Else 
+                                      Statements
+  13/01/16  - FCC - JavaScript - 70. WP: Chaining If Else Statements
   - FCC - JavaScript - 71. CP: Golf Code
   - FCC - JavaScript - 72. WP: Selecting from many options with Switch Statements
   - FCC - JavaScript - 73. WP: Adding a default option in Switch statements
