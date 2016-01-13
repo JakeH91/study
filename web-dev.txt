@@ -688,7 +688,7 @@ Order of Study:
   13/01/16  - FCC - JavaScript - 69. WP: Logical Order in If Else 
                                       Statements
   13/01/16  - FCC - JavaScript - 70. WP: Chaining If Else Statements
-  - FCC - JavaScript - 71. CP: Golf Code
+  13/01/16  - FCC - JavaScript - 71. CP: Golf Code
   - FCC - JavaScript - 72. WP: Selecting from many options with Switch Statements
   - FCC - JavaScript - 73. WP: Adding a default option in Switch statements
   - FCC - JavaScript - 74. WP: Multiple Identical Options in Switch Statements
