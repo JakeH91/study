@@ -661,7 +661,7 @@ Order of Study:
                                       Function with Return
   13/01/16  - FCC - JavaScript - 54. WP: Assignment with a Returned 
                                       Value
-  - FCC - JavaScript - 55. CP: Stand in Line
+  13/01/16  - FCC - JavaScript - 55. CP: Stand in Line
   - FCC - JavaScript - 57. WP: Comparison with the Equality Operator
   - FCC - JavaScript - 58. WP: Comparison with the Strict Equality Operator
   - FCC - JavaScript - 59. WP: Comparison with the Inequality Operator
