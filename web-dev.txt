@@ -643,7 +643,8 @@ Order of Study:
                                       the Plus Equals Operator
   13/01/16  - FCC - JavaScript - 29. WP: Constructing Strings with 
                                       Variables
-  - FCC - JavaScript - 30. WP: Appending Variables to Strings
+  13/01/16  - FCC - JavaScript - 30. WP: Appending Variables to 
+                                      Strings
   - FCC - JavaScript - 33. WP: Understand String Immutability
   - FCC - JavaScript - 37. CP: Word Blanks
   - FCC - JavaScript - 42. WP: Access Multi-Dimensional Arrays With Indexes
