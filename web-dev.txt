@@ -634,7 +634,8 @@ Order of Study:
                                       Fahrenheit
   13/01/16  - FCC - JavaScript - 24. WP: Escaping Literal Quotes in 
                                       Strings
-  - FCC - JavaScript - 25. WP: Quoting Strings with Single Quotes
+  13/01/16  - FCC - JavaScript - 25. WP: Quoting Strings with Single 
+                                      Quotes
   - FCC - JavaScript - 26. WP: Escape Sequences in Strings
   - FCC - JavaScript - 27. WP: Concatenating Strings with Plus Operator
   - FCC - JavaScript - 28. WP: Concatenating Strings with the Plus Equals Operator
