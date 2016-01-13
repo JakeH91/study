@@ -647,7 +647,7 @@ Order of Study:
                                       Strings
   13/01/16  - FCC - JavaScript - 33. WP: Understand String 
                                       Immutability
-  - FCC - JavaScript - 37. CP: Word Blanks
+  13/01/16  - FCC - JavaScript - 37. CP: Word Blanks
   - FCC - JavaScript - 42. WP: Access Multi-Dimensional Arrays With Indexes
   - FCC - JavaScript - 47. CP: Shopping List
   - FCC - JavaScript - 49. WP: Passing Values to Functions with Arguments
