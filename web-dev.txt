@@ -651,12 +651,16 @@ Order of Study:
   13/01/16  - FCC - JavaScript - 42. WP: Access Multi-Dimensional 
                                       Arrays With Indexes
   13/01/16  - FCC - JavaScript - 47. CP: Shopping List
-  - FCC - JavaScript - 49. WP: Passing Values to Functions with Arguments
-  - FCC - JavaScript - 50. WP: Global Scope and Functions
-  - FCC - JavaScript - 51. WP: Local Scope and Functions
-  - FCC - JavaScript - 52. WP: Global vs. Local Scope in Functions
-  - FCC - JavaScript - 53. WP: Return a Value from a Function with Return
-  - FCC - JavaScript - 54. WP: Assignment with a Returned Value
+  13/01/16  - FCC - JavaScript - 49. WP: Passing Values to Functions 
+                                      with Arguments
+  13/01/16  - FCC - JavaScript - 50. WP: Global Scope and Functions
+  13/01/16  - FCC - JavaScript - 51. WP: Local Scope and Functions
+  13/01/16  - FCC - JavaScript - 52. WP: Global vs. Local Scope in 
+                                      Functions
+  13/01/16  - FCC - JavaScript - 53. WP: Return a Value from a 
+                                      Function with Return
+  13/01/16  - FCC - JavaScript - 54. WP: Assignment with a Returned 
+                                      Value
   - FCC - JavaScript - 55. CP: Stand in Line
   - FCC - JavaScript - 57. WP: Comparison with the Equality Operator
   - FCC - JavaScript - 58. WP: Comparison with the Strict Equality Operator
