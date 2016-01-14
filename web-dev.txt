@@ -708,11 +708,15 @@ Order of Study:
                                       Properties with Bracket Notation
   14/01/16  - FCC - JavaScript - 82. WP: Accessing Objects 
                                       Properties with Variables
-  - FCC - JavaScript - 86. WP: Using Objects for Lookups
-  - FCC - JavaScript - 87. WP: Testing Objects for Properties
-  - FCC - JavaScript - 88. WP: Introducing JavaScript Object Notation (JSON)
-  - FCC - JavaScript - 89. WP: Accessing Nested Objects in JSON
-  - FCC - JavaScript - 90. WP: Accessing Nested Arrays in JSON
+  14/01/16  - FCC - JavaScript - 86. WP: Using Objects for Lookups
+  14/01/16  - FCC - JavaScript - 87. WP: Testing Objects for 
+                                      Properties
+  14/01/16  - FCC - JavaScript - 88. WP: Introducing JavaScript 
+                                      Object Notation (JSON)
+  14/01/16  - FCC - JavaScript - 89. WP: Accessing Nested Objects in 
+                                      JSON
+  14/01/16  - FCC - JavaScript - 90. WP: Accessing Nested Arrays in 
+                                      JSON
   - FCC - JavaScript - 91. CP: Record Collection
   - FCC - JavaScript - 95. WP Iterate Through an Array with a For Loop
   - FCC - JavaScript - 96. WP: Nesting For Loops
