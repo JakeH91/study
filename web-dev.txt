@@ -702,9 +702,12 @@ Order of Study:
   14/01/16  - FCC - JavaScript - 77. WP: Return Early Pattern for 
                                       Functions
   14/01/16  - FCC - JavaScript - 78. CP: Counting Cards
-  - FCC - JavaScript - 80. WP: Accessing Objects Properties with the Dot Operator
-  - FCC - JavaScript - 81. WP: Accessing Objects Properties with Bracket Notation
-  - FCC - JavaScript - 82. WP: Accessing Objects Properties with Variables
+  14/01/16  - FCC - JavaScript - 80. WP: Accessing Objects 
+                                      Properties with the Dot Operator
+  14/01/16  - FCC - JavaScript - 81. WP: Accessing Objects 
+                                      Properties with Bracket Notation
+  14/01/16  - FCC - JavaScript - 82. WP: Accessing Objects 
+                                      Properties with Variables
   - FCC - JavaScript - 86. WP: Using Objects for Lookups
   - FCC - JavaScript - 87. WP: Testing Objects for Properties
   - FCC - JavaScript - 88. WP: Introducing JavaScript Object Notation (JSON)
