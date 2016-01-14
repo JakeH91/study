@@ -689,12 +689,18 @@ Order of Study:
                                       Statements
   13/01/16  - FCC - JavaScript - 70. WP: Chaining If Else Statements
   13/01/16  - FCC - JavaScript - 71. CP: Golf Code
-  - FCC - JavaScript - 72. WP: Selecting from many options with Switch Statements
-  - FCC - JavaScript - 73. WP: Adding a default option in Switch statements
-  - FCC - JavaScript - 74. WP: Multiple Identical Options in Switch Statements
-  - FCC - JavaScript - 75. WP: Replacing If Else Chains with Switch
-  - FCC - JavaScript - 76. WP: Returning Boolean Values from Functions
-  - FCC - JavaScript - 77. WP: Return Early Pattern for Functions
+  14/01/16  - FCC - JavaScript - 72. WP: Selecting from many options 
+                                      with Switch Statements
+  14/01/16  - FCC - JavaScript - 73. WP: Adding a default option in 
+                                      Switch statements
+  14/01/16  - FCC - JavaScript - 74. WP: Multiple Identical Options 
+                                      in Switch Statements
+  14/01/16  - FCC - JavaScript - 75. WP: Replacing If Else Chains 
+                                      with Switch
+  14/01/16  - FCC - JavaScript - 76. WP: Returning Boolean Values 
+                                      from Functions
+  14/01/16  - FCC - JavaScript - 77. WP: Return Early Pattern for 
+                                      Functions
   - FCC - JavaScript - 78. CP: Counting Cards
   - FCC - JavaScript - 80. WP: Accessing Objects Properties with the Dot Operator
   - FCC - JavaScript - 81. WP: Accessing Objects Properties with Bracket Notation
