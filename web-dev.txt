@@ -717,7 +717,7 @@ Order of Study:
                                       JSON
   14/01/16  - FCC - JavaScript - 90. WP: Accessing Nested Arrays in 
                                       JSON
-  - FCC - JavaScript - 91. CP: Record Collection
+  14/01/16  - FCC - JavaScript - 91. CP: Record Collection
   - FCC - JavaScript - 95. WP Iterate Through an Array with a For Loop
   - FCC - JavaScript - 96. WP: Nesting For Loops
   - FCC - Basic FE Proj - 2. Zipline: Build a Personal Portfolio Webpage
