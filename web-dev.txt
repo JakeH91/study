@@ -723,7 +723,8 @@ Order of Study:
   14/01/16  - FCC - JavaScript - 96. WP: Nesting For Loops
   14/01/16  - FCC - JavaScript - 98. CP: Profile Lookup
   17/01/16  - FCC - Basic Algoritms - 18. BF: Caesar's Cipher
-  - FCC - Basic FE Proj - 2. Zipline: Build a Personal Portfolio Webpage
+  21/01/16  - FCC - Basic FE Proj - 2. Zipline: Build a Personal 
+                                        Portfolio Webpage
   - FCC - Basic FE Proj - 3. ZL: Build a Random Quote Machine
   - FCC - Basic FE Proj - 4. ZL: Build a Pomodoro Clock
   - FCC - Basic FE Proj - 5. ZL: Build a JavaScript Calculator
