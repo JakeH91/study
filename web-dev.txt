@@ -725,7 +725,8 @@ Order of Study:
   17/01/16  - FCC - Basic Algoritms - 18. BF: Caesar's Cipher
   21/01/16  - FCC - Basic FE Proj - 2. Zipline: Build a Personal 
                                         Portfolio Webpage
-  - FCC - Basic FE Proj - 3. ZL: Build a Random Quote Machine
+  31/01/16  - FCC - Basic FE Proj - 3. ZL: Build a Random Quote 
+                                        Machine
   - FCC - Basic FE Proj - 4. ZL: Build a Pomodoro Clock
   - FCC - Basic FE Proj - 5. ZL: Build a JavaScript Calculator
   - TP  - JavaScript - 1.1 Introduction
