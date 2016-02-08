@@ -727,8 +727,13 @@ Order of Study:
                                         Portfolio Webpage
   31/01/16  - FCC - Basic FE Proj - 3. ZL: Build a Random Quote 
                                         Machine
-  - FCC - Basic FE Proj - 4. ZL: Build a Pomodoro Clock
-  - FCC - Basic FE Proj - 5. ZL: Build a JavaScript Calculator
+  - FCC - Basic FE Proj - 4. ZL: Build a JavaScript Calculator
+  - CA  - Make An Interactive Website: Unit 1
+  - CA  - Make An Interactive Website: Unit 2
+  - CA  - Make An Interactive Website: Unit 3
+  - CA  - Make An Interactive Website: Unit 4
+  - CA  - Make An Interactive Website: Unit 5
+  - FCC - Basic FE Proj - 5. ZL: Build a Pomodoro Clock
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
   - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
@@ -820,11 +825,7 @@ Order of Study:
   - CG  - Medium: 11. Conway Sequence
   - CG  - Medium: 12. Telephone Numbers
   - EJ  - Chapter 21: Project: Skill-Sharing Website
-  - CA  - Make An Interactive Website: Unit 1
-  - CA  - Make An Interactive Website: Unit 2
-  - CA  - Make An Interactive Website: Unit 3
-  - CA  - Make An Interactive Website: Unit 4
-  - CA  - Make An Interactive Website: Unit 5
+
   - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
   - CG  - Medium: 14. Bender, a depressed robot
   - CG  - Medium: 15. Scrabble
@@ -836,7 +837,6 @@ Order of Study:
   - EJ  - Chapter 5: Exercise 2 - Mother-Child Age Difference
   - EJ  - Chapter 5: Exercise 3 - Historical Life Expectancy
   - EJ  - Chapter 5: Exercise 4 - Every and Then Some
-  
   - VCS - Design - 6. What is User Experience?
   - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
