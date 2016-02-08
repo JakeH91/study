@@ -727,10 +727,10 @@ Order of Study:
                                         Portfolio Webpage
   31/01/16  - FCC - Basic FE Proj - 3. ZL: Build a Random Quote 
                                         Machine
+  03/02/16  - CA  - Make An Interactive Website: Unit 1
+  03/02/16  - CA  - Make An Interactive Website: Unit 2  
   05/02/16  - FCC - Basic FE Proj - 4. ZL: Build a JavaScript 
                                         Calculator
-  - CA  - Make An Interactive Website: Unit 1
-  - CA  - Make An Interactive Website: Unit 2
   - CA  - Make An Interactive Website: Unit 3
   - CA  - Make An Interactive Website: Unit 4
   - CA  - Make An Interactive Website: Unit 5
