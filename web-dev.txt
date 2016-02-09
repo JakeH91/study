@@ -729,9 +729,9 @@ Order of Study:
                                         Machine
   03/02/16  - CA  - Make An Interactive Website: Unit 1
   03/02/16  - CA  - Make An Interactive Website: Unit 2  
+  03/02/16  - CA  - Make An Interactive Website: Unit 3
   05/02/16  - FCC - Basic FE Proj - 4. ZL: Build a JavaScript 
                                         Calculator
-  - CA  - Make An Interactive Website: Unit 3
   - CA  - Make An Interactive Website: Unit 4
   - CA  - Make An Interactive Website: Unit 5
   - FCC - Basic FE Proj - 5. ZL: Build a Pomodoro Clock
