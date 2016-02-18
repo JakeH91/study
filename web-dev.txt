@@ -723,22 +723,64 @@ Order of Study:
   14/01/16  - FCC - JavaScript - 96. WP: Nesting For Loops
   14/01/16  - FCC - JavaScript - 98. CP: Profile Lookup
   17/01/16  - FCC - Basic Algoritms - 18. BF: Caesar's Cipher
-  21/01/16  - FCC - Basic FE Proj - 2. Zipline: Build a Personal 
+  21/01/16  - FCC - Basic FE Proj - 3. Zipline: Build a Personal 
                                         Portfolio Webpage
-  31/01/16  - FCC - Basic FE Proj - 3. ZL: Build a Random Quote 
-                                        Machine
+  31/01/16  - FCC - Intermediate FE Proj - 1. ZL: Build a Random 
+                                              Quote Machine
   03/02/16  - CA  - Make An Interactive Website: Unit 1
   03/02/16  - CA  - Make An Interactive Website: Unit 2  
   03/02/16  - CA  - Make An Interactive Website: Unit 3
-  05/02/16  - FCC - Basic FE Proj - 4. ZL: Build a JavaScript 
-                                        Calculator
+  05/02/16  - FCC - Advanced FE Proj - 1. ZL: Build a JavaScript 
+                                          Calculator
   09/02/16  - CA  - Make An Interactive Website: Unit 4
   09/02/16  - CA  - Make An Interactive Website: Unit 5
-  - FCC - Basic FE Proj - 5. ZL: Build a Pomodoro Clock
+  - FCC - Basic FE Proj - 2. ZL: Build a Tribute Page
+  - VCS - Design - 6. What is User Experience?
+  - VCS - Design - 7. Components of Good UX
+  - VCS - Design - 8. Our Approach to UX
+  - VCS - Design - 9. Demo: A UX Teardown
+  - VCS - Design - 10. Your Own UX Teardown
+  - VCS - Design - 11. Demo: Designing the Viking Blogger UX
+  - FCC - JSON APIs and Ajax - Trigger Click Events with jQuery 
+  - FCC - JSON APIs and Ajax - Change Text with Click Events 
+  - FCC - JSON APIs and Ajax - Get JSON with the jQuery getJSON Method 
+  - FCC - JSON APIs and Ajax - Convert JSON Data to HTML 
+  - FCC - JSON APIs and Ajax - Render Images from Data Sources 
+  - FCC - JSON APIs and Ajax - Prefilter JSON 
+  - FCC - JSON APIs and Ajax -  Geo-location Data
+  - VCS - Design - Principles of Visual Design - 12. What is Good Design?
+  - VCS - Design - Principles of Visual Design - 13. Design on the Web
+  - VCS - Design - Principles of Visual Design - 14. Layout and Composition
+  - VCS - Design - Principles of Visual Design - 15. Building a Visual Hierarchy
+  - VCS - Design - Principles of Visual Design - 16. Fonts and Typography
+  - FCC - Intermediate FE Proj - 2. Show the Local Weather
+  - VCS - Design - Principles of Visual Design - 17. Demo: A Sample Design Teardown
+  - VCS - Design - Principles of Visual Design - 18. Your Own Design Teardowns
+  - VCS - Design - Principles of Visual Design - 19. Designing with Grid Systems
+  - VCS - Design - Principles of Visual Design - 20. Understanding Colour
+  - FCC - Intermediate FE Proj - 3. Build a Wikipedia Viewer
+  - VCS - Design - Creating and Using Mockups 21. What are Mockups?
+  - VCS - Design - Creating and Using Mockups 22. Using Balsamiq for Mockups
+  - VCS - Design - Creating and Using Mockups 23. Demo: Mocking Up the Viking Blogger
+  - VCS - Design - Project - 24. Tearing Down and Mocking Up Facebook
+  - FCC - Intermediate FE Proj - 4. Use the Twitch.tv JSON API
+  - VCS - Design - Conclusion - 25. Review of Concepts
+  - VCS - Design - Conclusion - 26. Test Yourself
+  - VCS - Design - Conclusion - 27. Where to go from Here
   - TP  - JavaScript - 1.1 Introduction
   - TP  - JavaScript - 1.2 Setup
   - TP  - JavaScript - 1.3 Comments, Consoles and Alerts
   - TP  - JavaScript - 1.4 Section 1 Summary
+  - FCC - Intermediate Algoritms - Sum of All Numbers in a Range
+  - FCC - Intermediate Algoritms - Diff Two Arrays
+  - FCC - Intermediate Algoritms - Roman Numeral Converter
+  - FCC - Intermediate Algoritms - Where art thou
+  - FCC - Intermediate Algoritms - Search and Replace
+  - FCC - Intermediate Algoritms - Pig Latin
+  - FCC - Intermediate Algoritms - DNA Pairing
+  - FCC - Intermediate Algoritms - Missing Letters
+  - FCC - Intermediate Algoritms - Boo Who
+  - FCC - Intermediate Algoritms - Sorted Union
   - TP  - JavaScript - 2.1 Variables
   - TP  - JavaScript - 2.2 Data Types
   - TP  - JavaScript - 2.3 Basic Operators
@@ -749,13 +791,29 @@ Order of Study:
   - TP  - JavaScript - 2.8 Scope
   - TP  - JavaScript - 2.9 this
   - TP  - JavaScript - 2.10 JavaScript Keywords
-  - TP  - JavaScript - 2.11 Section 2 Summary 
+  - TP  - JavaScript - 2.11 Section 2 Summary
+  - FCC - Intermediate Algoritms - Convert HTML Entities
+  - FCC - Intermediate Algoritms - Spinal Tap Case
+  - FCC - Intermediate Algoritms - Sum All Odd Fibonacci Numbers
+  - FCC - Intermediate Algoritms - Sum All Primes
+  - FCC - Intermediate Algoritms - Smallest Common Multiple
+  - FCC - Intermediate Algoritms - Finders Keepers
+  - FCC - Intermediate Algoritms - Drop It
+  - FCC - Intermediate Algoritms - Steamroller
+  - FCC - Intermediate Algoritms - Binary Agents
+  - FCC - Intermediate Algoritms - Everything Be True
+  - FCC - Intermediate Algoritms - Arguments Optional
   - TP  - JavaScript - 3.1 Conditionals
   - TP  - JavaScript - 3.2 switch
   - TP  - JavaScript - 3.3 for Loops
   - TP  - JavaScript - 3.4 while Loops
   - TP  - JavaScript - 3.5 Timers
   - TP  - JavaScript - 3.6 Section 3 Summary
+  - EJ  - Chapter 4: Data Structures: Objects and Arrays 
+                    (p61-85)
+  - FCC - Advanced Algoritms - Validate US Telephone Numbers
+  - FCC - Advanced Algoritms - Symmetric Difference
+  - FCC - Advanced Algoritms - Exact Change
   - TP  - JavaScript - 4.1 Working With Strings
   - TP  - JavaScript - 4.2 Working With Arrays
   - TP  - JavaScript - 4.3 Iterating Arrays
@@ -764,17 +822,27 @@ Order of Study:
   - TP  - JavaScript - 4.6 Working With Dates and Times
   - TP  - JavaScript - 4.7 Working With the Math Object
   - TP  - JavaScript - 4.8 Section 4 Summary
+  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
+  - FCC - Advanced Algoritms - Inventory Update
+  - FCC - Advanced Algoritms - No repeats please
+  - FCC - Advanced Algoritms - Friendly Date Ranges
   - TP  - JavaScript - 5.1 Selecting HTML Elements
   - TP  - JavaScript - 5.2 Manipulating HTML Elements
   - TP  - JavaScript - 5.3 DOM Traversal
   - TP  - JavaScript - 5.4 Adding and Removing Elements
   - TP  - JavaScript - 5.5 DOM Events
   - TP  - JavaScript - 5.6 Section 5 Summary
+  - FCC - Advanced Algoritms - Make a Person
+  - FCC - Advanced Algoritms - Map the Debris
+  - FCC - Advanced Algoritms - Pairwise
+  - EJ  - Chapter 6: The Secret Life of Objects
   - TP  - JavaScript - 6.1 Selector API
   - TP  - JavaScript - 6.2 Geolocation
   - TP  - JavaScript - 6.3 Web Storage
   - TP  - JavaScript - 6.4 The History API
   - TP  - JavaScript - 6.5 Section 6 Summary
+  - FCC - Advanced FE Proj - 2. ZL: Build a Pomodoro Clock
+  - EJ  - Chapter 7: Project: Electronic Life
   - TP  - JavaScript - 7.1 Working With the Object Constructor
   - TP  - JavaScript - 7.2 Custom Objects
   - TP  - JavaScript - 7.3 AJAX
@@ -788,18 +856,18 @@ Order of Study:
   - TP  - JavaScript - 7.11 Patterns in JavaScript 2: Pubsub
   - TP  - JavaScript - 7.12 Section 7 Summary
   - TP  - JavaScript - 8.1 Conclusion
+  - EJ  - Chapter 8: Bugs and Error Handling
+  - FCC - Advanced FE Proj - 3. ZL: Build a Tic Tac Toe Game
+  - EJ  - Chapter 9: Regular Expressions
+  - FCC - Advanced FE Proj - 4. ZL: Build a Simon Game
+  - EJ  - Chapter 10: Modules
+
   - CG  - Easy: 2. The Descent
   - CG  - Easy: 3. Skynet: the Chasm
   - CG  - Easy: 4. Temperatures
   - CG  - Easy: 5. Mars Lander - Level 1
   - CG  - Easy: 6. ASCII Art
   - CG  - Easy: 7. Chuck Norris  
-  - EJ  - Chapter 5: Higher-Order Functions (p86-104)
-  - EJ  - Chapter 6: The Secret Life of Objects
-  - EJ  - Chapter 7: Project: Electronic Life
-  - EJ  - Chapter 8: Bugs and Error Handling
-  - EJ  - Chapter 9: Regular Expressions
-  - EJ  - Chapter 10: Modules
   - EJ  - Chapter 11: Project: A Programming Language
   - EJ  - Chapter 12: JavaScript and the Browser
   - EJ  - Chapter 13: The Document Object Model
@@ -826,32 +894,17 @@ Order of Study:
   - CG  - Medium: 11. Conway Sequence
   - CG  - Medium: 12. Telephone Numbers
   - EJ  - Chapter 21: Project: Skill-Sharing Website
-
   - CG  - Medium: 13. Dwarfs standing on the shoulders of giants
   - CG  - Medium: 14. Bender, a depressed robot
   - CG  - Medium: 15. Scrabble
   - CG  - Medium: 16. The Gift
   - CG  - Medium: 17. Mayan Calculation
   - TOP - Project - JavaScript and jQuery
-  - EJ  - Chapter 4: Exercise 3 - A List
-  - EJ  - Chapter 4: Exercise 4 - Deep Comparison
-  - EJ  - Chapter 5: Exercise 2 - Mother-Child Age Difference
-  - EJ  - Chapter 5: Exercise 3 - Historical Life Expectancy
-  - EJ  - Chapter 5: Exercise 4 - Every and Then Some
-  - VCS - Design - 6. What is User Experience?
-  - VCS - Design - 7. Components of Good UX
-  - VCS - Design - 8. Our Approach to UX
-  - VCS - Design - 9. Demo: A UX Teardown
-  - VCS - Design - 10. Your Own UX Teardown
-  - VCS - Design - 11. Demo: Designing the Viking Blogger UX
+
   - TOP - The Back End (Ruby stuff, all 5 things)
-  - VCS - Design - Principles of Visual Design - 12-16
   - TOP - Web Development Framework (Step 1 - 3 plus Project)
-  - VCS - Design - Principles of Visual Design - 17-20
   - TOP - Additional Important Topics (Step 2 - 4)
-  - VCS - Design - Creating and Using Mockups 21-23
   - TOP - Tying it All Together (Step 1 - 3)
-  - VCS - Design - Project + Conclusion 25-27
   - TOP - Ruby - Basic Ruby (Step 1, 2 + Project)
   - CA  - Ruby - Introduction to Ruby
   - Learn - Intro To Ruby - Introduction
