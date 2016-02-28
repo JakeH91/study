@@ -741,7 +741,8 @@ Order of Study:
   - VCS - Design - 9. Demo: A UX Teardown
   - VCS - Design - 10. Your Own UX Teardown
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
-  - FCC - JSON APIs and Ajax - Trigger Click Events with jQuery 
+  28/02/16  - FCC - JSON APIs and Ajax - Trigger Click Events with 
+                                          jQuery 
   - FCC - JSON APIs and Ajax - Change Text with Click Events 
   - FCC - JSON APIs and Ajax - Get JSON with the jQuery getJSON Method 
   - FCC - JSON APIs and Ajax - Convert JSON Data to HTML 
