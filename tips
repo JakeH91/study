@@ -1,0 +1,4 @@
+Random Bits of Useful Code:
+
+Vertically align an element with CSS:
+    .element { position: relative; top: 50%; transform: translateY(-50%); }

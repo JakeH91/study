@@ -734,7 +734,7 @@ Order of Study:
                                           Calculator
   09/02/16  - CA  - Make An Interactive Website: Unit 4
   09/02/16  - CA  - Make An Interactive Website: Unit 5
-  - FCC - Basic FE Proj - 2. ZL: Build a Tribute Page
+  25/02/16  - FCC - Basic FE Proj - 2. ZL: Build a Tribute Page
   - VCS - Design - 6. What is User Experience?
   - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
