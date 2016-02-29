@@ -750,7 +750,7 @@ Order of Study:
   29/02/16  - FCC - JSON APIs and Ajax - Convert JSON Data to HTML 
   29/02/16  - FCC - JSON APIs and Ajax - Render Images from Data 
                                           Sources 
-  - FCC - JSON APIs and Ajax - Prefilter JSON 
+  29/02/16  - FCC - JSON APIs and Ajax - Prefilter JSON 
   - FCC - JSON APIs and Ajax -  Geo-location Data
   - VCS - Design - Principles of Visual Design - 12. What is Good Design?
   - VCS - Design - Principles of Visual Design - 13. Design on the Web
