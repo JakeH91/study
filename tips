@@ -1,4 +1,35 @@
 Random Bits of Useful Code:
 
-Vertically align an element with CSS:
-    .element { position: relative; top: 50%; transform: translateY(-50%); }
+  Vertically align an element with CSS:
+      .element { position: relative; top: 50%; transform: translateY(-50%); }
+
+
+
+
+Fonts:
+  
+  Ubuntu (Plenty of weights. A bit more distinctive than necessary for some apps— perfect for others):
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+
+  Open Sans (An easy-to-read, popular font. Good for body copy):
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+
+  Montserrat (Only two weights, but good enough to make the cut. Definitely the best free alternative to Gotham and Proxima Nova, but nowhere near as good as those two):
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+  Raleway (Good for headlines; perhaps a bit much for body copy (those w’s!). Has a really sweet ultralight weight):\
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,900italic,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900' rel='stylesheet' type='text/css'>
+
+  Cabin:
+    <link href='https://fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600,600italic,700italic,700' rel='stylesheet' type='text/css'>
+
+  Lato:
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+  PT Sans:
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700italic,700' rel='stylesheet' type='text/css'>
+
+
+Icons:
+  Entypo: Entypo pictograms by Daniel Bruce — www.entypo.com
+  Flaticon: Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY

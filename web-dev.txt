@@ -735,12 +735,6 @@ Order of Study:
   09/02/16  - CA  - Make An Interactive Website: Unit 4
   09/02/16  - CA  - Make An Interactive Website: Unit 5
   25/02/16  - FCC - Basic FE Proj - 2. ZL: Build a Tribute Page
-  - VCS - Design - 6. What is User Experience?
-  - VCS - Design - 7. Components of Good UX
-  - VCS - Design - 8. Our Approach to UX
-  - VCS - Design - 9. Demo: A UX Teardown
-  - VCS - Design - 10. Your Own UX Teardown
-  - VCS - Design - 11. Demo: Designing the Viking Blogger UX
   28/02/16  - FCC - JSON APIs and Ajax - Trigger Click Events with 
                                           jQuery 
   29/02/16  - FCC - JSON APIs and Ajax - Change Text with Click 
@@ -752,6 +746,12 @@ Order of Study:
                                           Sources 
   29/02/16  - FCC - JSON APIs and Ajax - Prefilter JSON 
   29/02/16  - FCC - JSON APIs and Ajax -  Geo-location Data
+  29/02/16  - VCS - Design - 6. What is User Experience?
+  - VCS - Design - 7. Components of Good UX
+  - VCS - Design - 8. Our Approach to UX
+  - VCS - Design - 9. Demo: A UX Teardown
+  - VCS - Design - 10. Your Own UX Teardown
+  - VCS - Design - 11. Demo: Designing the Viking Blogger UX
   - VCS - Design - Principles of Visual Design - 12. What is Good Design?
   - VCS - Design - Principles of Visual Design - 13. Design on the Web
   - VCS - Design - Principles of Visual Design - 14. Layout and Composition
