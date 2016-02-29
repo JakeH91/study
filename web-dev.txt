@@ -743,7 +743,8 @@ Order of Study:
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
   28/02/16  - FCC - JSON APIs and Ajax - Trigger Click Events with 
                                           jQuery 
-  - FCC - JSON APIs and Ajax - Change Text with Click Events 
+  29/02/16  - FCC - JSON APIs and Ajax - Change Text with Click 
+                                          Events 
   - FCC - JSON APIs and Ajax - Get JSON with the jQuery getJSON Method 
   - FCC - JSON APIs and Ajax - Convert JSON Data to HTML 
   - FCC - JSON APIs and Ajax - Render Images from Data Sources 
