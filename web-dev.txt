@@ -758,12 +758,12 @@ Order of Study:
   01/03/16  - CS  - JavaScript - 1.4 The Modulus Operator
   01/03/16  - CS  - JavaScript - 1.5 A Boolean Expression
   01/03/16  - CS  - JavaScript - 1.6 Another Boolean Expression
-  - CS  - JavaScript - 1.7 Strings on Signs
-  - CS  - JavaScript - 1.8 Building Strings
-  - CS  - JavaScript - 1.9 Special Characters in Strings
-  - CS  - JavaScript - 1.10 Booleans with Strings
-  - CS  - JavaScript - 1.11 Concatenating a Mystery String
-  - CS  - JavaScript - 1.12 Accessing a String
+  01/03/16  - CS  - JavaScript - 1.7 Strings on Signs
+  01/03/16  - CS  - JavaScript - 1.8 Building Strings
+  01/03/16  - CS  - JavaScript - 1.9 Special Characters in Strings
+  01/03/16  - CS  - JavaScript - 1.10 Booleans with Strings
+  01/03/16  - CS  - JavaScript - 1.11 Concatenating a Mystery String
+  01/03/16  - CS  - JavaScript - 1.12 Accessing a String
   - VCS - Design - Principles of Visual Design - 12. What is Good Design?
   - VCS - Design - Principles of Visual Design - 13. Design on the Web
   - VCS - Design - Principles of Visual Design - 14. Layout and Composition
