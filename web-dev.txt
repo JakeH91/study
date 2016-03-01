@@ -775,6 +775,14 @@ Order of Study:
   01/03/16  - CS  - JavaScript RT1 - 2.12 Train Capacity
   01/03/16  - CS  - JavaScript RT1 - 2.13 Sum
   01/03/16  - CS  - JavaScript RT1 - 2.14 String Concatenation
+  01/03/16  - CS  - JavaScript RT1 - 3.1 Script Tags
+  01/03/16  - CS  - JavaScript RT1 - 3.2 The Script Tag in HTML
+  01/03/16  - CS  - JavaScript RT1 - 3.3 Using File Paths to Reach a 
+                                          Source File
+  - CS  - JavaScript RT1 - 3.4 Down to the Files
+  - CS  - JavaScript RT1 - 3.5 Building Variables in Files
+  - CS  - JavaScript RT1 - 3.6 Printing to the Console
+  - CS  - JavaScript RT1 - 3.7 Separating Printout Statements
   - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
   - VCS - Design - 9. Demo: A UX Teardown
