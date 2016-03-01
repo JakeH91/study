@@ -747,23 +747,40 @@ Order of Study:
   29/02/16  - FCC - JSON APIs and Ajax - Prefilter JSON 
   29/02/16  - FCC - JSON APIs and Ajax -  Geo-location Data
   29/02/16  - VCS - Design - 6. What is User Experience?
+  01/03/16  - CS  - JavaScript RT1 - 1.1 Booleans, The True Path
+  01/03/16  - CS  - JavaScript RT1 - 1.2 Basic Operations
+  01/03/16  - CS  - JavaScript RT1 - 1.3 Building Expressions
+  01/03/16  - CS  - JavaScript RT1 - 1.4 The Modulus Operator
+  01/03/16  - CS  - JavaScript RT1 - 1.5 A Boolean Expression
+  01/03/16  - CS  - JavaScript RT1 - 1.6 Another Boolean Expression
+  01/03/16  - CS  - JavaScript RT1 - 1.7 Strings on Signs
+  01/03/16  - CS  - JavaScript RT1 - 1.8 Building Strings
+  01/03/16  - CS  - JavaScript RT1 - 1.9 Special Characters in 
+                                          Strings
+  01/03/16  - CS  - JavaScript RT1 - 1.10 Booleans with Strings
+  01/03/16  - CS  - JavaScript RT1 - 1.11 Concatenating a Mystery 
+                                          String
+  01/03/16  - CS  - JavaScript RT1 - 1.12 Accessing a String
+  01/03/16  - CS  - JavaScript RT1 - 2.1 Variable Discovery
+  01/03/16  - CS  - JavaScript RT1 - 2.2 Variable I
+  01/03/16  - CS  - JavaScript RT1 - 2.3 Variable II
+  - CS  - JavaScript RT1 - 2.4 Variable Exploration
+  - CS  - JavaScript RT1 - 2.5 Variable III
+  - CS  - JavaScript RT1 - 2.6 Variable IV
+  - CS  - JavaScript RT1 - 2.7 Variable Concatenation
+  - CS  - JavaScript RT1 - 2.8 Complex Variable
+  - CS  - JavaScript RT1 - 2.9 Length
+  - CS  - JavaScript RT1 - 2.10 Train Passengers
+  - CS  - JavaScript RT1 - 2.11 Train Passengers
+  - CS  - JavaScript RT1 - 2.12 Train Capacity
+  - CS  - JavaScript RT1 - 2.13 Sum
+  - CS  - JavaScript RT1 - 2.14 String Concatenation
   - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
   - VCS - Design - 9. Demo: A UX Teardown
   - VCS - Design - 10. Your Own UX Teardown
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
-  01/03/16  - CS  - JavaScript - 1.1 Booleans, The True Path
-  01/03/16  - CS  - JavaScript - 1.2 Basic Operations
-  01/03/16  - CS  - JavaScript - 1.3 Building Expressions
-  01/03/16  - CS  - JavaScript - 1.4 The Modulus Operator
-  01/03/16  - CS  - JavaScript - 1.5 A Boolean Expression
-  01/03/16  - CS  - JavaScript - 1.6 Another Boolean Expression
-  01/03/16  - CS  - JavaScript - 1.7 Strings on Signs
-  01/03/16  - CS  - JavaScript - 1.8 Building Strings
-  01/03/16  - CS  - JavaScript - 1.9 Special Characters in Strings
-  01/03/16  - CS  - JavaScript - 1.10 Booleans with Strings
-  01/03/16  - CS  - JavaScript - 1.11 Concatenating a Mystery String
-  01/03/16  - CS  - JavaScript - 1.12 Accessing a String
+  
   - VCS - Design - Principles of Visual Design - 12. What is Good Design?
   - VCS - Design - Principles of Visual Design - 13. Design on the Web
   - VCS - Design - Principles of Visual Design - 14. Layout and Composition
