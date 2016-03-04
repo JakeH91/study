@@ -795,12 +795,16 @@ Order of Study:
                                           Loop II
   04/03/16  - CS  - JavaScript RT2 - 1.7 These Dam Loops!
 
-  - CS  - JavaScript RT3 - 1.1 Function Expressions
-  - CS  - JavaScript RT3 - 1.2 Changing Declarations to Expressions
-  - CS  - JavaScript RT3 - 1.3 Using Function Expressions with Parameters
-  - CS  - JavaScript RT3 - 1.4 Displaying Function Contents
-  - CS  - JavaScript RT3 - 1.5 Functions as Parameters, Arguments and Return Values
-  - CS  - JavaScript RT3 - 1.6 Passing Function Expressions As Parameters
+  04/03/16  - CS  - JavaScript RT3 - 1.1 Function Expressions
+  04/03/16  - CS  - JavaScript RT3 - 1.2 Changing Declarations to 
+                                          Expressions
+  04/03/16  - CS  - JavaScript RT3 - 1.3 Using Function Expressions 
+                                          with Parameters
+  04/03/16  - CS  - JavaScript RT3 - 1.4 Displaying Function Contents
+  04/03/16  - CS  - JavaScript RT3 - 1.5 Functions as Parameters, 
+                                          Arguments and Return Values
+  - CS  - JavaScript RT3 - 1.6 Passing Function 
+                                          Expressions As Parameters
   - CS  - JavaScript RT3 - 1.7 Using Map With Arrays
   - CS  - JavaScript RT3 - 1.8 Using Map With Arrays II
   - CS  - JavaScript RT3 - 1.9 Expressions Inside Arrays
