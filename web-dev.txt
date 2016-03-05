@@ -801,9 +801,11 @@ Order of Study:
   05/03/16  - CS  - JavaScript RT2 - 2.4 A Loopy Problem
   05/03/16  - CS  - JavaScript RT2 - 2.5 Problem Solving with 
                                           Conditionals
-  - CS  - JavaScript RT2 - 2.6 Loop Echo
-  - CS  - JavaScript RT2 - 2.7 Too Many Sheep! (or, the else if statement)
-  - CS  - JavaScript RT2 - 2.8 Some Dam Complex Conditionals!
+  05/03/16  - CS  - JavaScript RT2 - 2.6 Loop Echo
+  05/03/16  - CS  - JavaScript RT2 - 2.7 Too Many Sheep! (or, the 
+                                          else if statement)
+  05/03/16  - CS  - JavaScript RT2 - 2.8 Some Dam Complex 
+                                          Conditionals!
 
 
   04/03/16  - CS  - JavaScript RT3 - 1.1 Function Expressions
