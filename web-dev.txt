@@ -832,7 +832,16 @@ Order of Study:
                                           Functions I
   05/03/16  - CS  - JavaScript RT2 - 4.8 Problem Solving with 
                                           Functions II
-  
+  05/03/16  - CS  - JavaScript RT2 - 5.1 Array Ho!
+  05/03/16  - CS  - JavaScript RT2 - 5.2 Adjusting Array Contents I
+  05/03/16  - CS  - JavaScript RT2 - 5.3 Array Functions I
+  05/03/16  - CS  - JavaScript RT2 - 5.4 Building Arrays
+  05/03/16  - CS  - JavaScript RT2 - 5.5 Array Functions II
+  05/03/16  - CS  - JavaScript RT2 - 5.6 2D Arrays I
+  05/03/16  - CS  - JavaScript RT2 - 5.7 2D Arrays II
+  - CS  - JavaScript RT2 - 5.8 Searching Arrays
+  - CS  - JavaScript RT2 - 5.9 Iteration over Array Contents
+
   - CS  - JavaScript RT3 - 1.6 Passing Function 
                                           Expressions As Parameters
   - CS  - JavaScript RT3 - 1.7 Using Map With Arrays
