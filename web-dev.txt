@@ -819,7 +819,16 @@ Order of Study:
   05/03/16  - CS  - JavaScript RT2 - 3.3 Pop-Up Windows II
   05/03/16  - CS  - JavaScript RT2 - 3.4 Pop-Up Windows III
   05/03/16  - CS  - JavaScript RT2 - 3.5 An Entry Confirmation Loop
-
+  05/03/16  - CS  - JavaScript RT2 - 4.1 Intro to Functions
+  05/03/16  - CS  - JavaScript RT2 - 4.2 A Basic Multiplication 
+                                          Function
+  05/03/16  - CS  - JavaScript RT2 - 4.3 Calling Functions
+  05/03/16  - CS  - JavaScript RT2 - 4.4 More Declarations
+  05/03/16  - CS  - JavaScript RT2 - 4.5 Refactoring for Efficiency 
+                                          and Legibility
+  - CS  - JavaScript RT2 - 4.6 Problem Solving with Functions
+  - CS  - JavaScript RT2 - 4.7 Problem Solving with Functions I
+  - CS  - JavaScript RT2 - 4.8 Problem Solving with Functions II
   
   - CS  - JavaScript RT3 - 1.6 Passing Function 
                                           Expressions As Parameters
