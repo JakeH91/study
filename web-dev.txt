@@ -798,8 +798,9 @@ Order of Study:
   05/03/16  - CS  - JavaScript RT2 - 2.2 A Basic Conditional
   05/03/16  - CS  - JavaScript RT2 - 2.3 Using Boolean Flags in 
                                           Conditionals
-  - CS  - JavaScript RT2 - 2.4 A Loopy Problem
-  - CS  - JavaScript RT2 - 2.5 Problem Solving with Conditionals
+  05/03/16  - CS  - JavaScript RT2 - 2.4 A Loopy Problem
+  05/03/16  - CS  - JavaScript RT2 - 2.5 Problem Solving with 
+                                          Conditionals
   - CS  - JavaScript RT2 - 2.6 Loop Echo
   - CS  - JavaScript RT2 - 2.7 Too Many Sheep! (or, the else if statement)
   - CS  - JavaScript RT2 - 2.8 Some Dam Complex Conditionals!
