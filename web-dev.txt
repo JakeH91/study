@@ -843,11 +843,11 @@ Order of Study:
   05/03/16  - CS  - JavaScript RT2 - 5.9 Iteration over Array 
                                           Contents
 
-  - CS  - JavaScript RT3 - 1.6 Passing Function 
+  06/03/16  - CS  - JavaScript RT3 - 1.6 Passing Function 
                                           Expressions As Parameters
-  - CS  - JavaScript RT3 - 1.7 Using Map With Arrays
-  - CS  - JavaScript RT3 - 1.8 Using Map With Arrays II
-  - CS  - JavaScript RT3 - 1.9 Expressions Inside Arrays
+  06/03/16  - CS  - JavaScript RT3 - 1.7 Using Map With Arrays
+  06/03/16  - CS  - JavaScript RT3 - 1.8 Using Map With Arrays II
+  06/03/16  - CS  - JavaScript RT3 - 1.9 Expressions Inside Arrays
   - CS  - JavaScript RT3 - 1.10 Returning Functions and Immediate Invocation
   - CS  - JavaScript RT3 - 1.11 Choose Their Own Adventure
   - CS  - JavaScript RT3 - 1.12 Immediately-Invoked Adventure!
