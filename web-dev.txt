@@ -848,11 +848,16 @@ Order of Study:
   06/03/16  - CS  - JavaScript RT3 - 1.7 Using Map With Arrays
   06/03/16  - CS  - JavaScript RT3 - 1.8 Using Map With Arrays II
   06/03/16  - CS  - JavaScript RT3 - 1.9 Expressions Inside Arrays
-  - CS  - JavaScript RT3 - 1.10 Returning Functions and Immediate Invocation
-  - CS  - JavaScript RT3 - 1.11 Choose Their Own Adventure
-  - CS  - JavaScript RT3 - 1.12 Immediately-Invoked Adventure!
-  - CS  - JavaScript RT3 - 1.13 Queue Builder
-  - CS  - JavaScript RT3 - 1.14 Immediately-Invoked Puzzler
+
+  WHOOPS, PRETTY LONG BREAK. EASTER HOLIDAYS AND ALL THAT, BUT REALLY I'VE JUST BEEN SLACK. ALSO STARTED A SOFTWARE ENGINEERING BOOK, BUT I DON'T THINK THAT COUNTS TOWARDS MY WEB DEVELOPMENT STUDIES SO I HAVEN'T INCLUDED IT HERE.
+
+  18/04/16  - CS  - JavaScript RT3 - 1.10 Returning Functions and 
+                                            Immediate Invocation
+  18/04/16  - CS  - JavaScript RT3 - 1.11 Choose Their Own Adventure
+  18/04/16  - CS  - JavaScript RT3 - 1.12 Immediately-Invoked 
+                                            Adventure!
+  18/04/16  - CS  - JavaScript RT3 - 1.13 Queue Builder
+  18/04/16  - CS  - JavaScript RT3 - 1.14 Immediately-Invoked Puzzler
 
 
   - VCS - Design - 7. Components of Good UX
