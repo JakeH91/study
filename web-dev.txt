@@ -858,7 +858,7 @@ Order of Study:
                                             Adventure!
   18/04/16  - CS  - JavaScript RT3 - 1.13 Queue Builder
   18/04/16  - CS  - JavaScript RT3 - 1.14 Immediately-Invoked Puzzler
-
+  19/04/16  - FCC - Intermediate FE Proj - 2. Show the Local Weather
 
   - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
@@ -871,7 +871,7 @@ Order of Study:
   - VCS - Design - Principles of Visual Design - 14. Layout and Composition
   - VCS - Design - Principles of Visual Design - 15. Building a Visual Hierarchy
   - VCS - Design - Principles of Visual Design - 16. Fonts and Typography
-  - FCC - Intermediate FE Proj - 2. Show the Local Weather
+
   - VCS - Design - Principles of Visual Design - 17. Demo: A Sample Design Teardown
   - VCS - Design - Principles of Visual Design - 18. Your Own Design Teardowns
   - VCS - Design - Principles of Visual Design - 19. Designing with Grid Systems
