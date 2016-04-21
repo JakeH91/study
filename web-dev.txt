@@ -859,8 +859,7 @@ Order of Study:
   18/04/16  - CS  - JavaScript RT3 - 1.13 Queue Builder
   18/04/16  - CS  - JavaScript RT3 - 1.14 Immediately-Invoked Puzzler
   19/04/16  - FCC - Intermediate FE Proj - 2. Show the Local Weather
-
-  - VCS - Design - 7. Components of Good UX
+  21/04/16  - VCS - Design - 7. Components of Good UX
   - VCS - Design - 8. Our Approach to UX
   - VCS - Design - 9. Demo: A UX Teardown
   - VCS - Design - 10. Your Own UX Teardown
