@@ -861,6 +861,18 @@ Order of Study:
   19/04/16  - FCC - Intermediate FE Proj - 2. Show the Local Weather
   21/04/16  - VCS - Design - 7. Components of Good UX
   27/04/16  - VCS - Design - 8. Our Approach to UX
+  30/04/16  - CS  - Powering Up With React - 1.1 First Component
+  30/04/16  - CS  - PUW React - 1.2 Breaking Down Problems
+  30/04/16  - CS  - PUW React - 1.3 Identifying Components
+  30/04/16  - CS  - PUW React - 1.4 The Rendering Process
+  30/04/16  - CS  - PUW React - 1.5 Creating a Component
+  30/04/16  - CS  - PUW React - 1.6 Rendering a Component
+  30/04/16  - CS  - PUW React - 1.7 Understanding JSX
+  30/04/16  - CS  - PUW React - 1.8 The Markup Used by React
+  30/04/16  - CS  - PUW React - 1.9 Coding JSX
+  30/04/16  - CS  - PUW React - 1.10 JSX and Plain JavaScript
+  30/04/16  - CS  - PUW React - 1.11 JSX and Collections
+
   - VCS - Design - 9. Demo: A UX Teardown
   - VCS - Design - 10. Your Own UX Teardown
   - VCS - Design - 11. Demo: Designing the Viking Blogger UX
