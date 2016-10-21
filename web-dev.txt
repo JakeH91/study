@@ -873,10 +873,12 @@ Order of Study:
   30/04/16  - CS  - PUW React - 1.10 JSX and Plain JavaScript
   30/04/16  - CS  - PUW React - 1.11 JSX and Collections
 
-  - VCS - Design - 9. Demo: A UX Teardown
-  - VCS - Design - 10. Your Own UX Teardown
-  - VCS - Design - 11. Demo: Designing the Viking Blogger UX
-  
+  16/10/16  - VCS - Design - 9. Demo: A UX Teardown
+  16/10/16  - VCS - Design - 10. Your Own UX Teardown
+  16/10/16  - VCS - Design - 11. Demo: Designing the Viking Blogger UX
+  19/10/16  - TOP - The Basics - 2, 3 and 5
+  20/10/16  - TOP - Git Basics - 1 and 2
+  21/10/16  - TOP - Git Basics - 3
   - VCS - Design - Principles of Visual Design - 12. What is Good Design?
   - VCS - Design - Principles of Visual Design - 13. Design on the Web
   - VCS - Design - Principles of Visual Design - 14. Layout and Composition
